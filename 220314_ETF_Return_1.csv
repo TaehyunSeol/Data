@@ -1,0 +1,6805 @@
+Class,Return,Leverage
+Equity,1612.5,Long
+Equity,715.6,Long
+Equity,691.2,Long
+Equity,652.5,Long
+Equity,605.5,Long
+Equity,580.7,Long
+Equity,505,Long
+Equity,483,Long
+Equity,464.5,Long
+Commodities,452.7,Long
+Equity,449.9,Long
+Equity,444,Long
+Equity,442.6,Long
+Equity,440.8,Long
+Equity,405.6,Long
+Equity,376.4,Long
+Equity,374.6,Long
+Equity,366.6,Long
+Equity,336.3,Long
+Equity,330.6,Long
+Equity,325.8,Long
+Commodities,325.4,Long
+Equity,320.6,Long
+Equity,319.8,Long
+Equity,290.6,Long
+Equity,286.9,Long
+Equity,283.1,Long
+Equity,280.2,Long
+Equity,273.4,Long
+Equity,263.7,Long
+Equity,261.3,Long
+Equity,257.9,Long
+Equity,255.5,Long
+Equity,250.1,Long
+Equity,243.6,Long
+Equity,240.3,Long
+Equity,236.5,Long
+Equity,232.8,Long
+Equity,232.2,Long
+Equity,227,Long
+Equity,226.1,Long
+Equity,224.3,Long
+Equity,213.2,Long
+Equity,207.2,Long
+Equity,206.9,Long
+Equity,204.8,Long
+Equity,201.3,Long
+Equity,192.1,Long
+Equity,190.4,Long
+Equity,189.6,Long
+Equity,176.6,Long
+Equity,176.2,Long
+Equity,170.1,Long
+Commodities,169.5,Long
+Equity,167.3,Long
+Equity,163.5,Long
+Equity,161.6,Long
+Equity,161.2,Long
+Equity,160.1,Long
+Equity,160,Long
+Equity,149.7,Long
+Equity,144.3,Long
+Equity,142.7,Long
+Equity,138.8,Long
+Commodities,137.7,Long
+Equity,131.6,Long
+Equity,130.1,Long
+Fixed Income,125.7,Long
+Equity,123.3,Long
+Equity,122,Long
+Equity,121.3,Long
+Equity,118.9,Long
+Equity,112.5,Long
+Equity,112.1,Long
+Equity,110.6,Long
+Equity,108.6,Long
+Equity,107.5,Long
+Commodities,101.3,Long
+Commodities,101,Long
+Equity,99.1,Long
+Commodities,96,Long
+Equity,93.5,Long
+Equity,89.6,Long
+Equity,88.5,Long
+Equity,88,Long
+Equity,82,Long
+Fixed Income,80.8,Long
+Equity,80.3,Long
+Equity,79.9,Long
+Equity,79.4,Long
+Equity,75.4,Long
+Equity,71.6,Long
+Equity,69.8,Long
+Commodities,68.7,Long
+Equity,66.8,Long
+Equity,66.1,Long
+Equity,64.3,Long
+Equity,61.8,Long
+Equity,61.7,Long
+Alternatives,60.1,Long
+Equity,57.7,Long
+Equity,56.4,Long
+Commodities,52.9,Long
+Equity,52.2,Long
+Fixed Income,49.9,Long
+Equity,45.6,Long
+Equity,43.8,Long
+Alternatives,43.5,Long
+Equity,42.3,Long
+Equity,41.7,Long
+Equity,41.7,Long
+Equity,40.9,Long
+Equity,40.6,Long
+Equity,39.3,Long
+Equity,38.8,Long
+Alternatives,38.6,Long
+Fixed Income,38.6,Long
+Equity,38.3,Long
+Equity,37.3,Long
+Equity,37.2,Long
+Equity,36.4,Long
+Equity,36.4,Long
+Equity,35.2,Long
+Equity,34.3,Long
+Equity,33.8,Long
+Equity,33.8,Long
+Equity,33.7,Long
+Equity,33.6,Long
+Equity,33,Long
+Fixed Income,33,Long
+Equity,32.2,Long
+Equity,29.4,Long
+Commodities,29.1,Long
+Equity,27.1,Long
+Equity,26.2,Long
+Equity,24.6,Long
+Commodities,23.6,Long
+Equity,23.5,Long
+Commodities,23.3,Long
+Equity,23.3,Long
+Equity,22,Long
+Equity,21.8,Long
+Equity,21.4,Long
+Equity,21,Long
+Equity,20.8,Long
+Equity,20.4,Long
+Equity,19.9,Long
+Equity,19.8,Long
+Equity,19.7,Long
+Equity,19.4,Long
+Equity,19.1,Long
+Equity,18.7,Long
+Equity,18.1,Long
+Equity,15.9,Long
+Fixed Income,15.8,Long
+Equity,15.2,Long
+Equity,14.6,Long
+Equity,13.3,Long
+Equity,12.8,Long
+Equity,12.6,Long
+Fixed Income,12,Long
+Equity,11.8,Long
+Equity,11.1,Long
+Equity,11,Long
+Commodities,10.9,Long
+Equity,10.9,Long
+Equity,10.6,Long
+Equity,10.5,Long
+Equity,10.3,Long
+Commodities,10.1,Long
+Equity,9.7,Long
+Equity,8.6,Long
+Equity,8.6,Long
+Equity,8.6,Long
+Commodities,8.5,Long
+Fixed Income,8.1,Long
+Equity,7.6,Long
+Fixed Income,7.4,Long
+Equity,7.3,Long
+Equity,6.7,Long
+Equity,5.6,Long
+Fixed Income,5.6,Long
+Equity,5.1,Long
+Equity,4.2,Long
+Commodities,3.7,Long
+Equity,2.3,Long
+Equity,2.2,Long
+Equity,1.8,Long
+Equity,-3.4,Long
+Equity,-3.7,Long
+Alternatives,-4,Long
+Alternatives,-4,Long
+Commodities,-6.9,Long
+Equity,-7.2,Long
+Equity,-7.6,Long
+Equity,-7.8,Long
+Commodities,-8.1,Long
+Equity,-9.6,Long
+Commodities,-9.9,Long
+Commodities,-10.4,Long
+Fixed Income,-13.2,Long
+Equity,-16.2,Long
+Equity,-16.2,Long
+Equity,-16.2,Long
+Equity,-16.6,Long
+Commodities,-17,Long
+Equity,-17.1,Long
+Fixed Income,-18.7,Long
+Equity,-23.9,Long
+Equity,-24.9,Long
+Equity,-26.2,Long
+Equity,-26.4,Long
+Fixed Income,-26.6,Long
+Equity,-28.2,Long
+Equity,-28.5,Long
+Equity,-30.1,Long
+Equity,-31.4,Long
+Equity,-31.4,Long
+Equity,-31.4,Long
+Equity,-32.8,Long
+Fixed Income,-32.8,Long
+Equity,-34.1,Long
+Commodities,-34.6,Long
+Equity,-37,Long
+Equity,-38.5,Long
+Alternatives,-40.2,Long
+Alternatives,-41.2,Long
+Equity,-43,Long
+Equity,-43.2,Long
+Equity,-43.9,Long
+Equity,-44.3,Long
+Equity,-45.9,Long
+Fixed Income,-47.7,Long
+Equity,-48.9,Long
+Commodities,-51.6,Long
+Commodities,-51.8,Long
+Equity,-52.4,Long
+Equity,-53.1,Long
+Equity,-54.3,Long
+Equity,-54.9,Long
+Equity,-55.4,Long
+Equity,-55.9,Long
+Equity,-56.7,Long
+Equity,-56.9,Long
+Equity,-57,Long
+Equity,-57.2,Long
+Equity,-57.9,Long
+Equity,-59,Long
+Equity,-59.9,Long
+Equity,-60.2,Long
+Equity,-62.1,Long
+Equity,-63.3,Long
+Equity,-65.3,Long
+Equity,-65.7,Long
+Equity,-65.7,Long
+Equity,-66.1,Long
+Equity,-67,Long
+Equity,-67,Long
+Equity,-67.2,Long
+Alternatives,-69.1,Long
+Equity,-70.3,Long
+Equity,-70.8,Long
+Equity,-70.9,Long
+Equity,-71.3,Long
+Equity,-71.4,Long
+Commodities,-72.2,Long
+Equity,-72.8,Long
+Equity,-72.9,Long
+Equity,-73,Long
+Equity,-73.9,Long
+Equity,-74,Long
+Equity,-74.2,Long
+Equity,-74.3,Long
+Equity,-74.6,Long
+Equity,-74.7,Long
+Equity,-74.9,Long
+Equity,-77.9,Long
+Equity,-80.2,Long
+Equity,-80.8,Long
+Equity,-80.9,Long
+Equity,-80.9,Long
+Equity,-82.1,Long
+Equity,-82.2,Long
+Equity,-83.3,Long
+Equity,-84,Long
+Equity,-84.3,Long
+Equity,-84.5,Long
+Equity,-85.2,Long
+Commodities,-85.8,Long
+Equity,-86.5,Long
+Equity,-88.9,Long
+Equity,-89.8,Long
+Equity,-91.1,Long
+Equity,-92.4,Long
+Equity,-93.2,Long
+Equity,-94.6,Long
+Equity,-95,Long
+Equity,-95.7,Long
+Equity,-96.5,Long
+Equity,-97.1,Long
+Commodities,-97.6,Long
+Alternatives,-98.1,Long
+Equity,-99.6,Long
+Equity,472.9,Short
+Commodities,239.2,Short
+Alternatives,232.2,Short
+Commodities,218.1,Short
+Equity,193.5,Short
+Equity,190.4,Short
+Equity,187.3,Short
+Equity,167.3,Short
+Equity,149.7,Short
+Equity,116.8,Short
+Equity,111.7,Short
+Equity,109.1,Short
+Commodities,108.6,Short
+Equity,104.1,Short
+Equity,103.6,Short
+Equity,93.2,Short
+Equity,82.5,Short
+Equity,80.1,Short
+Equity,78.9,Short
+Equity,75.4,Short
+Commodities,72,Short
+Equity,71.9,Short
+Equity,69.9,Short
+Equity,69.3,Short
+Equity,65.8,Short
+Commodities,65.4,Short
+Equity,63.8,Short
+Equity,63.1,Short
+Equity,60.6,Short
+Alternatives,59.2,Short
+Alternatives,58,Short
+Equity,57,Short
+Equity,55.8,Short
+Alternatives,55.5,Short
+Equity,54,Short
+Fixed Income,53.8,Short
+Equity,53.3,Short
+Fixed Income,52.9,Short
+Equity,51.2,Short
+Equity,50.6,Short
+Equity,50.3,Short
+Equity,49,Short
+Equity,46.8,Short
+Equity,45.3,Short
+Equity,44.9,Short
+Equity,44.4,Short
+Equity,43.3,Short
+Equity,36.6,Short
+Equity,35.7,Short
+Fixed Income,35.2,Short
+Equity,34.5,Short
+Alternatives,33.8,Short
+Equity,33.4,Short
+Equity,33.4,Short
+Equity,33.3,Short
+Commodities,33.2,Short
+Equity,32,Short
+Equity,30.2,Short
+Equity,30.1,Short
+Equity,29,Short
+Equity,28.4,Short
+Equity,27.7,Short
+Alternatives,26.1,Short
+Fixed Income,17,Short
+Fixed Income,16.8,Short
+Alternatives,16.3,Short
+Equity,16.1,Short
+Commodities,12.1,Short
+Equity,11.5,Short
+Fixed Income,11.5,Short
+Equity,9.9,Short
+Equity,9.2,Short
+Fixed Income,5.4,Short
+Fixed Income,5.1,Short
+Equity,4,Short
+Equity,4,Short
+Alternatives,3.8,Short
+Alternatives,3,Short
+Equity,2.9,Short
+Equity,2.8,Short
+Alternatives,2.7,Short
+Alternatives,1.8,Short
+Equity,-1.3,Short
+Alternatives,-1.4,Short
+Commodities,-2.7,Short
+Equity,-3.2,Short
+Equity,-3.2,Short
+Equity,-3.2,Short
+Fixed Income,-3.6,Short
+Equity,-3.9,Short
+Commodities,-6.1,Short
+Fixed Income,-7.3,Short
+Fixed Income,-7.9,Short
+Equity,-8.6,Short
+Equity,-8.7,Short
+Equity,-9,Short
+Fixed Income,-9.2,Short
+Equity,-9.4,Short
+Equity,-9.9,Short
+Equity,-10.2,Short
+Equity,-11.3,Short
+Equity,-11.5,Short
+Commodities,-12.1,Short
+Equity,-12.1,Short
+Commodities,-12.2,Short
+Equity,-12.7,Short
+Alternatives,-12.9,Short
+Equity,-12.9,Short
+Equity,-13.6,Short
+Equity,-13.6,Short
+Fixed Income,-14,Short
+Equity,-14.7,Short
+Equity,-14.9,Short
+Fixed Income,-14.9,Short
+Equity,-15.1,Short
+Fixed Income,-15.2,Short
+Fixed Income,-15.3,Short
+Equity,-16,Short
+Equity,-16.2,Short
+Equity,-16.3,Short
+Equity,-16.4,Short
+Equity,-16.9,Short
+Equity,-17.6,Short
+Commodities,-18,Short
+Equity,-18,Short
+Equity,-18.7,Short
+Equity,-18.9,Short
+Equity,-19.1,Short
+Equity,-19.4,Short
+Fixed Income,-19.6,Short
+Equity,-19.7,Short
+Alternatives,-20.6,Short
+Equity,-22.7,Short
+Fixed Income,-22.7,Short
+Equity,-23,Short
+Equity,-23.8,Short
+Equity,-24.1,Short
+Equity,-24.7,Short
+Equity,-25,Short
+Equity,-25.1,Short
+Equity,-25.7,Short
+Equity,-26.1,Short
+Equity,-26.8,Short
+Equity,-26.9,Short
+Equity,-27,Short
+Equity,-27.1,Short
+Equity,-27.8,Short
+Equity,-28.8,Short
+Equity,-28.9,Short
+Equity,-29.3,Short
+Fixed Income,-29.3,Short
+Equity,-29.5,Short
+Equity,-30.8,Short
+Fixed Income,-31.2,Short
+Equity,-31.5,Short
+Equity,-32.1,Short
+Equity,-33,Short
+Equity,-33.7,Short
+Equity,-33.9,Short
+Alternatives,-34.1,Short
+Commodities,-34.2,Short
+Alternatives,-34.5,Short
+Equity,-35.2,Short
+Equity,-37,Short
+Alternatives,-37.3,Short
+Equity,-37.8,Short
+Equity,-38.6,Short
+Equity,-38.9,Short
+Equity,-39.4,Short
+Equity,-40.5,Short
+Equity,-41.2,Short
+Fixed Income,-42,Short
+Equity,-42.1,Short
+Equity,-42.1,Short
+Equity,-42.9,Short
+Equity,-44.1,Short
+Equity,-44.6,Short
+Equity,-45.3,Short
+Equity,-46,Short
+Equity,-46.8,Short
+Equity,-47.3,Short
+Equity,-48.3,Short
+Equity,-50.3,Short
+Equity,-50.7,Short
+Equity,-51.9,Short
+Equity,-52.5,Short
+Equity,-53.7,Short
+Equity,-54,Short
+Fixed Income,-54.1,Short
+Equity,-54.3,Short
+Equity,-55.3,Short
+Equity,-56,Short
+Commodities,-57.7,Short
+Commodities,-58.5,Short
+Equity,-58.7,Short
+Equity,-59,Short
+Equity,-59.5,Short
+Equity,-60.4,Short
+Equity,-61.9,Short
+Equity,-63.4,Short
+Equity,-63.8,Short
+Equity,-64.6,Short
+Equity,-64.7,Short
+Equity,-65.3,Short
+Equity,-67.2,Short
+Equity,-67.8,Short
+Equity,-68.9,Short
+Equity,-69.3,Short
+Fixed Income,-70,Short
+Equity,-70.4,Short
+Equity,-70.5,Short
+Fixed Income,-71.4,Short
+Equity,-71.6,Short
+Equity,-71.9,Short
+Equity,-73.8,Short
+Equity,-76.7,Short
+Equity,-77.1,Short
+Equity,-77.8,Short
+Equity,-78.7,Short
+Equity,-78.9,Short
+Equity,-79.9,Short
+Equity,-80.2,Short
+Equity,-80.4,Short
+Equity,-81.1,Short
+Equity,-81.4,Short
+Equity,-81.9,Short
+Equity,-82.7,Short
+Equity,-84.4,Short
+Equity,-84.9,Short
+Equity,-85.1,Short
+Equity,-86.1,Short
+Commodities,-86.8,Short
+Commodities,-86.8,Short
+Equity,-87.1,Short
+Equity,-87.1,Short
+Equity,-87.6,Short
+Equity,-88.3,Short
+Equity,-89.1,Short
+Equity,-89.6,Short
+Equity,-89.8,Short
+Commodities,-90.3,Short
+Equity,-90.3,Short
+Equity,-90.5,Short
+Alternatives,-91.8,Short
+Equity,-92.8,Short
+Equity,-92.8,Short
+Equity,-92.9,Short
+Equity,-93,Short
+Equity,-93.6,Short
+Equity,-95,Short
+Equity,-95.2,Short
+Equity,-95.9,Short
+Equity,-96.1,Short
+Equity,-97.2,Short
+Equity,-97.7,Short
+Equity,-98.3,Short
+Equity,-98.5,Short
+Equity,-99.2,Short
+Commodities,445.5,normal
+Commodities,394.6,normal
+Commodities,344.1,normal
+Commodities,318.4,normal
+Commodities,299.3,normal
+Equity,267,normal
+Equity,263.7,normal
+Equity,263.3,normal
+Equity,242.1,normal
+Commodities,235.1,normal
+Equity,231.7,normal
+Commodities,231.3,normal
+Commodities,228.2,normal
+Equity,222.3,normal
+Equity,214.6,normal
+Equity,211.6,normal
+Equity,211.5,normal
+Commodities,211.4,normal
+Equity,209.4,normal
+Equity,208.7,normal
+Equity,205.8,normal
+Commodities,205,normal
+Equity,200.8,normal
+Equity,200.6,normal
+Commodities,200,normal
+Equity,199.6,normal
+Equity,199.2,normal
+Commodities,198.9,normal
+Equity,193.3,normal
+Equity,192.8,normal
+Commodities,191.7,normal
+Equity,190.7,normal
+Equity,188.1,normal
+Equity,186.7,normal
+Equity,185.5,normal
+Equity,181.7,normal
+Equity,179.6,normal
+Commodities,177.8,normal
+Equity,176.6,normal
+Equity,172.6,normal
+Equity,171.8,normal
+Equity,171.6,normal
+Equity,171.1,normal
+Equity,170.9,normal
+Equity,169.3,normal
+Equity,164,normal
+Equity,162.4,normal
+Equity,162.1,normal
+Equity,160.3,normal
+Commodities,160.2,normal
+Commodities,159.7,normal
+Equity,158.9,normal
+Commodities,156.7,normal
+Commodities,156.6,normal
+Equity,155.5,normal
+Equity,155.3,normal
+Equity,155,normal
+Commodities,154.9,normal
+Equity,154.5,normal
+Equity,154.3,normal
+Equity,154.3,normal
+Equity,153.1,normal
+Equity,153.1,normal
+Commodities,151.6,normal
+Commodities,151.4,normal
+Equity,150.6,normal
+Commodities,150,normal
+Equity,148.6,normal
+Equity,148.5,normal
+Equity,147.5,normal
+Equity,146.1,normal
+Equity,145.8,normal
+Commodities,144.1,normal
+Equity,143.8,normal
+Equity,142.6,normal
+Commodities,141.6,normal
+Equity,141.2,normal
+Commodities,140.6,normal
+Equity,140.6,normal
+Equity,140.4,normal
+Equity,140,normal
+Equity,138.7,normal
+Equity,138,normal
+Equity,137.7,normal
+Equity,137.7,normal
+Equity,137.4,normal
+Equity,136.2,normal
+Equity,136.1,normal
+Equity,135.9,normal
+Commodities,135.7,normal
+Equity,135.7,normal
+Equity,134.7,normal
+Equity,134.6,normal
+Equity,134.5,normal
+Equity,134.4,normal
+Equity,134.1,normal
+Commodities,133.6,normal
+Equity,133.6,normal
+Equity,132.9,normal
+Equity,132.2,normal
+Equity,132,normal
+Commodities,131.1,normal
+Equity,130.9,normal
+Equity,130.5,normal
+Equity,130.3,normal
+Equity,129.3,normal
+Equity,128.2,normal
+Equity,128.1,normal
+Equity,128,normal
+Commodities,127.7,normal
+Commodities,127.5,normal
+Equity,127,normal
+Equity,127,normal
+Commodities,126.3,normal
+Equity,126.3,normal
+Equity,126.2,normal
+Equity,126.2,normal
+Equity,126.1,normal
+Fixed Income,126,normal
+Equity,125.9,normal
+Equity,125.8,normal
+Equity,125.5,normal
+Equity,125.2,normal
+Commodities,125,normal
+Commodities,125,normal
+Equity,124.6,normal
+Equity,122.8,normal
+Equity,122.8,normal
+Equity,122.5,normal
+Equity,122.5,normal
+Equity,121.9,normal
+Equity,121.6,normal
+Equity,121,normal
+Equity,120.9,normal
+Equity,120.9,normal
+Equity,120.6,normal
+Equity,120.3,normal
+Equity,120,normal
+Equity,119.2,normal
+Equity,119.1,normal
+Equity,118.8,normal
+Equity,118.7,normal
+Equity,118.6,normal
+Commodities,118.3,normal
+Equity,118.3,normal
+Commodities,118,normal
+Equity,117.7,normal
+Equity,117.6,normal
+Equity,117.5,normal
+Equity,117.3,normal
+Equity,117.2,normal
+Equity,116.6,normal
+Alternatives,116.3,normal
+Commodities,116.3,normal
+Equity,115.4,normal
+Equity,115.4,normal
+Commodities,114.4,normal
+Commodities,114.1,normal
+Equity,114.1,normal
+Equity,113.7,normal
+Equity,113.7,normal
+Equity,113.6,normal
+Commodities,113.4,normal
+Equity,113.4,normal
+Equity,113.3,normal
+Equity,112.8,normal
+Equity,112.7,normal
+Equity,112.2,normal
+Equity,112,normal
+Equity,111.4,normal
+Equity,111.4,normal
+Commodities,110.9,normal
+Equity,110.7,normal
+Equity,109.9,normal
+Equity,109.8,normal
+Equity,109.7,normal
+Equity,109.3,normal
+Commodities,109.1,normal
+Equity,109,normal
+Equity,108.8,normal
+Equity,108.7,normal
+Equity,108.3,normal
+Equity,107.9,normal
+Commodities,107.7,normal
+Equity,107.3,normal
+Equity,107,normal
+Equity,106.9,normal
+Equity,106.6,normal
+Equity,106.5,normal
+Equity,106.3,normal
+Equity,106.3,normal
+Equity,106.1,normal
+Equity,106,normal
+Equity,106,normal
+Equity,104.9,normal
+Equity,104.8,normal
+Equity,104.4,normal
+Equity,104.2,normal
+Equity,103.7,normal
+Equity,103.7,normal
+Equity,103.6,normal
+Equity,103.6,normal
+Commodities,103.3,normal
+Equity,103.3,normal
+Equity,103.2,normal
+Equity,103.1,normal
+Alternatives,102.3,normal
+Equity,102.3,normal
+Equity,102.2,normal
+Commodities,101.9,normal
+Equity,101.9,normal
+Equity,101.7,normal
+Equity,101.6,normal
+Equity,101.6,normal
+Equity,101.4,normal
+Equity,101.3,normal
+Alternatives,101.2,normal
+Equity,101.2,normal
+Equity,101.1,normal
+Equity,101,normal
+Equity,100.9,normal
+Equity,100.9,normal
+Equity,100.7,normal
+Equity,100.7,normal
+Equity,100.7,normal
+Equity,100.6,normal
+Equity,100.5,normal
+Equity,100.2,normal
+Equity,100.1,normal
+Fixed Income,100.1,normal
+Equity,100,normal
+Equity,100,normal
+Equity,100,normal
+Equity,99.7,normal
+Equity,99.7,normal
+Equity,99.6,normal
+Equity,99.5,normal
+Equity,99.5,normal
+Equity,99.4,normal
+Equity,99.2,normal
+Equity,99.2,normal
+Commodities,99.1,normal
+Commodities,99.1,normal
+Equity,99,normal
+Equity,98.8,normal
+Equity,98.2,normal
+Equity,97.7,normal
+Equity,97.7,normal
+Equity,97.6,normal
+Equity,97.4,normal
+Equity,97.4,normal
+Equity,97.3,normal
+Equity,96.9,normal
+Equity,96.9,normal
+Equity,96.8,normal
+Equity,96.6,normal
+Equity,96.5,normal
+Equity,96.3,normal
+Equity,96,normal
+Equity,95.9,normal
+Equity,95.8,normal
+Equity,95.7,normal
+Equity,95.5,normal
+Commodities,95.4,normal
+Equity,95.4,normal
+Equity,95.4,normal
+Equity,95.3,normal
+Commodities,95.1,normal
+Equity,94.9,normal
+Equity,94.8,normal
+Equity,94.6,normal
+Equity,94.5,normal
+Equity,94.4,normal
+Commodities,94.2,normal
+Equity,94.2,normal
+Equity,94.1,normal
+Equity,94.1,normal
+Equity,93.9,normal
+Equity,93.8,normal
+Equity,93.6,normal
+Equity,93.6,normal
+Equity,93.5,normal
+Equity,93.5,normal
+Equity,93.4,normal
+Equity,93.3,normal
+Equity,93.3,normal
+Equity,93.2,normal
+Equity,93.2,normal
+Equity,93.1,normal
+Equity,93,normal
+Equity,93,normal
+Equity,92.9,normal
+Equity,92.8,normal
+Equity,92.8,normal
+Equity,92.5,normal
+Equity,92.5,normal
+Equity,92.4,normal
+Equity,92,normal
+Equity,91.9,normal
+Equity,91.9,normal
+Equity,91.8,normal
+Equity,91.6,normal
+Equity,91.6,normal
+Equity,91.4,normal
+Equity,91.4,normal
+Equity,91.3,normal
+Equity,90.5,normal
+Equity,90.4,normal
+Equity,90.4,normal
+Equity,90.3,normal
+Equity,90.2,normal
+Equity,90.1,normal
+Equity,90,normal
+Equity,89.9,normal
+Commodities,89.8,normal
+Equity,89.8,normal
+Equity,89.5,normal
+Equity,89.4,normal
+Fixed Income,89.4,normal
+Equity,89.3,normal
+Equity,89.3,normal
+Commodities,89.1,normal
+Equity,89.1,normal
+Equity,89.1,normal
+Commodities,88.9,normal
+Equity,88.9,normal
+Equity,88.8,normal
+Equity,88.7,normal
+Equity,88.6,normal
+Equity,88.5,normal
+Equity,88,normal
+Equity,87.9,normal
+Equity,87.6,normal
+Equity,87.1,normal
+Equity,87,normal
+Equity,86.8,normal
+Equity,86.8,normal
+Equity,86.7,normal
+Equity,86.7,normal
+Equity,86.6,normal
+Equity,86.6,normal
+Equity,86.5,normal
+Equity,86.4,normal
+Equity,86.4,normal
+Equity,86.4,normal
+Equity,86.4,normal
+Equity,86.3,normal
+Equity,86.2,normal
+Commodities,86.1,normal
+Equity,86.1,normal
+Commodities,86,normal
+Equity,86,normal
+Equity,86,normal
+Equity,85.9,normal
+Equity,85.9,normal
+Equity,85.9,normal
+Equity,85.9,normal
+Equity,85.7,normal
+Equity,85.7,normal
+Equity,85.7,normal
+Equity,85.6,normal
+Equity,85.4,normal
+Equity,85.2,normal
+Equity,85.2,normal
+Equity,84.9,normal
+Equity,84.8,normal
+Equity,84.8,normal
+Equity,84.8,normal
+Equity,84.6,normal
+Equity,84.6,normal
+Equity,84.5,normal
+Equity,84.5,normal
+Equity,84.5,normal
+Equity,84.3,normal
+Equity,84.3,normal
+Equity,84.2,normal
+Equity,84.2,normal
+Equity,84.1,normal
+Equity,84,normal
+Equity,84,normal
+Equity,84,normal
+Commodities,83.9,normal
+Equity,83.9,normal
+Equity,83.7,normal
+Equity,83.7,normal
+Equity,83.7,normal
+Equity,83.7,normal
+Equity,83.7,normal
+Equity,83.5,normal
+Equity,83.4,normal
+Equity,83.4,normal
+Equity,83.4,normal
+Equity,83.4,normal
+Equity,83.2,normal
+Equity,83.2,normal
+Equity,83,normal
+Equity,82.9,normal
+Equity,82.8,normal
+Equity,82.7,normal
+Equity,82.7,normal
+Equity,82.7,normal
+Equity,82.7,normal
+Equity,82.7,normal
+Equity,82.7,normal
+Equity,82.6,normal
+Equity,82.6,normal
+Equity,82.5,normal
+Equity,82.5,normal
+Equity,82.2,normal
+Equity,82.2,normal
+Equity,82.2,normal
+Equity,82.2,normal
+Equity,82.1,normal
+Equity,82,normal
+Equity,81.9,normal
+Equity,81.8,normal
+Equity,81.7,normal
+Equity,81.6,normal
+Equity,81.6,normal
+Equity,81.6,normal
+Equity,81.6,normal
+Equity,81.3,normal
+Equity,81.3,normal
+Equity,81.2,normal
+Equity,81.2,normal
+Equity,81.1,normal
+Equity,81.1,normal
+Equity,81.1,normal
+Equity,80.9,normal
+Equity,80.9,normal
+Commodities,80.8,normal
+Equity,80.8,normal
+Equity,80.8,normal
+Equity,80.7,normal
+Equity,80.7,normal
+Fixed Income,80.7,normal
+Equity,80.6,normal
+Equity,80.6,normal
+Equity,80.6,normal
+Equity,80.5,normal
+Equity,80.4,normal
+Equity,80.4,normal
+Equity,80.1,normal
+Equity,80.1,normal
+Equity,80,normal
+Equity,80,normal
+Equity,79.9,normal
+Equity,79.9,normal
+Equity,79.9,normal
+Equity,79.8,normal
+Equity,79.7,normal
+Equity,79.7,normal
+Equity,79.5,normal
+Equity,79.4,normal
+Equity,79.4,normal
+Equity,79.2,normal
+Equity,79.2,normal
+Equity,79.2,normal
+Equity,79.1,normal
+Equity,78.9,normal
+Equity,78.9,normal
+Equity,78.8,normal
+Equity,78.6,normal
+Equity,78.5,normal
+Commodities,78.1,normal
+Equity,78.1,normal
+Commodities,78,normal
+Equity,78,normal
+Equity,78,normal
+Equity,78,normal
+Equity,77.9,normal
+Equity,77.8,normal
+Equity,77.8,normal
+Equity,77.7,normal
+Equity,77.7,normal
+Equity,77.7,normal
+Equity,77.6,normal
+Equity,77.6,normal
+Equity,77.6,normal
+Equity,77.5,normal
+Equity,77.5,normal
+Equity,77.5,normal
+Equity,77.4,normal
+Equity,77.3,normal
+Equity,77.3,normal
+Equity,77.2,normal
+Equity,77.2,normal
+Equity,77,normal
+Equity,77,normal
+Equity,76.8,normal
+Equity,76.7,normal
+Equity,76.6,normal
+Equity,76.5,normal
+Equity,76.5,normal
+Equity,76.5,normal
+Equity,76.4,normal
+Equity,76.3,normal
+Equity,76.3,normal
+Equity,76.2,normal
+Equity,76.1,normal
+Equity,76.1,normal
+Equity,76.1,normal
+Equity,76,normal
+Equity,75.9,normal
+Equity,75.9,normal
+Equity,75.8,normal
+Equity,75.8,normal
+Equity,75.8,normal
+Equity,75.7,normal
+Equity,75.7,normal
+Equity,75.7,normal
+Equity,75.6,normal
+Fixed Income,75.6,normal
+Equity,75.5,normal
+Equity,75.5,normal
+Commodities,75.4,normal
+Equity,75.4,normal
+Equity,75.4,normal
+Equity,75.4,normal
+Equity,75.4,normal
+Equity,75.3,normal
+Equity,75.3,normal
+Equity,75.2,normal
+Equity,75.2,normal
+Equity,75.1,normal
+Equity,75,normal
+Equity,75,normal
+Equity,75,normal
+Equity,74.9,normal
+Equity,74.9,normal
+Equity,74.8,normal
+Equity,74.6,normal
+Equity,74.6,normal
+Equity,74.5,normal
+Equity,74.5,normal
+Equity,74.4,normal
+Commodities,74.2,normal
+Commodities,74.2,normal
+Equity,74.2,normal
+Fixed Income,74.2,normal
+Equity,74.1,normal
+Equity,74,normal
+Equity,74,normal
+Equity,73.8,normal
+Equity,73.8,normal
+Equity,73.8,normal
+Equity,73.8,normal
+Equity,73.7,normal
+Equity,73.7,normal
+Equity,73.6,normal
+Equity,73.6,normal
+Equity,73.4,normal
+Equity,73.4,normal
+Equity,73.4,normal
+Equity,73.3,normal
+Equity,73.2,normal
+Equity,73.2,normal
+Commodities,73,normal
+Equity,72.9,normal
+Equity,72.9,normal
+Equity,72.8,normal
+Equity,72.6,normal
+Equity,72.5,normal
+Commodities,72.4,normal
+Equity,72.3,normal
+Equity,72.3,normal
+Commodities,72.2,normal
+Equity,72,normal
+Equity,72,normal
+Equity,72,normal
+Equity,71.9,normal
+Equity,71.7,normal
+Commodities,71.6,normal
+Equity,71.6,normal
+Equity,71.6,normal
+Equity,71.6,normal
+Equity,71.6,normal
+Equity,71.4,normal
+Equity,71.4,normal
+Equity,71.4,normal
+Equity,71.3,normal
+Commodities,71.2,normal
+Equity,71.2,normal
+Equity,71.2,normal
+Commodities,71.1,normal
+Equity,71.1,normal
+Equity,71.1,normal
+Equity,71,normal
+Equity,71,normal
+Equity,71,normal
+Equity,70.9,normal
+Equity,70.9,normal
+Equity,70.8,normal
+Equity,70.8,normal
+Equity,70.7,normal
+Equity,70.7,normal
+Equity,70.7,normal
+Equity,70.6,normal
+Equity,70.6,normal
+Equity,70.6,normal
+Equity,70.5,normal
+Equity,70.5,normal
+Equity,70.4,normal
+Equity,70.4,normal
+Equity,70.3,normal
+Equity,70.3,normal
+Equity,70.2,normal
+Equity,70.2,normal
+Equity,70.2,normal
+Equity,70.1,normal
+Equity,70.1,normal
+Equity,69.9,normal
+Equity,69.9,normal
+Equity,69.8,normal
+Equity,69.8,normal
+Equity,69.7,normal
+Equity,69.7,normal
+Equity,69.7,normal
+Equity,69.7,normal
+Equity,69.6,normal
+Equity,69.6,normal
+Commodities,69.5,normal
+Equity,69.5,normal
+Equity,69.5,normal
+Equity,69.5,normal
+Equity,69.4,normal
+Equity,69.4,normal
+Equity,69.3,normal
+Equity,69.2,normal
+Equity,69,normal
+Equity,69,normal
+Equity,68.9,normal
+Equity,68.9,normal
+Equity,68.8,normal
+Equity,68.8,normal
+Equity,68.8,normal
+Equity,68.7,normal
+Equity,68.7,normal
+Alternatives,68.6,normal
+Equity,68.6,normal
+Equity,68.6,normal
+Equity,68.2,normal
+Equity,68.2,normal
+Equity,68.2,normal
+Equity,68.1,normal
+Equity,68.1,normal
+Equity,68.1,normal
+Equity,68.1,normal
+Equity,68,normal
+Equity,68,normal
+Equity,68,normal
+Equity,68,normal
+Equity,67.9,normal
+Equity,67.9,normal
+Equity,67.8,normal
+Equity,67.7,normal
+Equity,67.6,normal
+Equity,67.6,normal
+Equity,67.6,normal
+Equity,67.6,normal
+Equity,67.5,normal
+Equity,67.5,normal
+Equity,67.4,normal
+Equity,67.4,normal
+Commodities,67.3,normal
+Equity,67.3,normal
+Equity,67.1,normal
+Equity,67.1,normal
+Equity,67.1,normal
+Equity,67.1,normal
+Equity,67,normal
+Equity,67,normal
+Commodities,66.9,normal
+Equity,66.9,normal
+Alternatives,66.8,normal
+Equity,66.7,normal
+Fixed Income,66.7,normal
+Equity,66.6,normal
+Equity,66.6,normal
+Equity,66.5,normal
+Equity,66.3,normal
+Equity,66.3,normal
+Equity,66.3,normal
+Equity,66.3,normal
+Fixed Income,66.3,normal
+Equity,66.2,normal
+Equity,66.1,normal
+Equity,66.1,normal
+Equity,66.1,normal
+Equity,66.1,normal
+Equity,65.9,normal
+Equity,65.8,normal
+Equity,65.8,normal
+Equity,65.8,normal
+Equity,65.7,normal
+Equity,65.7,normal
+Equity,65.7,normal
+Commodities,65.5,normal
+Equity,65.5,normal
+Equity,65.5,normal
+Equity,65.4,normal
+Equity,65.3,normal
+Equity,65.3,normal
+Equity,65.2,normal
+Equity,65.2,normal
+Equity,65.2,normal
+Equity,65.1,normal
+Equity,65,normal
+Equity,65,normal
+Equity,65,normal
+Equity,64.9,normal
+Equity,64.8,normal
+Equity,64.7,normal
+Equity,64.7,normal
+Equity,64.6,normal
+Equity,64.6,normal
+Equity,64.5,normal
+Equity,64.5,normal
+Commodities,64.4,normal
+Commodities,64.4,normal
+Equity,64.4,normal
+Equity,64.4,normal
+Equity,64.3,normal
+Equity,64.1,normal
+Equity,64.1,normal
+Equity,64,normal
+Equity,64,normal
+Equity,64,normal
+Commodities,63.9,normal
+Commodities,63.8,normal
+Equity,63.8,normal
+Equity,63.8,normal
+Equity,63.8,normal
+Commodities,63.7,normal
+Equity,63.7,normal
+Equity,63.6,normal
+Equity,63.6,normal
+Equity,63.5,normal
+Equity,63.5,normal
+Equity,63.4,normal
+Equity,63.3,normal
+Equity,63.3,normal
+Equity,63.2,normal
+Equity,63.1,normal
+Equity,63.1,normal
+Equity,63.1,normal
+Equity,63.1,normal
+Equity,63,normal
+Equity,63,normal
+Equity,63,normal
+Equity,62.9,normal
+Equity,62.9,normal
+Equity,62.9,normal
+Equity,62.8,normal
+Equity,62.7,normal
+Equity,62.6,normal
+Equity,62.6,normal
+Equity,62.6,normal
+Equity,62.5,normal
+Equity,62.4,normal
+Equity,62.4,normal
+Equity,62.4,normal
+Equity,62.4,normal
+Equity,62.4,normal
+Equity,62.4,normal
+Equity,62.3,normal
+Equity,62.3,normal
+Equity,62.3,normal
+Equity,62.3,normal
+Equity,62.3,normal
+Equity,62.1,normal
+Equity,61.9,normal
+Equity,61.9,normal
+Equity,61.8,normal
+Equity,61.7,normal
+Equity,61.7,normal
+Equity,61.7,normal
+Equity,61.6,normal
+Equity,61.6,normal
+Equity,61.6,normal
+Equity,61.6,normal
+Equity,61.6,normal
+Equity,61.5,normal
+Commodities,61.4,normal
+Equity,61.4,normal
+Equity,61.3,normal
+Equity,61.3,normal
+Equity,61.3,normal
+Equity,61.2,normal
+Equity,61.1,normal
+Equity,61.1,normal
+Equity,61,normal
+Equity,61,normal
+Equity,60.9,normal
+Equity,60.8,normal
+Equity,60.8,normal
+Equity,60.7,normal
+Equity,60.6,normal
+Equity,60.6,normal
+Equity,60.6,normal
+Equity,60.6,normal
+Equity,60.5,normal
+Equity,60.5,normal
+Equity,60.5,normal
+Equity,60.5,normal
+Equity,60.4,normal
+Equity,60.3,normal
+Equity,60.3,normal
+Equity,60.3,normal
+Equity,60.3,normal
+Equity,60.1,normal
+Equity,60.1,normal
+Equity,60.1,normal
+Commodities,60,normal
+Equity,60,normal
+Equity,60,normal
+Equity,59.9,normal
+Equity,59.9,normal
+Equity,59.9,normal
+Equity,59.8,normal
+Equity,59.8,normal
+Equity,59.8,normal
+Equity,59.7,normal
+Equity,59.6,normal
+Equity,59.6,normal
+Equity,59.6,normal
+Equity,59.5,normal
+Equity,59.5,normal
+Equity,59.5,normal
+Equity,59.5,normal
+Equity,59.3,normal
+Commodities,59.2,normal
+Equity,59.2,normal
+Equity,59.2,normal
+Equity,59.1,normal
+Equity,59.1,normal
+Commodities,59,normal
+Equity,59,normal
+Equity,59,normal
+Equity,58.9,normal
+Equity,58.9,normal
+Equity,58.9,normal
+Equity,58.8,normal
+Commodities,58.7,normal
+Equity,58.7,normal
+Equity,58.7,normal
+Equity,58.7,normal
+Equity,58.7,normal
+Equity,58.7,normal
+Commodities,58.6,normal
+Equity,58.6,normal
+Equity,58.6,normal
+Equity,58.6,normal
+Equity,58.6,normal
+Equity,58.6,normal
+Equity,58.6,normal
+Equity,58.4,normal
+Equity,58.3,normal
+Equity,58.3,normal
+Equity,58.2,normal
+Equity,58.2,normal
+Equity,58.2,normal
+Equity,58.2,normal
+Fixed Income,58.2,normal
+Alternatives,58.1,normal
+Equity,58.1,normal
+Equity,58.1,normal
+Equity,58,normal
+Equity,58,normal
+Equity,58,normal
+Equity,58,normal
+Equity,57.9,normal
+Equity,57.9,normal
+Equity,57.9,normal
+Equity,57.9,normal
+Equity,57.9,normal
+Equity,57.8,normal
+Equity,57.8,normal
+Equity,57.8,normal
+Equity,57.8,normal
+Equity,57.8,normal
+Equity,57.7,normal
+Equity,57.7,normal
+Equity,57.7,normal
+Equity,57.7,normal
+Equity,57.6,normal
+Equity,57.5,normal
+Equity,57.5,normal
+Equity,57.4,normal
+Equity,57.4,normal
+Equity,57.4,normal
+Equity,57.3,normal
+Equity,57.3,normal
+Equity,57.2,normal
+Equity,57.2,normal
+Equity,57.2,normal
+Equity,57.1,normal
+Equity,57.1,normal
+Equity,57,normal
+Equity,57,normal
+Equity,56.9,normal
+Equity,56.9,normal
+Equity,56.9,normal
+Equity,56.9,normal
+Equity,56.9,normal
+Equity,56.8,normal
+Equity,56.8,normal
+Equity,56.8,normal
+Equity,56.8,normal
+Equity,56.8,normal
+Equity,56.8,normal
+Equity,56.8,normal
+Equity,56.7,normal
+Equity,56.6,normal
+Commodities,56.5,normal
+Equity,56.5,normal
+Equity,56.5,normal
+Equity,56.5,normal
+Equity,56.4,normal
+Equity,56.4,normal
+Commodities,56.3,normal
+Equity,56.3,normal
+Equity,56.3,normal
+Fixed Income,56.3,normal
+Equity,56.2,normal
+Commodities,56.1,normal
+Commodities,56.1,normal
+Equity,56,normal
+Equity,56,normal
+Equity,56,normal
+Equity,55.9,normal
+Equity,55.9,normal
+Equity,55.8,normal
+Equity,55.8,normal
+Equity,55.8,normal
+Equity,55.7,normal
+Equity,55.7,normal
+Equity,55.7,normal
+Equity,55.7,normal
+Equity,55.7,normal
+Equity,55.7,normal
+Equity,55.7,normal
+Commodities,55.6,normal
+Equity,55.6,normal
+Equity,55.6,normal
+Equity,55.6,normal
+Commodities,55.4,normal
+Commodities,55.4,normal
+Equity,55.4,normal
+Equity,55.4,normal
+Equity,55.4,normal
+Equity,55.4,normal
+Equity,55.3,normal
+Equity,55.3,normal
+Equity,55.2,normal
+Equity,55.2,normal
+Equity,55.2,normal
+Equity,55.2,normal
+Equity,55.1,normal
+Equity,55,normal
+Commodities,54.9,normal
+Equity,54.9,normal
+Equity,54.9,normal
+Equity,54.8,normal
+Equity,54.8,normal
+Equity,54.7,normal
+Equity,54.7,normal
+Equity,54.6,normal
+Equity,54.6,normal
+Equity,54.6,normal
+Equity,54.6,normal
+Equity,54.5,normal
+Equity,54.5,normal
+Equity,54.5,normal
+Equity,54.4,normal
+Equity,54.4,normal
+Equity,54.4,normal
+Equity,54.3,normal
+Commodities,54.2,normal
+Equity,54.2,normal
+Equity,54.2,normal
+Equity,54.2,normal
+Equity,54.2,normal
+Commodities,54.1,normal
+Equity,54.1,normal
+Commodities,54,normal
+Equity,54,normal
+Equity,54,normal
+Equity,54,normal
+Equity,53.9,normal
+Equity,53.9,normal
+Equity,53.9,normal
+Equity,53.8,normal
+Equity,53.8,normal
+Equity,53.8,normal
+Equity,53.7,normal
+Equity,53.7,normal
+Equity,53.7,normal
+Equity,53.7,normal
+Equity,53.6,normal
+Equity,53.6,normal
+Equity,53.5,normal
+Equity,53.5,normal
+Equity,53.5,normal
+Commodities,53.4,normal
+Equity,53.4,normal
+Equity,53.4,normal
+Equity,53.4,normal
+Equity,53.4,normal
+Equity,53.2,normal
+Equity,53.2,normal
+Equity,53.1,normal
+Equity,53.1,normal
+Equity,53.1,normal
+Equity,53.1,normal
+Equity,53,normal
+Equity,53,normal
+Equity,52.9,normal
+Equity,52.9,normal
+Equity,52.8,normal
+Equity,52.8,normal
+Equity,52.8,normal
+Equity,52.7,normal
+Equity,52.7,normal
+Equity,52.7,normal
+Equity,52.6,normal
+Equity,52.6,normal
+Equity,52.6,normal
+Commodities,52.5,normal
+Equity,52.5,normal
+Equity,52.5,normal
+Equity,52.4,normal
+Equity,52.4,normal
+Equity,52.4,normal
+Equity,52.3,normal
+Equity,52.3,normal
+Equity,52.3,normal
+Equity,52.3,normal
+Commodities,52.2,normal
+Equity,52.2,normal
+Equity,52.2,normal
+Equity,52.2,normal
+Equity,52.1,normal
+Equity,52.1,normal
+Equity,52,normal
+Equity,51.9,normal
+Equity,51.8,normal
+Equity,51.8,normal
+Equity,51.8,normal
+Equity,51.7,normal
+Equity,51.7,normal
+Equity,51.7,normal
+Equity,51.7,normal
+Equity,51.7,normal
+Equity,51.7,normal
+Equity,51.7,normal
+Equity,51.7,normal
+Equity,51.6,normal
+Equity,51.6,normal
+Equity,51.6,normal
+Equity,51.6,normal
+Equity,51.5,normal
+Equity,51.4,normal
+Equity,51.4,normal
+Equity,51.4,normal
+Equity,51.3,normal
+Equity,51.3,normal
+Equity,51.2,normal
+Equity,51.2,normal
+Equity,51.2,normal
+Equity,51.2,normal
+Equity,51.1,normal
+Equity,51.1,normal
+Equity,51.1,normal
+Equity,51.1,normal
+Equity,51.1,normal
+Equity,51,normal
+Equity,51,normal
+Equity,51,normal
+Equity,50.9,normal
+Equity,50.9,normal
+Commodities,50.8,normal
+Equity,50.8,normal
+Equity,50.8,normal
+Equity,50.7,normal
+Equity,50.7,normal
+Equity,50.6,normal
+Equity,50.6,normal
+Equity,50.6,normal
+Equity,50.6,normal
+Equity,50.6,normal
+Equity,50.5,normal
+Equity,50.5,normal
+Equity,50.5,normal
+Equity,50.5,normal
+Equity,50.4,normal
+Equity,50.4,normal
+Equity,50.3,normal
+Equity,50.3,normal
+Equity,50.2,normal
+Equity,50.2,normal
+Equity,50,normal
+Equity,49.8,normal
+Equity,49.7,normal
+Equity,49.6,normal
+Equity,49.6,normal
+Equity,49.6,normal
+Equity,49.6,normal
+Equity,49.5,normal
+Equity,49.5,normal
+Equity,49.4,normal
+Equity,49.4,normal
+Equity,49.4,normal
+Equity,49.1,normal
+Equity,49.1,normal
+Equity,49.1,normal
+Equity,49.1,normal
+Equity,49.1,normal
+Equity,49,normal
+Equity,49,normal
+Equity,48.8,normal
+Equity,48.7,normal
+Equity,48.7,normal
+Equity,48.6,normal
+Equity,48.6,normal
+Equity,48.6,normal
+Commodities,48.5,normal
+Equity,48.5,normal
+Equity,48.5,normal
+Equity,48.4,normal
+Equity,48.3,normal
+Equity,48.3,normal
+Equity,48.2,normal
+Commodities,48.1,normal
+Equity,48.1,normal
+Equity,48.1,normal
+Equity,48.1,normal
+Equity,48.1,normal
+Equity,48.1,normal
+Equity,48.1,normal
+Equity,48,normal
+Equity,48,normal
+Equity,47.9,normal
+Equity,47.9,normal
+Equity,47.9,normal
+Equity,47.8,normal
+Equity,47.7,normal
+Equity,47.6,normal
+Equity,47.6,normal
+Equity,47.5,normal
+Equity,47.5,normal
+Equity,47.4,normal
+Equity,47.3,normal
+Equity,47.2,normal
+Equity,47.2,normal
+Equity,47.2,normal
+Equity,47.2,normal
+Equity,47.1,normal
+Equity,47,normal
+Equity,47,normal
+Commodities,46.9,normal
+Equity,46.9,normal
+Equity,46.9,normal
+Equity,46.8,normal
+Equity,46.7,normal
+Equity,46.7,normal
+Equity,46.6,normal
+Equity,46.6,normal
+Equity,46.5,normal
+Equity,46.5,normal
+Equity,46.5,normal
+Equity,46.5,normal
+Equity,46.5,normal
+Equity,46.5,normal
+Commodities,46.4,normal
+Equity,46.4,normal
+Equity,46.4,normal
+Equity,46.4,normal
+Equity,46.3,normal
+Equity,46.3,normal
+Equity,46.3,normal
+Equity,46.3,normal
+Equity,46.3,normal
+Equity,46.2,normal
+Equity,46.2,normal
+Equity,46.2,normal
+Equity,46.1,normal
+Equity,46,normal
+Equity,46,normal
+Equity,46,normal
+Equity,46,normal
+Equity,46,normal
+Equity,45.8,normal
+Equity,45.7,normal
+Equity,45.7,normal
+Equity,45.6,normal
+Equity,45.6,normal
+Equity,45.6,normal
+Equity,45.6,normal
+Commodities,45.5,normal
+Equity,45.5,normal
+Equity,45.5,normal
+Equity,45.4,normal
+Equity,45.4,normal
+Equity,45.4,normal
+Equity,45.4,normal
+Equity,45.3,normal
+Equity,45.2,normal
+Equity,45.2,normal
+Equity,45.1,normal
+Equity,45.1,normal
+Equity,45.1,normal
+Equity,45,normal
+Equity,45,normal
+Equity,45,normal
+Equity,44.9,normal
+Equity,44.9,normal
+Equity,44.9,normal
+Equity,44.9,normal
+Equity,44.8,normal
+Equity,44.8,normal
+Equity,44.8,normal
+Commodities,44.5,normal
+Equity,44.5,normal
+Equity,44.5,normal
+Equity,44.5,normal
+Equity,44.4,normal
+Equity,44.4,normal
+Equity,44.4,normal
+Equity,44.4,normal
+Equity,44.4,normal
+Commodities,44.2,normal
+Equity,44.2,normal
+Equity,44.2,normal
+Equity,44.1,normal
+Equity,44.1,normal
+Equity,44.1,normal
+Commodities,44,normal
+Equity,44,normal
+Equity,44,normal
+Equity,44,normal
+Equity,44,normal
+Equity,43.9,normal
+Equity,43.9,normal
+Equity,43.9,normal
+Equity,43.9,normal
+Equity,43.9,normal
+Equity,43.8,normal
+Equity,43.8,normal
+Equity,43.7,normal
+Equity,43.7,normal
+Equity,43.7,normal
+Equity,43.6,normal
+Equity,43.6,normal
+Equity,43.6,normal
+Equity,43.6,normal
+Equity,43.5,normal
+Equity,43.5,normal
+Equity,43.4,normal
+Equity,43.3,normal
+Equity,43.3,normal
+Equity,43.3,normal
+Equity,43.3,normal
+Equity,43.2,normal
+Equity,43.2,normal
+Equity,43.2,normal
+Equity,43.2,normal
+Equity,43.2,normal
+Equity,43.2,normal
+Equity,43.1,normal
+Equity,43.1,normal
+Equity,43.1,normal
+Equity,43.1,normal
+Equity,43,normal
+Equity,43,normal
+Equity,43,normal
+Equity,43,normal
+Equity,43,normal
+Equity,42.9,normal
+Equity,42.8,normal
+Equity,42.7,normal
+Equity,42.7,normal
+Equity,42.7,normal
+Equity,42.7,normal
+Equity,42.6,normal
+Equity,42.5,normal
+Equity,42.5,normal
+Equity,42.5,normal
+Equity,42.4,normal
+Equity,42.4,normal
+Equity,42.4,normal
+Commodities,42.3,normal
+Equity,42.3,normal
+Equity,42.3,normal
+Equity,42.3,normal
+Equity,42.1,normal
+Equity,42,normal
+Equity,42,normal
+Equity,42,normal
+Equity,42,normal
+Equity,42,normal
+Commodities,41.8,normal
+Equity,41.8,normal
+Equity,41.8,normal
+Equity,41.8,normal
+Equity,41.7,normal
+Equity,41.7,normal
+Equity,41.7,normal
+Equity,41.7,normal
+Equity,41.5,normal
+Equity,41.5,normal
+Equity,41.4,normal
+Equity,41.4,normal
+Equity,41.3,normal
+Equity,41.3,normal
+Equity,41.2,normal
+Equity,41.2,normal
+Equity,41.1,normal
+Equity,41.1,normal
+Equity,41.1,normal
+Equity,41.1,normal
+Equity,41.1,normal
+Equity,41.1,normal
+Equity,41,normal
+Equity,41,normal
+Equity,41,normal
+Equity,41,normal
+Equity,40.9,normal
+Equity,40.8,normal
+Equity,40.7,normal
+Equity,40.7,normal
+Equity,40.6,normal
+Equity,40.6,normal
+Equity,40.5,normal
+Equity,40.5,normal
+Equity,40.4,normal
+Equity,40.4,normal
+Equity,40.3,normal
+Equity,40.3,normal
+Equity,40.3,normal
+Alternatives,40.2,normal
+Equity,40.2,normal
+Equity,40,normal
+Equity,40,normal
+Equity,40,normal
+Equity,40,normal
+Equity,39.9,normal
+Equity,39.9,normal
+Equity,39.8,normal
+Equity,39.8,normal
+Commodities,39.7,normal
+Equity,39.7,normal
+Commodities,39.6,normal
+Commodities,39.6,normal
+Equity,39.6,normal
+Equity,39.6,normal
+Commodities,39.5,normal
+Equity,39.5,normal
+Equity,39.5,normal
+Equity,39.5,normal
+Equity,39.5,normal
+Equity,39.5,normal
+Commodities,39.4,normal
+Equity,39.4,normal
+Equity,39.3,normal
+Equity,39.2,normal
+Equity,39.2,normal
+Equity,39.2,normal
+Equity,39.2,normal
+Equity,39.1,normal
+Equity,39.1,normal
+Equity,39.1,normal
+Equity,39.1,normal
+Equity,39.1,normal
+Equity,39,normal
+Equity,39,normal
+Equity,38.9,normal
+Equity,38.8,normal
+Equity,38.8,normal
+Equity,38.8,normal
+Equity,38.8,normal
+Equity,38.8,normal
+Equity,38.6,normal
+Equity,38.5,normal
+Equity,38.5,normal
+Equity,38.5,normal
+Equity,38.5,normal
+Equity,38.4,normal
+Equity,38.4,normal
+Equity,38.3,normal
+Equity,38.3,normal
+Commodities,38.2,normal
+Equity,38.2,normal
+Equity,38.1,normal
+Equity,38.1,normal
+Equity,38.1,normal
+Equity,38.1,normal
+Equity,38.1,normal
+Equity,38,normal
+Fixed Income,38,normal
+Equity,37.9,normal
+Equity,37.9,normal
+Equity,37.8,normal
+Equity,37.8,normal
+Equity,37.7,normal
+Equity,37.7,normal
+Equity,37.6,normal
+Equity,37.5,normal
+Equity,37.5,normal
+Equity,37.5,normal
+Equity,37.5,normal
+Equity,37.5,normal
+Equity,37.4,normal
+Equity,37.4,normal
+Equity,37.3,normal
+Equity,37.2,normal
+Equity,37.2,normal
+Equity,37.1,normal
+Equity,37.1,normal
+Equity,37,normal
+Equity,37,normal
+Fixed Income,37,normal
+Equity,36.9,normal
+Equity,36.9,normal
+Equity,36.9,normal
+Equity,36.8,normal
+Equity,36.8,normal
+Equity,36.7,normal
+Equity,36.6,normal
+Equity,36.6,normal
+Equity,36.6,normal
+Equity,36.5,normal
+Equity,36.5,normal
+Equity,36.5,normal
+Equity,36.5,normal
+Equity,36.4,normal
+Equity,36.4,normal
+Equity,36.3,normal
+Equity,36.3,normal
+Equity,36.2,normal
+Equity,36.2,normal
+Equity,36.2,normal
+Equity,36.1,normal
+Equity,36.1,normal
+Equity,36,normal
+Equity,36,normal
+Equity,35.8,normal
+Equity,35.8,normal
+Commodities,35.7,normal
+Equity,35.7,normal
+Equity,35.7,normal
+Equity,35.6,normal
+Equity,35.6,normal
+Equity,35.6,normal
+Equity,35.6,normal
+Equity,35.5,normal
+Equity,35.5,normal
+Alternatives,35.4,normal
+Equity,35.3,normal
+Equity,35.2,normal
+Equity,35.2,normal
+Equity,35.2,normal
+Fixed Income,35.2,normal
+Equity,35,normal
+Equity,35,normal
+Equity,35,normal
+Equity,35,normal
+Equity,34.9,normal
+Equity,34.8,normal
+Equity,34.8,normal
+Fixed Income,34.8,normal
+Equity,34.6,normal
+Equity,34.6,normal
+Equity,34.6,normal
+Equity,34.6,normal
+Equity,34.5,normal
+Equity,34.5,normal
+Equity,34.3,normal
+Equity,34.2,normal
+Equity,34.2,normal
+Equity,34.1,normal
+Equity,34.1,normal
+Equity,34.1,normal
+Equity,34,normal
+Equity,34,normal
+Equity,34,normal
+Fixed Income,33.9,normal
+Commodities,33.8,normal
+Equity,33.8,normal
+Equity,33.8,normal
+Fixed Income,33.8,normal
+Equity,33.7,normal
+Equity,33.7,normal
+Equity,33.6,normal
+Equity,33.5,normal
+Equity,33.5,normal
+Equity,33.4,normal
+Equity,33.3,normal
+Equity,33.2,normal
+Equity,33.2,normal
+Equity,33.2,normal
+Equity,33.1,normal
+Equity,33,normal
+Equity,33,normal
+Equity,33,normal
+Equity,32.9,normal
+Equity,32.9,normal
+Fixed Income,32.9,normal
+Equity,32.8,normal
+Equity,32.8,normal
+Equity,32.8,normal
+Equity,32.7,normal
+Equity,32.7,normal
+Equity,32.7,normal
+Equity,32.6,normal
+Equity,32.6,normal
+Equity,32.6,normal
+Equity,32.6,normal
+Equity,32.5,normal
+Equity,32.5,normal
+Equity,32.5,normal
+Equity,32.4,normal
+Equity,32.4,normal
+Equity,32.4,normal
+Equity,32.3,normal
+Equity,32.2,normal
+Equity,32.2,normal
+Equity,32.2,normal
+Equity,32.1,normal
+Equity,32.1,normal
+Equity,32,normal
+Equity,32,normal
+Equity,31.9,normal
+Equity,31.9,normal
+Equity,31.9,normal
+Equity,31.8,normal
+Equity,31.8,normal
+Equity,31.8,normal
+Equity,31.8,normal
+Equity,31.8,normal
+Equity,31.8,normal
+Equity,31.7,normal
+Equity,31.7,normal
+Equity,31.7,normal
+Equity,31.7,normal
+Equity,31.6,normal
+Equity,31.6,normal
+Equity,31.6,normal
+Equity,31.6,normal
+Equity,31.5,normal
+Equity,31.4,normal
+Equity,31.4,normal
+Equity,31.3,normal
+Equity,31.2,normal
+Equity,31.2,normal
+Equity,31.2,normal
+Equity,31.1,normal
+Equity,31.1,normal
+Equity,31,normal
+Equity,31,normal
+Equity,30.9,normal
+Equity,30.8,normal
+Equity,30.8,normal
+Equity,30.8,normal
+Equity,30.7,normal
+Equity,30.7,normal
+Equity,30.7,normal
+Equity,30.6,normal
+Equity,30.5,normal
+Equity,30.5,normal
+Equity,30.5,normal
+Equity,30.4,normal
+Equity,30.3,normal
+Equity,30.3,normal
+Equity,30.3,normal
+Equity,30.3,normal
+Fixed Income,30.3,normal
+Fixed Income,30.3,normal
+Fixed Income,30.3,normal
+Equity,30.2,normal
+Equity,30.1,normal
+Equity,30,normal
+Equity,30,normal
+Equity,29.9,normal
+Equity,29.8,normal
+Equity,29.8,normal
+Equity,29.8,normal
+Equity,29.7,normal
+Equity,29.6,normal
+Equity,29.6,normal
+Equity,29.6,normal
+Equity,29.6,normal
+Equity,29.5,normal
+Equity,29.5,normal
+Equity,29.4,normal
+Equity,29.4,normal
+Equity,29.4,normal
+Equity,29.3,normal
+Equity,29.3,normal
+Equity,29.2,normal
+Equity,29.2,normal
+Equity,29.2,normal
+Equity,29.2,normal
+Equity,29,normal
+Equity,29,normal
+Equity,29,normal
+Equity,29,normal
+Equity,28.9,normal
+Equity,28.9,normal
+Equity,28.8,normal
+Equity,28.7,normal
+Equity,28.6,normal
+Equity,28.6,normal
+Equity,28.6,normal
+Equity,28.6,normal
+Equity,28.6,normal
+Equity,28.4,normal
+Equity,28.3,normal
+Equity,28.2,normal
+Equity,28.2,normal
+Equity,28.2,normal
+Equity,28.2,normal
+Equity,28.2,normal
+Equity,28.2,normal
+Equity,28.2,normal
+Equity,28.1,normal
+Equity,28.1,normal
+Equity,28.1,normal
+Equity,28.1,normal
+Alternatives,28,normal
+Equity,28,normal
+Equity,28,normal
+Equity,27.9,normal
+Equity,27.9,normal
+Equity,27.8,normal
+Equity,27.8,normal
+Fixed Income,27.8,normal
+Equity,27.7,normal
+Equity,27.7,normal
+Fixed Income,27.7,normal
+Equity,27.6,normal
+Equity,27.5,normal
+Equity,27.5,normal
+Equity,27.5,normal
+Equity,27.4,normal
+Equity,27.4,normal
+Equity,27.4,normal
+Equity,27.4,normal
+Equity,27.3,normal
+Equity,27.3,normal
+Equity,27.3,normal
+Equity,27.2,normal
+Equity,27.2,normal
+Equity,27.2,normal
+Equity,27.1,normal
+Equity,27.1,normal
+Equity,27,normal
+Equity,27,normal
+Equity,27,normal
+Equity,27,normal
+Commodities,26.9,normal
+Equity,26.9,normal
+Commodities,26.7,normal
+Equity,26.7,normal
+Equity,26.7,normal
+Equity,26.6,normal
+Equity,26.6,normal
+Equity,26.6,normal
+Equity,26.5,normal
+Equity,26.5,normal
+Fixed Income,26.5,normal
+Equity,26.4,normal
+Equity,26.4,normal
+Fixed Income,26.4,normal
+Equity,26.3,normal
+Equity,26.3,normal
+Equity,26.3,normal
+Equity,26.2,normal
+Equity,26.2,normal
+Equity,26.2,normal
+Fixed Income,26.2,normal
+Commodities,26.1,normal
+Equity,26.1,normal
+Equity,26.1,normal
+Equity,26.1,normal
+Equity,26.1,normal
+Fixed Income,26.1,normal
+Equity,26,normal
+Equity,26,normal
+Equity,26,normal
+Equity,26,normal
+Equity,25.9,normal
+Equity,25.9,normal
+Equity,25.9,normal
+Equity,25.8,normal
+Equity,25.8,normal
+Equity,25.8,normal
+Equity,25.8,normal
+Equity,25.7,normal
+Equity,25.7,normal
+Equity,25.7,normal
+Equity,25.6,normal
+Equity,25.6,normal
+Equity,25.6,normal
+Equity,25.5,normal
+Equity,25.4,normal
+Equity,25.3,normal
+Equity,25.3,normal
+Equity,25.2,normal
+Equity,25.2,normal
+Equity,25.2,normal
+Equity,25.1,normal
+Equity,25.1,normal
+Equity,25.1,normal
+Equity,25.1,normal
+Alternatives,25,normal
+Equity,25,normal
+Equity,25,normal
+Equity,25,normal
+Equity,25,normal
+Equity,25,normal
+Equity,24.9,normal
+Equity,24.8,normal
+Alternatives,24.7,normal
+Commodities,24.7,normal
+Equity,24.7,normal
+Equity,24.7,normal
+Equity,24.5,normal
+Equity,24.5,normal
+Equity,24.4,normal
+Equity,24.4,normal
+Equity,24.3,normal
+Equity,24.2,normal
+Equity,24.2,normal
+Equity,24.1,normal
+Equity,24.1,normal
+Equity,24.1,normal
+Equity,24,normal
+Equity,24,normal
+Equity,24,normal
+Equity,24,normal
+Equity,24,normal
+Equity,23.9,normal
+Equity,23.9,normal
+Fixed Income,23.9,normal
+Equity,23.8,normal
+Equity,23.8,normal
+Equity,23.8,normal
+Equity,23.7,normal
+Equity,23.7,normal
+Fixed Income,23.7,normal
+Alternatives,23.6,normal
+Equity,23.6,normal
+Equity,23.6,normal
+Equity,23.5,normal
+Equity,23.5,normal
+Fixed Income,23.5,normal
+Equity,23.4,normal
+Equity,23.4,normal
+Equity,23.4,normal
+Fixed Income,23.3,normal
+Alternatives,23.2,normal
+Equity,23.2,normal
+Equity,23.2,normal
+Equity,23.2,normal
+Equity,23.2,normal
+Equity,23.1,normal
+Equity,23,normal
+Equity,23,normal
+Alternatives,22.9,normal
+Equity,22.9,normal
+Equity,22.9,normal
+Equity,22.9,normal
+Equity,22.9,normal
+Equity,22.9,normal
+Fixed Income,22.9,normal
+Equity,22.8,normal
+Equity,22.8,normal
+Equity,22.8,normal
+Fixed Income,22.8,normal
+Equity,22.7,normal
+Equity,22.7,normal
+Equity,22.7,normal
+Equity,22.6,normal
+Equity,22.6,normal
+Equity,22.6,normal
+Equity,22.5,normal
+Equity,22.5,normal
+Equity,22.5,normal
+Equity,22.5,normal
+Equity,22.5,normal
+Fixed Income,22.5,normal
+Equity,22.4,normal
+Equity,22.4,normal
+Equity,22.4,normal
+Equity,22.4,normal
+Equity,22.4,normal
+Equity,22.4,normal
+Equity,22.3,normal
+Equity,22.2,normal
+Equity,22.2,normal
+Equity,22.2,normal
+Equity,22.2,normal
+Equity,22.2,normal
+Equity,22.1,normal
+Equity,22.1,normal
+Equity,22.1,normal
+Equity,22.1,normal
+Equity,22.1,normal
+Fixed Income,22,normal
+Equity,21.9,normal
+Equity,21.9,normal
+Equity,21.9,normal
+Fixed Income,21.9,normal
+Equity,21.8,normal
+Equity,21.7,normal
+Equity,21.7,normal
+Equity,21.6,normal
+Equity,21.6,normal
+Equity,21.6,normal
+Equity,21.5,normal
+Equity,21.5,normal
+Equity,21.5,normal
+Equity,21.5,normal
+Equity,21.5,normal
+Fixed Income,21.5,normal
+Fixed Income,21.5,normal
+Equity,21.4,normal
+Equity,21.4,normal
+Equity,21.4,normal
+Equity,21.4,normal
+Fixed Income,21.4,normal
+Equity,21.3,normal
+Equity,21.3,normal
+Equity,21.3,normal
+Equity,21.2,normal
+Equity,21.2,normal
+Equity,21.2,normal
+Equity,21.2,normal
+Equity,21.1,normal
+Equity,21.1,normal
+Equity,21.1,normal
+Equity,21.1,normal
+Equity,21.1,normal
+Equity,21,normal
+Equity,21,normal
+Equity,21,normal
+Fixed Income,21,normal
+Equity,20.9,normal
+Equity,20.9,normal
+Fixed Income,20.9,normal
+Equity,20.8,normal
+Equity,20.8,normal
+Equity,20.8,normal
+Equity,20.8,normal
+Equity,20.8,normal
+Equity,20.8,normal
+Equity,20.8,normal
+Equity,20.8,normal
+Equity,20.8,normal
+Alternatives,20.7,normal
+Equity,20.7,normal
+Equity,20.6,normal
+Equity,20.6,normal
+Equity,20.6,normal
+Equity,20.6,normal
+Fixed Income,20.6,normal
+Equity,20.5,normal
+Equity,20.5,normal
+Equity,20.5,normal
+Equity,20.5,normal
+Fixed Income,20.5,normal
+Equity,20.4,normal
+Equity,20.4,normal
+Equity,20.4,normal
+Equity,20.4,normal
+Equity,20.4,normal
+Equity,20.3,normal
+Equity,20.3,normal
+Equity,20.3,normal
+Equity,20.2,normal
+Equity,20.2,normal
+Equity,20.2,normal
+Equity,20.2,normal
+Equity,20.2,normal
+Equity,20.2,normal
+Equity,20.1,normal
+Fixed Income,20.1,normal
+Fixed Income,20.1,normal
+Equity,20,normal
+Equity,20,normal
+Equity,20,normal
+Equity,20,normal
+Equity,20,normal
+Equity,19.9,normal
+Equity,19.9,normal
+Alternatives,19.8,normal
+Equity,19.8,normal
+Equity,19.8,normal
+Equity,19.8,normal
+Equity,19.8,normal
+Fixed Income,19.8,normal
+Fixed Income,19.8,normal
+Equity,19.7,normal
+Equity,19.7,normal
+Equity,19.7,normal
+Equity,19.7,normal
+Equity,19.6,normal
+Equity,19.6,normal
+Fixed Income,19.6,normal
+Equity,19.5,normal
+Equity,19.5,normal
+Equity,19.5,normal
+Equity,19.4,normal
+Equity,19.4,normal
+Equity,19.4,normal
+Equity,19.4,normal
+Fixed Income,19.4,normal
+Equity,19.3,normal
+Equity,19.3,normal
+Equity,19.2,normal
+Alternatives,19.1,normal
+Equity,19.1,normal
+Equity,19.1,normal
+Equity,19.1,normal
+Equity,19,normal
+Equity,19,normal
+Equity,18.9,normal
+Equity,18.9,normal
+Fixed Income,18.9,normal
+Equity,18.8,normal
+Fixed Income,18.8,normal
+Equity,18.7,normal
+Equity,18.7,normal
+Equity,18.7,normal
+Fixed Income,18.7,normal
+Alternatives,18.6,normal
+Equity,18.6,normal
+Equity,18.6,normal
+Fixed Income,18.6,normal
+Equity,18.5,normal
+Equity,18.5,normal
+Equity,18.5,normal
+Fixed Income,18.5,normal
+Equity,18.4,normal
+Equity,18.4,normal
+Equity,18.4,normal
+Fixed Income,18.4,normal
+Fixed Income,18.4,normal
+Equity,18.3,normal
+Equity,18.3,normal
+Equity,18.3,normal
+Equity,18.2,normal
+Equity,18.2,normal
+Equity,18.2,normal
+Equity,18.2,normal
+Equity,18.2,normal
+Equity,18.2,normal
+Equity,18.2,normal
+Equity,18.2,normal
+Equity,18.2,normal
+Fixed Income,18.2,normal
+Equity,18.1,normal
+Equity,18.1,normal
+Equity,18.1,normal
+Equity,18.1,normal
+Equity,18,normal
+Equity,18,normal
+Equity,18,normal
+Equity,18,normal
+Equity,17.9,normal
+Equity,17.9,normal
+Equity,17.9,normal
+Equity,17.9,normal
+Equity,17.8,normal
+Equity,17.8,normal
+Equity,17.8,normal
+Equity,17.8,normal
+Equity,17.8,normal
+Equity,17.8,normal
+Equity,17.8,normal
+Equity,17.8,normal
+Equity,17.7,normal
+Equity,17.7,normal
+Equity,17.7,normal
+Fixed Income,17.7,normal
+Fixed Income,17.7,normal
+Equity,17.6,normal
+Equity,17.6,normal
+Equity,17.6,normal
+Equity,17.6,normal
+Equity,17.6,normal
+Equity,17.6,normal
+Equity,17.5,normal
+Equity,17.5,normal
+Equity,17.5,normal
+Equity,17.5,normal
+Equity,17.5,normal
+Equity,17.5,normal
+Equity,17.5,normal
+Equity,17.5,normal
+Fixed Income,17.5,normal
+Fixed Income,17.5,normal
+Commodities,17.4,normal
+Equity,17.4,normal
+Equity,17.4,normal
+Equity,17.4,normal
+Equity,17.4,normal
+Equity,17.4,normal
+Equity,17.4,normal
+Fixed Income,17.4,normal
+Equity,17.3,normal
+Equity,17.3,normal
+Equity,17.3,normal
+Equity,17.2,normal
+Equity,17.2,normal
+Equity,17.2,normal
+Equity,17.1,normal
+Equity,17.1,normal
+Equity,17.1,normal
+Equity,17.1,normal
+Fixed Income,17.1,normal
+Fixed Income,17.1,normal
+Equity,17,normal
+Equity,17,normal
+Equity,17,normal
+Equity,17,normal
+Equity,17,normal
+Fixed Income,17,normal
+Fixed Income,17,normal
+Fixed Income,17,normal
+Fixed Income,17,normal
+Equity,16.9,normal
+Equity,16.9,normal
+Equity,16.9,normal
+Equity,16.9,normal
+Equity,16.9,normal
+Equity,16.9,normal
+Equity,16.9,normal
+Equity,16.9,normal
+Equity,16.8,normal
+Equity,16.8,normal
+Equity,16.8,normal
+Equity,16.8,normal
+Equity,16.8,normal
+Equity,16.8,normal
+Equity,16.8,normal
+Equity,16.8,normal
+Equity,16.8,normal
+Fixed Income,16.8,normal
+Equity,16.7,normal
+Equity,16.7,normal
+Equity,16.7,normal
+Fixed Income,16.7,normal
+Equity,16.6,normal
+Equity,16.6,normal
+Equity,16.6,normal
+Equity,16.6,normal
+Fixed Income,16.6,normal
+Fixed Income,16.6,normal
+Fixed Income,16.6,normal
+Equity,16.5,normal
+Equity,16.5,normal
+Equity,16.5,normal
+Equity,16.5,normal
+Equity,16.5,normal
+Fixed Income,16.5,normal
+Equity,16.4,normal
+Equity,16.4,normal
+Equity,16.4,normal
+Equity,16.4,normal
+Equity,16.4,normal
+Equity,16.4,normal
+Equity,16.4,normal
+Equity,16.4,normal
+Equity,16.4,normal
+Fixed Income,16.4,normal
+Equity,16.3,normal
+Equity,16.3,normal
+Equity,16.3,normal
+Equity,16.3,normal
+Equity,16.3,normal
+Equity,16.3,normal
+Equity,16.3,normal
+Equity,16.3,normal
+Equity,16.3,normal
+Equity,16.3,normal
+Fixed Income,16.3,normal
+Fixed Income,16.3,normal
+Fixed Income,16.3,normal
+Alternatives,16.2,normal
+Commodities,16.2,normal
+Equity,16.2,normal
+Equity,16.2,normal
+Equity,16.2,normal
+Equity,16.2,normal
+Fixed Income,16.2,normal
+Equity,16.1,normal
+Equity,16.1,normal
+Equity,16.1,normal
+Equity,16.1,normal
+Fixed Income,16.1,normal
+Fixed Income,16.1,normal
+Fixed Income,16.1,normal
+Equity,16,normal
+Equity,16,normal
+Equity,16,normal
+Equity,16,normal
+Equity,16,normal
+Fixed Income,16,normal
+Fixed Income,16,normal
+Fixed Income,16,normal
+Fixed Income,16,normal
+Fixed Income,16,normal
+Fixed Income,16,normal
+Equity,15.9,normal
+Equity,15.9,normal
+Equity,15.9,normal
+Equity,15.9,normal
+Fixed Income,15.9,normal
+Fixed Income,15.9,normal
+Equity,15.8,normal
+Equity,15.8,normal
+Equity,15.8,normal
+Equity,15.8,normal
+Equity,15.8,normal
+Equity,15.8,normal
+Equity,15.8,normal
+Equity,15.8,normal
+Equity,15.8,normal
+Equity,15.7,normal
+Equity,15.7,normal
+Equity,15.7,normal
+Fixed Income,15.7,normal
+Equity,15.6,normal
+Equity,15.6,normal
+Fixed Income,15.6,normal
+Fixed Income,15.6,normal
+Equity,15.5,normal
+Equity,15.5,normal
+Equity,15.5,normal
+Equity,15.4,normal
+Equity,15.4,normal
+Equity,15.4,normal
+Equity,15.4,normal
+Equity,15.4,normal
+Equity,15.4,normal
+Fixed Income,15.4,normal
+Equity,15.3,normal
+Equity,15.3,normal
+Equity,15.3,normal
+Fixed Income,15.3,normal
+Fixed Income,15.3,normal
+Fixed Income,15.3,normal
+Equity,15.2,normal
+Equity,15.2,normal
+Equity,15.2,normal
+Equity,15.2,normal
+Equity,15.2,normal
+Equity,15.2,normal
+Equity,15.2,normal
+Equity,15.2,normal
+Equity,15.2,normal
+Fixed Income,15.2,normal
+Equity,15.1,normal
+Equity,15.1,normal
+Equity,15.1,normal
+Equity,15.1,normal
+Equity,15.1,normal
+Equity,15.1,normal
+Equity,15.1,normal
+Fixed Income,15.1,normal
+Alternatives,15,normal
+Equity,15,normal
+Equity,15,normal
+Equity,15,normal
+Equity,15,normal
+Equity,15,normal
+Equity,15,normal
+Equity,15,normal
+Equity,15,normal
+Fixed Income,15,normal
+Fixed Income,15,normal
+Alternatives,14.9,normal
+Equity,14.9,normal
+Equity,14.9,normal
+Equity,14.9,normal
+Equity,14.9,normal
+Equity,14.9,normal
+Fixed Income,14.9,normal
+Equity,14.8,normal
+Equity,14.8,normal
+Equity,14.8,normal
+Equity,14.8,normal
+Equity,14.8,normal
+Alternatives,14.7,normal
+Commodities,14.7,normal
+Equity,14.7,normal
+Equity,14.7,normal
+Equity,14.7,normal
+Commodities,14.6,normal
+Equity,14.6,normal
+Equity,14.6,normal
+Equity,14.6,normal
+Equity,14.6,normal
+Equity,14.6,normal
+Equity,14.6,normal
+Equity,14.6,normal
+Fixed Income,14.6,normal
+Fixed Income,14.6,normal
+Commodities,14.5,normal
+Equity,14.5,normal
+Equity,14.5,normal
+Equity,14.5,normal
+Equity,14.5,normal
+Equity,14.5,normal
+Alternatives,14.4,normal
+Equity,14.4,normal
+Equity,14.4,normal
+Equity,14.4,normal
+Equity,14.4,normal
+Equity,14.4,normal
+Equity,14.4,normal
+Fixed Income,14.4,normal
+Equity,14.3,normal
+Equity,14.3,normal
+Equity,14.3,normal
+Equity,14.3,normal
+Equity,14.3,normal
+Equity,14.3,normal
+Equity,14.3,normal
+Equity,14.3,normal
+Fixed Income,14.3,normal
+Equity,14.2,normal
+Equity,14.2,normal
+Equity,14.2,normal
+Equity,14.2,normal
+Equity,14.2,normal
+Equity,14.2,normal
+Equity,14.2,normal
+Equity,14.2,normal
+Equity,14.2,normal
+Equity,14.2,normal
+Fixed Income,14.2,normal
+Commodities,14.1,normal
+Equity,14.1,normal
+Equity,14.1,normal
+Equity,14.1,normal
+Equity,14.1,normal
+Equity,14.1,normal
+Equity,14.1,normal
+Fixed Income,14.1,normal
+Equity,14,normal
+Equity,14,normal
+Equity,14,normal
+Equity,14,normal
+Equity,14,normal
+Equity,14,normal
+Equity,14,normal
+Equity,14,normal
+Equity,14,normal
+Equity,14,normal
+Equity,14,normal
+Fixed Income,14,normal
+Fixed Income,14,normal
+Fixed Income,14,normal
+Equity,13.9,normal
+Equity,13.9,normal
+Equity,13.9,normal
+Equity,13.9,normal
+Equity,13.9,normal
+Equity,13.9,normal
+Equity,13.9,normal
+Equity,13.9,normal
+Equity,13.8,normal
+Equity,13.8,normal
+Equity,13.8,normal
+Equity,13.8,normal
+Equity,13.8,normal
+Equity,13.8,normal
+Equity,13.8,normal
+Equity,13.7,normal
+Equity,13.7,normal
+Equity,13.7,normal
+Equity,13.7,normal
+Equity,13.7,normal
+Equity,13.6,normal
+Equity,13.6,normal
+Equity,13.6,normal
+Equity,13.6,normal
+Equity,13.6,normal
+Equity,13.6,normal
+Equity,13.6,normal
+Equity,13.6,normal
+Equity,13.6,normal
+Equity,13.6,normal
+Fixed Income,13.6,normal
+Fixed Income,13.6,normal
+Equity,13.5,normal
+Equity,13.5,normal
+Equity,13.5,normal
+Equity,13.5,normal
+Equity,13.5,normal
+Equity,13.5,normal
+Equity,13.5,normal
+Commodities,13.4,normal
+Commodities,13.4,normal
+Equity,13.4,normal
+Equity,13.4,normal
+Equity,13.4,normal
+Equity,13.4,normal
+Equity,13.4,normal
+Equity,13.4,normal
+Equity,13.4,normal
+Fixed Income,13.4,normal
+Fixed Income,13.4,normal
+Fixed Income,13.4,normal
+Equity,13.3,normal
+Fixed Income,13.3,normal
+Equity,13.2,normal
+Equity,13.2,normal
+Equity,13.2,normal
+Equity,13.2,normal
+Equity,13.2,normal
+Equity,13.2,normal
+Fixed Income,13.2,normal
+Equity,13.1,normal
+Equity,13.1,normal
+Equity,13.1,normal
+Equity,13.1,normal
+Equity,13.1,normal
+Equity,13.1,normal
+Equity,13.1,normal
+Fixed Income,13.1,normal
+Equity,13,normal
+Equity,13,normal
+Equity,13,normal
+Equity,13,normal
+Equity,13,normal
+Equity,13,normal
+Equity,13,normal
+Equity,13,normal
+Fixed Income,13,normal
+Fixed Income,13,normal
+Fixed Income,13,normal
+Equity,12.9,normal
+Equity,12.9,normal
+Equity,12.9,normal
+Equity,12.9,normal
+Fixed Income,12.9,normal
+Equity,12.8,normal
+Equity,12.8,normal
+Equity,12.8,normal
+Equity,12.8,normal
+Equity,12.8,normal
+Equity,12.8,normal
+Equity,12.8,normal
+Equity,12.7,normal
+Equity,12.7,normal
+Equity,12.7,normal
+Equity,12.7,normal
+Equity,12.7,normal
+Equity,12.7,normal
+Equity,12.7,normal
+Equity,12.7,normal
+Equity,12.7,normal
+Fixed Income,12.7,normal
+Fixed Income,12.7,normal
+Equity,12.6,normal
+Equity,12.6,normal
+Equity,12.6,normal
+Equity,12.6,normal
+Equity,12.6,normal
+Equity,12.6,normal
+Fixed Income,12.6,normal
+Equity,12.5,normal
+Equity,12.5,normal
+Equity,12.5,normal
+Equity,12.5,normal
+Equity,12.5,normal
+Equity,12.5,normal
+Equity,12.5,normal
+Fixed Income,12.5,normal
+Fixed Income,12.5,normal
+Fixed Income,12.5,normal
+Fixed Income,12.5,normal
+Fixed Income,12.5,normal
+Equity,12.4,normal
+Equity,12.4,normal
+Equity,12.4,normal
+Equity,12.4,normal
+Equity,12.4,normal
+Equity,12.4,normal
+Equity,12.4,normal
+Equity,12.4,normal
+Equity,12.4,normal
+Fixed Income,12.4,normal
+Fixed Income,12.4,normal
+Fixed Income,12.4,normal
+Alternatives,12.3,normal
+Equity,12.3,normal
+Equity,12.3,normal
+Equity,12.3,normal
+Equity,12.3,normal
+Equity,12.3,normal
+Equity,12.3,normal
+Equity,12.3,normal
+Equity,12.3,normal
+Equity,12.3,normal
+Fixed Income,12.3,normal
+Fixed Income,12.3,normal
+Equity,12.2,normal
+Equity,12.2,normal
+Equity,12.2,normal
+Equity,12.2,normal
+Equity,12.2,normal
+Equity,12.2,normal
+Equity,12.2,normal
+Equity,12.2,normal
+Equity,12.2,normal
+Equity,12.2,normal
+Equity,12.2,normal
+Equity,12.2,normal
+Fixed Income,12.2,normal
+Fixed Income,12.2,normal
+Fixed Income,12.2,normal
+Fixed Income,12.2,normal
+Equity,12.1,normal
+Equity,12.1,normal
+Equity,12.1,normal
+Equity,12.1,normal
+Equity,12.1,normal
+Equity,12.1,normal
+Equity,12.1,normal
+Equity,12.1,normal
+Equity,12.1,normal
+Equity,12.1,normal
+Equity,12.1,normal
+Fixed Income,12.1,normal
+Fixed Income,12.1,normal
+Fixed Income,12.1,normal
+Equity,12,normal
+Equity,12,normal
+Equity,12,normal
+Equity,12,normal
+Equity,12,normal
+Equity,12,normal
+Equity,12,normal
+Equity,12,normal
+Equity,12,normal
+Equity,12,normal
+Equity,12,normal
+Equity,12,normal
+Equity,12,normal
+Fixed Income,12,normal
+Fixed Income,12,normal
+Alternatives,11.9,normal
+Alternatives,11.9,normal
+Equity,11.9,normal
+Equity,11.9,normal
+Equity,11.9,normal
+Equity,11.9,normal
+Equity,11.9,normal
+Equity,11.9,normal
+Equity,11.9,normal
+Equity,11.9,normal
+Fixed Income,11.9,normal
+Commodities,11.8,normal
+Equity,11.8,normal
+Equity,11.8,normal
+Equity,11.8,normal
+Equity,11.8,normal
+Equity,11.8,normal
+Equity,11.8,normal
+Equity,11.8,normal
+Equity,11.8,normal
+Fixed Income,11.8,normal
+Fixed Income,11.8,normal
+Fixed Income,11.8,normal
+Commodities,11.7,normal
+Equity,11.7,normal
+Equity,11.7,normal
+Equity,11.7,normal
+Equity,11.7,normal
+Equity,11.7,normal
+Equity,11.7,normal
+Equity,11.7,normal
+Equity,11.7,normal
+Equity,11.7,normal
+Equity,11.7,normal
+Equity,11.7,normal
+Equity,11.7,normal
+Fixed Income,11.7,normal
+Alternatives,11.6,normal
+Equity,11.6,normal
+Equity,11.6,normal
+Equity,11.6,normal
+Equity,11.6,normal
+Equity,11.6,normal
+Equity,11.6,normal
+Equity,11.6,normal
+Fixed Income,11.6,normal
+Fixed Income,11.6,normal
+Commodities,11.5,normal
+Equity,11.5,normal
+Equity,11.5,normal
+Equity,11.5,normal
+Equity,11.5,normal
+Equity,11.5,normal
+Equity,11.5,normal
+Equity,11.5,normal
+Equity,11.5,normal
+Equity,11.5,normal
+Equity,11.5,normal
+Equity,11.5,normal
+Fixed Income,11.5,normal
+Commodities,11.4,normal
+Equity,11.4,normal
+Equity,11.4,normal
+Equity,11.4,normal
+Equity,11.4,normal
+Equity,11.4,normal
+Equity,11.4,normal
+Equity,11.4,normal
+Equity,11.4,normal
+Fixed Income,11.4,normal
+Fixed Income,11.4,normal
+Fixed Income,11.4,normal
+Equity,11.3,normal
+Equity,11.3,normal
+Equity,11.3,normal
+Equity,11.3,normal
+Equity,11.3,normal
+Equity,11.3,normal
+Equity,11.3,normal
+Equity,11.3,normal
+Equity,11.3,normal
+Equity,11.3,normal
+Equity,11.3,normal
+Equity,11.3,normal
+Equity,11.3,normal
+Equity,11.3,normal
+Equity,11.3,normal
+Equity,11.3,normal
+Fixed Income,11.3,normal
+Fixed Income,11.3,normal
+Fixed Income,11.3,normal
+Equity,11.2,normal
+Equity,11.2,normal
+Equity,11.2,normal
+Equity,11.2,normal
+Equity,11.2,normal
+Equity,11.2,normal
+Equity,11.2,normal
+Equity,11.2,normal
+Equity,11.2,normal
+Equity,11.2,normal
+Equity,11.2,normal
+Fixed Income,11.2,normal
+Fixed Income,11.2,normal
+Commodities,11.1,normal
+Equity,11.1,normal
+Equity,11.1,normal
+Equity,11.1,normal
+Equity,11.1,normal
+Equity,11.1,normal
+Equity,11.1,normal
+Equity,11.1,normal
+Equity,11.1,normal
+Equity,11.1,normal
+Equity,11.1,normal
+Equity,11.1,normal
+Equity,11.1,normal
+Fixed Income,11.1,normal
+Equity,11,normal
+Equity,11,normal
+Equity,11,normal
+Equity,11,normal
+Equity,11,normal
+Equity,11,normal
+Equity,11,normal
+Equity,11,normal
+Equity,11,normal
+Fixed Income,11,normal
+Fixed Income,11,normal
+Fixed Income,11,normal
+Equity,10.9,normal
+Equity,10.9,normal
+Equity,10.9,normal
+Equity,10.9,normal
+Equity,10.9,normal
+Equity,10.9,normal
+Equity,10.9,normal
+Equity,10.9,normal
+Equity,10.9,normal
+Equity,10.9,normal
+Equity,10.9,normal
+Fixed Income,10.9,normal
+Equity,10.8,normal
+Equity,10.8,normal
+Equity,10.8,normal
+Equity,10.8,normal
+Equity,10.8,normal
+Equity,10.8,normal
+Equity,10.8,normal
+Equity,10.8,normal
+Equity,10.8,normal
+Equity,10.8,normal
+Equity,10.8,normal
+Equity,10.8,normal
+Equity,10.8,normal
+Equity,10.8,normal
+Equity,10.8,normal
+Equity,10.8,normal
+Equity,10.7,normal
+Equity,10.7,normal
+Equity,10.7,normal
+Equity,10.7,normal
+Equity,10.7,normal
+Equity,10.7,normal
+Equity,10.6,normal
+Equity,10.6,normal
+Equity,10.6,normal
+Equity,10.6,normal
+Equity,10.6,normal
+Equity,10.6,normal
+Equity,10.6,normal
+Equity,10.6,normal
+Equity,10.6,normal
+Equity,10.6,normal
+Equity,10.6,normal
+Equity,10.6,normal
+Equity,10.6,normal
+Equity,10.6,normal
+Fixed Income,10.6,normal
+Fixed Income,10.6,normal
+Fixed Income,10.6,normal
+Fixed Income,10.6,normal
+Equity,10.5,normal
+Equity,10.5,normal
+Equity,10.5,normal
+Equity,10.5,normal
+Equity,10.5,normal
+Equity,10.5,normal
+Equity,10.5,normal
+Equity,10.5,normal
+Equity,10.5,normal
+Equity,10.5,normal
+Equity,10.5,normal
+Equity,10.5,normal
+Equity,10.5,normal
+Equity,10.5,normal
+Equity,10.4,normal
+Equity,10.4,normal
+Equity,10.4,normal
+Equity,10.4,normal
+Equity,10.4,normal
+Equity,10.4,normal
+Fixed Income,10.4,normal
+Commodities,10.3,normal
+Equity,10.3,normal
+Equity,10.3,normal
+Equity,10.3,normal
+Equity,10.3,normal
+Equity,10.3,normal
+Equity,10.3,normal
+Equity,10.3,normal
+Equity,10.3,normal
+Fixed Income,10.3,normal
+Fixed Income,10.3,normal
+Equity,10.2,normal
+Equity,10.2,normal
+Equity,10.2,normal
+Equity,10.2,normal
+Equity,10.2,normal
+Equity,10.2,normal
+Equity,10.2,normal
+Equity,10.2,normal
+Equity,10.2,normal
+Equity,10.2,normal
+Equity,10.2,normal
+Equity,10.2,normal
+Equity,10.2,normal
+Equity,10.2,normal
+Equity,10.2,normal
+Equity,10.2,normal
+Fixed Income,10.2,normal
+Fixed Income,10.2,normal
+Commodities,10.1,normal
+Equity,10.1,normal
+Equity,10.1,normal
+Equity,10.1,normal
+Equity,10.1,normal
+Equity,10.1,normal
+Equity,10.1,normal
+Equity,10.1,normal
+Fixed Income,10.1,normal
+Fixed Income,10.1,normal
+Commodities,10,normal
+Equity,10,normal
+Equity,10,normal
+Equity,10,normal
+Equity,10,normal
+Equity,10,normal
+Equity,10,normal
+Equity,10,normal
+Equity,10,normal
+Equity,10,normal
+Equity,10,normal
+Equity,10,normal
+Equity,10,normal
+Equity,10,normal
+Equity,10,normal
+Equity,10,normal
+Equity,10,normal
+Fixed Income,10,normal
+Fixed Income,10,normal
+Fixed Income,10,normal
+Commodities,9.9,normal
+Equity,9.9,normal
+Equity,9.9,normal
+Equity,9.9,normal
+Equity,9.9,normal
+Equity,9.9,normal
+Equity,9.9,normal
+Equity,9.9,normal
+Equity,9.9,normal
+Equity,9.9,normal
+Equity,9.9,normal
+Equity,9.9,normal
+Equity,9.9,normal
+Equity,9.9,normal
+Equity,9.9,normal
+Equity,9.9,normal
+Equity,9.9,normal
+Fixed Income,9.9,normal
+Fixed Income,9.9,normal
+Fixed Income,9.9,normal
+Fixed Income,9.9,normal
+Fixed Income,9.9,normal
+Equity,9.8,normal
+Equity,9.8,normal
+Equity,9.8,normal
+Equity,9.8,normal
+Equity,9.8,normal
+Equity,9.8,normal
+Equity,9.8,normal
+Equity,9.8,normal
+Equity,9.8,normal
+Equity,9.8,normal
+Equity,9.8,normal
+Equity,9.8,normal
+Equity,9.8,normal
+Equity,9.8,normal
+Equity,9.8,normal
+Equity,9.8,normal
+Equity,9.8,normal
+Equity,9.8,normal
+Fixed Income,9.8,normal
+Equity,9.7,normal
+Equity,9.7,normal
+Equity,9.7,normal
+Equity,9.7,normal
+Equity,9.7,normal
+Equity,9.7,normal
+Equity,9.7,normal
+Equity,9.7,normal
+Equity,9.7,normal
+Equity,9.6,normal
+Equity,9.6,normal
+Equity,9.6,normal
+Equity,9.6,normal
+Equity,9.6,normal
+Equity,9.6,normal
+Equity,9.6,normal
+Equity,9.6,normal
+Equity,9.6,normal
+Equity,9.6,normal
+Equity,9.6,normal
+Equity,9.6,normal
+Fixed Income,9.6,normal
+Fixed Income,9.6,normal
+Fixed Income,9.6,normal
+Fixed Income,9.6,normal
+Equity,9.5,normal
+Equity,9.5,normal
+Equity,9.5,normal
+Fixed Income,9.5,normal
+Fixed Income,9.5,normal
+Commodities,9.4,normal
+Equity,9.4,normal
+Equity,9.4,normal
+Equity,9.4,normal
+Equity,9.4,normal
+Equity,9.4,normal
+Equity,9.4,normal
+Equity,9.4,normal
+Equity,9.4,normal
+Equity,9.4,normal
+Equity,9.4,normal
+Equity,9.4,normal
+Equity,9.4,normal
+Equity,9.4,normal
+Equity,9.4,normal
+Equity,9.4,normal
+Equity,9.4,normal
+Equity,9.4,normal
+Equity,9.4,normal
+Commodities,9.3,normal
+Equity,9.3,normal
+Equity,9.3,normal
+Equity,9.3,normal
+Equity,9.3,normal
+Equity,9.3,normal
+Equity,9.3,normal
+Equity,9.3,normal
+Equity,9.3,normal
+Equity,9.3,normal
+Equity,9.3,normal
+Equity,9.3,normal
+Fixed Income,9.3,normal
+Fixed Income,9.3,normal
+Alternatives,9.2,normal
+Equity,9.2,normal
+Equity,9.2,normal
+Equity,9.2,normal
+Equity,9.2,normal
+Equity,9.2,normal
+Equity,9.2,normal
+Equity,9.2,normal
+Equity,9.2,normal
+Equity,9.2,normal
+Equity,9.2,normal
+Equity,9.2,normal
+Equity,9.2,normal
+Fixed Income,9.2,normal
+Fixed Income,9.2,normal
+Fixed Income,9.2,normal
+Equity,9.1,normal
+Equity,9.1,normal
+Equity,9.1,normal
+Equity,9.1,normal
+Equity,9.1,normal
+Equity,9.1,normal
+Equity,9.1,normal
+Equity,9.1,normal
+Equity,9,normal
+Equity,9,normal
+Equity,9,normal
+Equity,9,normal
+Equity,9,normal
+Equity,9,normal
+Equity,9,normal
+Equity,9,normal
+Equity,9,normal
+Fixed Income,9,normal
+Commodities,8.9,normal
+Equity,8.9,normal
+Equity,8.9,normal
+Equity,8.9,normal
+Equity,8.9,normal
+Equity,8.9,normal
+Equity,8.9,normal
+Equity,8.9,normal
+Equity,8.9,normal
+Equity,8.8,normal
+Equity,8.8,normal
+Equity,8.8,normal
+Equity,8.8,normal
+Equity,8.8,normal
+Equity,8.8,normal
+Equity,8.8,normal
+Equity,8.8,normal
+Fixed Income,8.8,normal
+Fixed Income,8.8,normal
+Fixed Income,8.8,normal
+Equity,8.7,normal
+Equity,8.7,normal
+Equity,8.7,normal
+Equity,8.7,normal
+Equity,8.7,normal
+Equity,8.7,normal
+Equity,8.7,normal
+Equity,8.7,normal
+Equity,8.7,normal
+Equity,8.7,normal
+Equity,8.7,normal
+Fixed Income,8.7,normal
+Fixed Income,8.7,normal
+Fixed Income,8.7,normal
+Fixed Income,8.7,normal
+Fixed Income,8.7,normal
+Fixed Income,8.7,normal
+Commodities,8.6,normal
+Equity,8.6,normal
+Equity,8.6,normal
+Equity,8.6,normal
+Equity,8.6,normal
+Equity,8.6,normal
+Equity,8.6,normal
+Equity,8.6,normal
+Equity,8.6,normal
+Equity,8.6,normal
+Fixed Income,8.6,normal
+Equity,8.5,normal
+Equity,8.5,normal
+Equity,8.5,normal
+Equity,8.5,normal
+Equity,8.5,normal
+Equity,8.5,normal
+Equity,8.5,normal
+Equity,8.5,normal
+Equity,8.5,normal
+Equity,8.5,normal
+Fixed Income,8.5,normal
+Fixed Income,8.5,normal
+Commodities,8.4,normal
+Equity,8.4,normal
+Equity,8.4,normal
+Equity,8.4,normal
+Equity,8.4,normal
+Equity,8.4,normal
+Equity,8.4,normal
+Equity,8.4,normal
+Equity,8.4,normal
+Fixed Income,8.4,normal
+Fixed Income,8.4,normal
+Fixed Income,8.4,normal
+Fixed Income,8.4,normal
+Equity,8.3,normal
+Equity,8.3,normal
+Equity,8.3,normal
+Equity,8.3,normal
+Equity,8.3,normal
+Fixed Income,8.3,normal
+Fixed Income,8.3,normal
+Equity,8.2,normal
+Equity,8.2,normal
+Equity,8.2,normal
+Equity,8.2,normal
+Equity,8.2,normal
+Equity,8.2,normal
+Equity,8.2,normal
+Equity,8.2,normal
+Equity,8.2,normal
+Equity,8.2,normal
+Equity,8.2,normal
+Equity,8.2,normal
+Equity,8.2,normal
+Fixed Income,8.2,normal
+Fixed Income,8.2,normal
+Fixed Income,8.2,normal
+Fixed Income,8.2,normal
+Fixed Income,8.2,normal
+Fixed Income,8.2,normal
+Fixed Income,8.2,normal
+Equity,8.1,normal
+Equity,8.1,normal
+Equity,8.1,normal
+Equity,8.1,normal
+Equity,8.1,normal
+Equity,8.1,normal
+Equity,8.1,normal
+Equity,8.1,normal
+Equity,8.1,normal
+Fixed Income,8.1,normal
+Fixed Income,8.1,normal
+Fixed Income,8.1,normal
+Fixed Income,8.1,normal
+Fixed Income,8.1,normal
+Fixed Income,8.1,normal
+Commodities,8,normal
+Equity,8,normal
+Equity,8,normal
+Equity,8,normal
+Equity,8,normal
+Equity,8,normal
+Equity,8,normal
+Equity,8,normal
+Fixed Income,8,normal
+Fixed Income,8,normal
+Fixed Income,8,normal
+Fixed Income,8,normal
+Fixed Income,8,normal
+Fixed Income,8,normal
+Fixed Income,8,normal
+Alternatives,7.9,normal
+Commodities,7.9,normal
+Equity,7.9,normal
+Equity,7.9,normal
+Equity,7.9,normal
+Equity,7.9,normal
+Equity,7.9,normal
+Equity,7.9,normal
+Equity,7.9,normal
+Equity,7.9,normal
+Equity,7.9,normal
+Fixed Income,7.9,normal
+Fixed Income,7.9,normal
+Equity,7.8,normal
+Equity,7.8,normal
+Equity,7.8,normal
+Equity,7.8,normal
+Equity,7.8,normal
+Equity,7.8,normal
+Equity,7.8,normal
+Equity,7.8,normal
+Equity,7.8,normal
+Fixed Income,7.8,normal
+Fixed Income,7.8,normal
+Fixed Income,7.8,normal
+Fixed Income,7.8,normal
+Equity,7.7,normal
+Equity,7.7,normal
+Equity,7.7,normal
+Equity,7.7,normal
+Equity,7.7,normal
+Equity,7.7,normal
+Equity,7.7,normal
+Equity,7.7,normal
+Fixed Income,7.7,normal
+Fixed Income,7.7,normal
+Equity,7.6,normal
+Equity,7.6,normal
+Equity,7.6,normal
+Equity,7.6,normal
+Equity,7.6,normal
+Equity,7.6,normal
+Equity,7.6,normal
+Equity,7.6,normal
+Equity,7.6,normal
+Equity,7.6,normal
+Fixed Income,7.6,normal
+Fixed Income,7.6,normal
+Equity,7.5,normal
+Equity,7.5,normal
+Equity,7.5,normal
+Equity,7.5,normal
+Equity,7.5,normal
+Equity,7.5,normal
+Equity,7.5,normal
+Equity,7.5,normal
+Equity,7.5,normal
+Equity,7.5,normal
+Equity,7.5,normal
+Fixed Income,7.5,normal
+Fixed Income,7.5,normal
+Fixed Income,7.5,normal
+Fixed Income,7.5,normal
+Equity,7.4,normal
+Equity,7.4,normal
+Equity,7.4,normal
+Equity,7.4,normal
+Equity,7.4,normal
+Equity,7.4,normal
+Equity,7.4,normal
+Equity,7.4,normal
+Equity,7.4,normal
+Equity,7.4,normal
+Equity,7.4,normal
+Equity,7.4,normal
+Fixed Income,7.4,normal
+Fixed Income,7.4,normal
+Equity,7.3,normal
+Equity,7.3,normal
+Equity,7.3,normal
+Equity,7.3,normal
+Equity,7.3,normal
+Equity,7.3,normal
+Equity,7.3,normal
+Equity,7.3,normal
+Fixed Income,7.3,normal
+Fixed Income,7.3,normal
+Fixed Income,7.3,normal
+Fixed Income,7.3,normal
+Commodities,7.2,normal
+Equity,7.2,normal
+Equity,7.2,normal
+Equity,7.2,normal
+Equity,7.2,normal
+Fixed Income,7.2,normal
+Fixed Income,7.2,normal
+Fixed Income,7.2,normal
+Commodities,7.1,normal
+Equity,7.1,normal
+Equity,7.1,normal
+Equity,7.1,normal
+Equity,7.1,normal
+Equity,7.1,normal
+Equity,7.1,normal
+Equity,7.1,normal
+Equity,7.1,normal
+Fixed Income,7.1,normal
+Equity,7,normal
+Equity,7,normal
+Equity,7,normal
+Equity,7,normal
+Equity,7,normal
+Equity,7,normal
+Equity,7,normal
+Equity,7,normal
+Equity,7,normal
+Equity,7,normal
+Equity,7,normal
+Equity,7,normal
+Equity,7,normal
+Equity,7,normal
+Fixed Income,7,normal
+Fixed Income,7,normal
+Commodities,6.9,normal
+Commodities,6.9,normal
+Equity,6.9,normal
+Equity,6.9,normal
+Equity,6.9,normal
+Equity,6.9,normal
+Equity,6.9,normal
+Equity,6.9,normal
+Equity,6.9,normal
+Equity,6.9,normal
+Equity,6.9,normal
+Equity,6.9,normal
+Equity,6.9,normal
+Equity,6.9,normal
+Equity,6.9,normal
+Equity,6.9,normal
+Fixed Income,6.9,normal
+Alternatives,6.8,normal
+Equity,6.8,normal
+Equity,6.8,normal
+Equity,6.8,normal
+Equity,6.8,normal
+Equity,6.8,normal
+Equity,6.8,normal
+Equity,6.8,normal
+Equity,6.8,normal
+Equity,6.8,normal
+Equity,6.8,normal
+Equity,6.8,normal
+Equity,6.8,normal
+Equity,6.8,normal
+Equity,6.8,normal
+Equity,6.8,normal
+Fixed Income,6.8,normal
+Fixed Income,6.8,normal
+Fixed Income,6.8,normal
+Commodities,6.7,normal
+Commodities,6.7,normal
+Equity,6.7,normal
+Equity,6.7,normal
+Equity,6.7,normal
+Equity,6.7,normal
+Equity,6.7,normal
+Equity,6.7,normal
+Equity,6.7,normal
+Equity,6.7,normal
+Equity,6.7,normal
+Fixed Income,6.7,normal
+Equity,6.6,normal
+Equity,6.6,normal
+Equity,6.6,normal
+Equity,6.6,normal
+Equity,6.6,normal
+Equity,6.6,normal
+Equity,6.6,normal
+Equity,6.6,normal
+Equity,6.6,normal
+Equity,6.6,normal
+Equity,6.6,normal
+Fixed Income,6.6,normal
+Fixed Income,6.6,normal
+Fixed Income,6.6,normal
+Fixed Income,6.6,normal
+Equity,6.5,normal
+Equity,6.5,normal
+Equity,6.5,normal
+Equity,6.5,normal
+Equity,6.5,normal
+Equity,6.5,normal
+Equity,6.5,normal
+Equity,6.5,normal
+Fixed Income,6.5,normal
+Fixed Income,6.5,normal
+Fixed Income,6.5,normal
+Equity,6.4,normal
+Equity,6.4,normal
+Equity,6.4,normal
+Equity,6.4,normal
+Equity,6.4,normal
+Equity,6.4,normal
+Equity,6.4,normal
+Equity,6.4,normal
+Equity,6.4,normal
+Equity,6.4,normal
+Equity,6.4,normal
+Fixed Income,6.4,normal
+Fixed Income,6.4,normal
+Fixed Income,6.4,normal
+Fixed Income,6.4,normal
+Equity,6.3,normal
+Equity,6.3,normal
+Equity,6.3,normal
+Equity,6.3,normal
+Equity,6.3,normal
+Equity,6.3,normal
+Equity,6.3,normal
+Equity,6.3,normal
+Equity,6.3,normal
+Equity,6.3,normal
+Equity,6.3,normal
+Equity,6.3,normal
+Equity,6.3,normal
+Fixed Income,6.3,normal
+Fixed Income,6.3,normal
+Fixed Income,6.3,normal
+Commodities,6.2,normal
+Equity,6.2,normal
+Equity,6.2,normal
+Equity,6.2,normal
+Equity,6.2,normal
+Equity,6.2,normal
+Equity,6.2,normal
+Fixed Income,6.2,normal
+Fixed Income,6.2,normal
+Fixed Income,6.2,normal
+Commodities,6.1,normal
+Equity,6.1,normal
+Equity,6.1,normal
+Equity,6.1,normal
+Equity,6.1,normal
+Equity,6.1,normal
+Equity,6.1,normal
+Equity,6.1,normal
+Equity,6.1,normal
+Fixed Income,6.1,normal
+Commodities,6,normal
+Equity,6,normal
+Equity,6,normal
+Equity,6,normal
+Equity,6,normal
+Equity,6,normal
+Equity,6,normal
+Fixed Income,6,normal
+Equity,5.9,normal
+Equity,5.9,normal
+Equity,5.9,normal
+Equity,5.9,normal
+Equity,5.9,normal
+Equity,5.9,normal
+Equity,5.9,normal
+Equity,5.9,normal
+Equity,5.9,normal
+Fixed Income,5.9,normal
+Commodities,5.8,normal
+Equity,5.8,normal
+Equity,5.8,normal
+Equity,5.8,normal
+Equity,5.8,normal
+Equity,5.8,normal
+Equity,5.8,normal
+Equity,5.8,normal
+Equity,5.8,normal
+Equity,5.8,normal
+Equity,5.8,normal
+Equity,5.8,normal
+Equity,5.8,normal
+Equity,5.8,normal
+Equity,5.8,normal
+Equity,5.8,normal
+Fixed Income,5.8,normal
+Fixed Income,5.8,normal
+Fixed Income,5.8,normal
+Fixed Income,5.8,normal
+Commodities,5.7,normal
+Commodities,5.7,normal
+Equity,5.7,normal
+Equity,5.7,normal
+Equity,5.7,normal
+Equity,5.7,normal
+Equity,5.7,normal
+Equity,5.7,normal
+Equity,5.7,normal
+Equity,5.7,normal
+Equity,5.7,normal
+Equity,5.7,normal
+Fixed Income,5.7,normal
+Fixed Income,5.7,normal
+Alternatives,5.6,normal
+Alternatives,5.6,normal
+Alternatives,5.6,normal
+Commodities,5.6,normal
+Equity,5.6,normal
+Equity,5.6,normal
+Equity,5.6,normal
+Equity,5.6,normal
+Equity,5.6,normal
+Equity,5.6,normal
+Equity,5.6,normal
+Equity,5.6,normal
+Equity,5.6,normal
+Equity,5.6,normal
+Equity,5.6,normal
+Equity,5.6,normal
+Fixed Income,5.6,normal
+Equity,5.5,normal
+Equity,5.5,normal
+Equity,5.5,normal
+Equity,5.5,normal
+Equity,5.5,normal
+Fixed Income,5.5,normal
+Fixed Income,5.5,normal
+Fixed Income,5.5,normal
+Equity,5.4,normal
+Equity,5.4,normal
+Equity,5.4,normal
+Equity,5.4,normal
+Equity,5.4,normal
+Equity,5.4,normal
+Equity,5.4,normal
+Equity,5.4,normal
+Fixed Income,5.4,normal
+Fixed Income,5.4,normal
+Equity,5.3,normal
+Equity,5.3,normal
+Equity,5.3,normal
+Equity,5.3,normal
+Equity,5.3,normal
+Equity,5.3,normal
+Equity,5.3,normal
+Equity,5.3,normal
+Equity,5.3,normal
+Equity,5.3,normal
+Equity,5.3,normal
+Equity,5.3,normal
+Equity,5.2,normal
+Equity,5.2,normal
+Fixed Income,5.2,normal
+Fixed Income,5.2,normal
+Equity,5.1,normal
+Equity,5.1,normal
+Equity,5.1,normal
+Equity,5.1,normal
+Equity,5.1,normal
+Equity,5.1,normal
+Equity,5.1,normal
+Equity,5.1,normal
+Equity,5.1,normal
+Equity,5.1,normal
+Fixed Income,5.1,normal
+Alternatives,5,normal
+Equity,5,normal
+Equity,5,normal
+Equity,5,normal
+Equity,5,normal
+Equity,5,normal
+Equity,5,normal
+Equity,5,normal
+Equity,5,normal
+Fixed Income,5,normal
+Fixed Income,5,normal
+Fixed Income,5,normal
+Fixed Income,5,normal
+Fixed Income,5,normal
+Fixed Income,5,normal
+Equity,4.9,normal
+Equity,4.9,normal
+Equity,4.9,normal
+Equity,4.9,normal
+Equity,4.9,normal
+Equity,4.9,normal
+Equity,4.9,normal
+Equity,4.9,normal
+Equity,4.9,normal
+Equity,4.9,normal
+Fixed Income,4.9,normal
+Fixed Income,4.9,normal
+Commodities,4.8,normal
+Equity,4.8,normal
+Equity,4.8,normal
+Equity,4.8,normal
+Equity,4.8,normal
+Fixed Income,4.8,normal
+Fixed Income,4.8,normal
+Fixed Income,4.8,normal
+Fixed Income,4.8,normal
+Fixed Income,4.8,normal
+Fixed Income,4.8,normal
+Equity,4.7,normal
+Equity,4.7,normal
+Equity,4.7,normal
+Equity,4.7,normal
+Equity,4.7,normal
+Equity,4.7,normal
+Equity,4.7,normal
+Equity,4.7,normal
+Equity,4.7,normal
+Fixed Income,4.7,normal
+Equity,4.6,normal
+Equity,4.6,normal
+Equity,4.6,normal
+Equity,4.6,normal
+Equity,4.6,normal
+Equity,4.6,normal
+Equity,4.6,normal
+Fixed Income,4.6,normal
+Fixed Income,4.6,normal
+Alternatives,4.5,normal
+Commodities,4.5,normal
+Equity,4.5,normal
+Equity,4.5,normal
+Equity,4.5,normal
+Equity,4.5,normal
+Equity,4.5,normal
+Equity,4.5,normal
+Equity,4.5,normal
+Equity,4.5,normal
+Equity,4.5,normal
+Equity,4.5,normal
+Fixed Income,4.5,normal
+Fixed Income,4.5,normal
+Fixed Income,4.5,normal
+Equity,4.4,normal
+Equity,4.4,normal
+Equity,4.4,normal
+Equity,4.4,normal
+Equity,4.4,normal
+Equity,4.4,normal
+Equity,4.4,normal
+Equity,4.4,normal
+Equity,4.4,normal
+Equity,4.4,normal
+Equity,4.4,normal
+Equity,4.4,normal
+Equity,4.4,normal
+Equity,4.4,normal
+Equity,4.4,normal
+Equity,4.4,normal
+Fixed Income,4.4,normal
+Fixed Income,4.4,normal
+Fixed Income,4.4,normal
+Fixed Income,4.4,normal
+Fixed Income,4.4,normal
+Fixed Income,4.4,normal
+Equity,4.3,normal
+Equity,4.3,normal
+Equity,4.3,normal
+Equity,4.3,normal
+Equity,4.3,normal
+Equity,4.3,normal
+Equity,4.3,normal
+Equity,4.3,normal
+Fixed Income,4.3,normal
+Alternatives,4.2,normal
+Equity,4.2,normal
+Equity,4.2,normal
+Equity,4.2,normal
+Equity,4.2,normal
+Equity,4.2,normal
+Equity,4.2,normal
+Equity,4.2,normal
+Equity,4.2,normal
+Fixed Income,4.2,normal
+Fixed Income,4.2,normal
+Fixed Income,4.2,normal
+Equity,4.1,normal
+Equity,4.1,normal
+Equity,4.1,normal
+Equity,4.1,normal
+Equity,4.1,normal
+Equity,4.1,normal
+Fixed Income,4.1,normal
+Fixed Income,4.1,normal
+Fixed Income,4.1,normal
+Fixed Income,4.1,normal
+Commodities,4,normal
+Equity,4,normal
+Equity,4,normal
+Equity,4,normal
+Equity,4,normal
+Fixed Income,4,normal
+Equity,3.9,normal
+Equity,3.9,normal
+Equity,3.9,normal
+Equity,3.9,normal
+Equity,3.9,normal
+Equity,3.9,normal
+Equity,3.9,normal
+Equity,3.9,normal
+Equity,3.9,normal
+Fixed Income,3.9,normal
+Fixed Income,3.9,normal
+Fixed Income,3.9,normal
+Fixed Income,3.9,normal
+Fixed Income,3.9,normal
+Fixed Income,3.9,normal
+Alternatives,3.8,normal
+Equity,3.8,normal
+Equity,3.8,normal
+Equity,3.8,normal
+Equity,3.8,normal
+Equity,3.8,normal
+Equity,3.8,normal
+Equity,3.8,normal
+Fixed Income,3.8,normal
+Fixed Income,3.8,normal
+Fixed Income,3.8,normal
+Equity,3.7,normal
+Equity,3.7,normal
+Equity,3.7,normal
+Equity,3.7,normal
+Equity,3.7,normal
+Fixed Income,3.7,normal
+Fixed Income,3.7,normal
+Equity,3.6,normal
+Equity,3.6,normal
+Equity,3.6,normal
+Equity,3.6,normal
+Equity,3.6,normal
+Equity,3.6,normal
+Fixed Income,3.6,normal
+Fixed Income,3.6,normal
+Fixed Income,3.6,normal
+Fixed Income,3.6,normal
+Fixed Income,3.6,normal
+Equity,3.5,normal
+Equity,3.5,normal
+Equity,3.5,normal
+Equity,3.5,normal
+Equity,3.5,normal
+Equity,3.5,normal
+Equity,3.5,normal
+Fixed Income,3.5,normal
+Fixed Income,3.5,normal
+Fixed Income,3.5,normal
+Fixed Income,3.5,normal
+Fixed Income,3.5,normal
+Fixed Income,3.5,normal
+Equity,3.4,normal
+Equity,3.4,normal
+Equity,3.4,normal
+Equity,3.4,normal
+Equity,3.4,normal
+Equity,3.4,normal
+Equity,3.4,normal
+Equity,3.4,normal
+Equity,3.4,normal
+Fixed Income,3.4,normal
+Fixed Income,3.4,normal
+Commodities,3.3,normal
+Equity,3.3,normal
+Equity,3.3,normal
+Equity,3.3,normal
+Fixed Income,3.3,normal
+Fixed Income,3.3,normal
+Commodities,3.2,normal
+Equity,3.2,normal
+Equity,3.2,normal
+Equity,3.2,normal
+Equity,3.2,normal
+Equity,3.2,normal
+Equity,3.2,normal
+Equity,3.2,normal
+Equity,3.2,normal
+Equity,3.2,normal
+Equity,3.2,normal
+Fixed Income,3.2,normal
+Fixed Income,3.2,normal
+Fixed Income,3.2,normal
+Fixed Income,3.2,normal
+Fixed Income,3.2,normal
+Fixed Income,3.2,normal
+Equity,3.1,normal
+Equity,3.1,normal
+Equity,3.1,normal
+Equity,3.1,normal
+Fixed Income,3.1,normal
+Fixed Income,3.1,normal
+Fixed Income,3.1,normal
+Commodities,3,normal
+Equity,3,normal
+Equity,3,normal
+Equity,3,normal
+Equity,3,normal
+Equity,3,normal
+Equity,3,normal
+Equity,3,normal
+Fixed Income,3,normal
+Fixed Income,3,normal
+Fixed Income,3,normal
+Fixed Income,3,normal
+Fixed Income,3,normal
+Fixed Income,3,normal
+Commodities,2.9,normal
+Commodities,2.9,normal
+Equity,2.9,normal
+Equity,2.9,normal
+Fixed Income,2.9,normal
+Fixed Income,2.9,normal
+Fixed Income,2.9,normal
+Fixed Income,2.9,normal
+Equity,2.8,normal
+Equity,2.8,normal
+Equity,2.8,normal
+Fixed Income,2.8,normal
+Fixed Income,2.8,normal
+Fixed Income,2.8,normal
+Fixed Income,2.8,normal
+Commodities,2.7,normal
+Equity,2.7,normal
+Equity,2.7,normal
+Equity,2.7,normal
+Equity,2.7,normal
+Equity,2.7,normal
+Equity,2.7,normal
+Fixed Income,2.7,normal
+Fixed Income,2.7,normal
+Fixed Income,2.7,normal
+Commodities,2.6,normal
+Equity,2.6,normal
+Equity,2.6,normal
+Equity,2.6,normal
+Equity,2.6,normal
+Equity,2.6,normal
+Equity,2.6,normal
+Fixed Income,2.6,normal
+Fixed Income,2.6,normal
+Fixed Income,2.6,normal
+Fixed Income,2.6,normal
+Equity,2.5,normal
+Equity,2.5,normal
+Equity,2.5,normal
+Equity,2.5,normal
+Equity,2.5,normal
+Equity,2.5,normal
+Equity,2.5,normal
+Fixed Income,2.5,normal
+Fixed Income,2.5,normal
+Fixed Income,2.5,normal
+Fixed Income,2.5,normal
+Fixed Income,2.5,normal
+Fixed Income,2.5,normal
+Equity,2.4,normal
+Equity,2.4,normal
+Equity,2.4,normal
+Fixed Income,2.4,normal
+Fixed Income,2.4,normal
+Fixed Income,2.4,normal
+Fixed Income,2.4,normal
+Fixed Income,2.4,normal
+Fixed Income,2.4,normal
+Fixed Income,2.4,normal
+Fixed Income,2.4,normal
+Equity,2.3,normal
+Equity,2.3,normal
+Equity,2.3,normal
+Equity,2.3,normal
+Equity,2.3,normal
+Equity,2.3,normal
+Fixed Income,2.3,normal
+Fixed Income,2.3,normal
+Alternatives,2.2,normal
+Commodities,2.2,normal
+Equity,2.2,normal
+Equity,2.2,normal
+Equity,2.2,normal
+Equity,2.2,normal
+Equity,2.2,normal
+Fixed Income,2.2,normal
+Fixed Income,2.2,normal
+Fixed Income,2.2,normal
+Fixed Income,2.2,normal
+Fixed Income,2.2,normal
+Fixed Income,2.2,normal
+Fixed Income,2.2,normal
+Fixed Income,2.2,normal
+Fixed Income,2.2,normal
+Fixed Income,2.2,normal
+Fixed Income,2.2,normal
+Fixed Income,2.2,normal
+Alternatives,2.1,normal
+Commodities,2.1,normal
+Commodities,2.1,normal
+Equity,2.1,normal
+Equity,2.1,normal
+Equity,2.1,normal
+Equity,2.1,normal
+Equity,2.1,normal
+Equity,2.1,normal
+Equity,2.1,normal
+Equity,2.1,normal
+Equity,2.1,normal
+Fixed Income,2.1,normal
+Fixed Income,2.1,normal
+Fixed Income,2.1,normal
+Fixed Income,2.1,normal
+Fixed Income,2.1,normal
+Equity,2,normal
+Equity,2,normal
+Equity,2,normal
+Equity,2,normal
+Equity,2,normal
+Fixed Income,2,normal
+Fixed Income,2,normal
+Fixed Income,2,normal
+Fixed Income,2,normal
+Fixed Income,2,normal
+Fixed Income,2,normal
+Fixed Income,2,normal
+Fixed Income,2,normal
+Equity,1.9,normal
+Equity,1.9,normal
+Fixed Income,1.9,normal
+Fixed Income,1.9,normal
+Fixed Income,1.9,normal
+Fixed Income,1.9,normal
+Fixed Income,1.9,normal
+Fixed Income,1.9,normal
+Fixed Income,1.9,normal
+Fixed Income,1.9,normal
+Commodities,1.8,normal
+Commodities,1.8,normal
+Equity,1.8,normal
+Equity,1.8,normal
+Equity,1.8,normal
+Equity,1.8,normal
+Fixed Income,1.8,normal
+Fixed Income,1.8,normal
+Fixed Income,1.8,normal
+Fixed Income,1.8,normal
+Fixed Income,1.8,normal
+Fixed Income,1.8,normal
+Fixed Income,1.8,normal
+Alternatives,1.7,normal
+Equity,1.7,normal
+Equity,1.7,normal
+Equity,1.7,normal
+Equity,1.7,normal
+Equity,1.7,normal
+Fixed Income,1.7,normal
+Fixed Income,1.7,normal
+Fixed Income,1.7,normal
+Fixed Income,1.7,normal
+Fixed Income,1.7,normal
+Fixed Income,1.7,normal
+Fixed Income,1.7,normal
+Fixed Income,1.7,normal
+Fixed Income,1.7,normal
+Fixed Income,1.7,normal
+Fixed Income,1.7,normal
+Fixed Income,1.7,normal
+Alternatives,1.6,normal
+Equity,1.6,normal
+Equity,1.6,normal
+Equity,1.6,normal
+Fixed Income,1.6,normal
+Fixed Income,1.6,normal
+Fixed Income,1.6,normal
+Fixed Income,1.6,normal
+Fixed Income,1.6,normal
+Fixed Income,1.6,normal
+Fixed Income,1.6,normal
+Equity,1.5,normal
+Equity,1.5,normal
+Fixed Income,1.5,normal
+Fixed Income,1.5,normal
+Fixed Income,1.5,normal
+Fixed Income,1.5,normal
+Fixed Income,1.5,normal
+Fixed Income,1.5,normal
+Fixed Income,1.5,normal
+Fixed Income,1.5,normal
+Fixed Income,1.5,normal
+Commodities,1.4,normal
+Equity,1.4,normal
+Fixed Income,1.4,normal
+Fixed Income,1.4,normal
+Fixed Income,1.4,normal
+Fixed Income,1.4,normal
+Fixed Income,1.4,normal
+Fixed Income,1.4,normal
+Fixed Income,1.4,normal
+Fixed Income,1.4,normal
+Fixed Income,1.4,normal
+Fixed Income,1.4,normal
+Fixed Income,1.4,normal
+Commodities,1.3,normal
+Equity,1.3,normal
+Equity,1.3,normal
+Equity,1.3,normal
+Equity,1.3,normal
+Equity,1.3,normal
+Equity,1.3,normal
+Equity,1.3,normal
+Fixed Income,1.3,normal
+Fixed Income,1.3,normal
+Fixed Income,1.3,normal
+Fixed Income,1.3,normal
+Fixed Income,1.3,normal
+Fixed Income,1.3,normal
+Fixed Income,1.3,normal
+Fixed Income,1.3,normal
+Fixed Income,1.3,normal
+Fixed Income,1.3,normal
+Fixed Income,1.3,normal
+Fixed Income,1.3,normal
+Fixed Income,1.3,normal
+Fixed Income,1.3,normal
+Fixed Income,1.3,normal
+Commodities,1.2,normal
+Equity,1.2,normal
+Equity,1.2,normal
+Equity,1.2,normal
+Equity,1.2,normal
+Fixed Income,1.2,normal
+Fixed Income,1.2,normal
+Fixed Income,1.2,normal
+Fixed Income,1.2,normal
+Fixed Income,1.2,normal
+Fixed Income,1.2,normal
+Fixed Income,1.2,normal
+Fixed Income,1.2,normal
+Fixed Income,1.2,normal
+Fixed Income,1.2,normal
+Fixed Income,1.2,normal
+Fixed Income,1.2,normal
+Fixed Income,1.2,normal
+Commodities,1.1,normal
+Commodities,1.1,normal
+Equity,1.1,normal
+Equity,1.1,normal
+Equity,1.1,normal
+Equity,1.1,normal
+Equity,1.1,normal
+Equity,1.1,normal
+Equity,1.1,normal
+Fixed Income,1.1,normal
+Fixed Income,1.1,normal
+Fixed Income,1.1,normal
+Fixed Income,1.1,normal
+Fixed Income,1.1,normal
+Fixed Income,1.1,normal
+Fixed Income,1.1,normal
+Fixed Income,1.1,normal
+Commodities,1,normal
+Equity,1,normal
+Equity,1,normal
+Fixed Income,1,normal
+Fixed Income,1,normal
+Fixed Income,1,normal
+Fixed Income,1,normal
+Fixed Income,1,normal
+Fixed Income,1,normal
+Fixed Income,1,normal
+Fixed Income,1,normal
+Fixed Income,1,normal
+Fixed Income,1,normal
+Fixed Income,1,normal
+Fixed Income,1,normal
+Commodities,0.9,normal
+Equity,0.9,normal
+Equity,0.9,normal
+Equity,0.9,normal
+Fixed Income,0.9,normal
+Fixed Income,0.9,normal
+Fixed Income,0.9,normal
+Fixed Income,0.9,normal
+Fixed Income,0.9,normal
+Fixed Income,0.9,normal
+Fixed Income,0.9,normal
+Fixed Income,0.9,normal
+Fixed Income,0.9,normal
+Fixed Income,0.9,normal
+Alternatives,0.8,normal
+Equity,0.8,normal
+Equity,0.8,normal
+Equity,0.8,normal
+Equity,0.8,normal
+Equity,0.8,normal
+Fixed Income,0.8,normal
+Fixed Income,0.8,normal
+Fixed Income,0.8,normal
+Fixed Income,0.8,normal
+Fixed Income,0.8,normal
+Fixed Income,0.8,normal
+Fixed Income,0.8,normal
+Fixed Income,0.8,normal
+Fixed Income,0.8,normal
+Fixed Income,0.8,normal
+Fixed Income,0.8,normal
+Fixed Income,0.8,normal
+Fixed Income,0.8,normal
+Fixed Income,0.8,normal
+Fixed Income,0.8,normal
+Fixed Income,0.8,normal
+Fixed Income,0.8,normal
+Fixed Income,0.8,normal
+Fixed Income,0.8,normal
+Fixed Income,0.8,normal
+Equity,0.7,normal
+Equity,0.7,normal
+Fixed Income,0.7,normal
+Fixed Income,0.7,normal
+Fixed Income,0.7,normal
+Fixed Income,0.7,normal
+Fixed Income,0.7,normal
+Fixed Income,0.7,normal
+Fixed Income,0.7,normal
+Fixed Income,0.7,normal
+Equity,0.6,normal
+Equity,0.6,normal
+Equity,0.6,normal
+Equity,0.6,normal
+Fixed Income,0.6,normal
+Fixed Income,0.6,normal
+Fixed Income,0.6,normal
+Fixed Income,0.6,normal
+Fixed Income,0.6,normal
+Fixed Income,0.6,normal
+Fixed Income,0.6,normal
+Fixed Income,0.6,normal
+Fixed Income,0.6,normal
+Fixed Income,0.6,normal
+Fixed Income,0.6,normal
+Fixed Income,0.6,normal
+Fixed Income,0.6,normal
+Fixed Income,0.6,normal
+Fixed Income,0.6,normal
+Fixed Income,0.6,normal
+Fixed Income,0.6,normal
+Fixed Income,0.6,normal
+Alternatives,0.5,normal
+Equity,0.5,normal
+Equity,0.5,normal
+Equity,0.5,normal
+Equity,0.5,normal
+Equity,0.5,normal
+Equity,0.5,normal
+Fixed Income,0.5,normal
+Fixed Income,0.5,normal
+Fixed Income,0.5,normal
+Fixed Income,0.5,normal
+Fixed Income,0.5,normal
+Fixed Income,0.5,normal
+Fixed Income,0.5,normal
+Fixed Income,0.5,normal
+Fixed Income,0.5,normal
+Fixed Income,0.5,normal
+Fixed Income,0.5,normal
+Fixed Income,0.5,normal
+Fixed Income,0.5,normal
+Fixed Income,0.5,normal
+Fixed Income,0.5,normal
+Alternatives,0.4,normal
+Alternatives,0.4,normal
+Alternatives,0.4,normal
+Equity,0.4,normal
+Equity,0.4,normal
+Equity,0.4,normal
+Fixed Income,0.4,normal
+Fixed Income,0.4,normal
+Fixed Income,0.4,normal
+Fixed Income,0.4,normal
+Fixed Income,0.4,normal
+Fixed Income,0.4,normal
+Fixed Income,0.4,normal
+Fixed Income,0.4,normal
+Fixed Income,0.4,normal
+Fixed Income,0.4,normal
+Fixed Income,0.4,normal
+Equity,0.3,normal
+Equity,0.3,normal
+Equity,0.3,normal
+Equity,0.3,normal
+Equity,0.3,normal
+Fixed Income,0.3,normal
+Fixed Income,0.3,normal
+Fixed Income,0.3,normal
+Fixed Income,0.3,normal
+Fixed Income,0.3,normal
+Fixed Income,0.3,normal
+Fixed Income,0.3,normal
+Fixed Income,0.3,normal
+Fixed Income,0.3,normal
+Fixed Income,0.3,normal
+Fixed Income,0.3,normal
+Fixed Income,0.3,normal
+Fixed Income,0.3,normal
+Equity,0.2,normal
+Equity,0.2,normal
+Equity,0.2,normal
+Equity,0.2,normal
+Equity,0.2,normal
+Equity,0.2,normal
+Fixed Income,0.2,normal
+Fixed Income,0.2,normal
+Fixed Income,0.2,normal
+Fixed Income,0.2,normal
+Fixed Income,0.2,normal
+Fixed Income,0.2,normal
+Fixed Income,0.2,normal
+Fixed Income,0.2,normal
+Fixed Income,0.2,normal
+Fixed Income,0.2,normal
+Fixed Income,0.2,normal
+Fixed Income,0.2,normal
+Fixed Income,0.2,normal
+Fixed Income,0.2,normal
+Fixed Income,0.2,normal
+Fixed Income,0.2,normal
+Fixed Income,0.2,normal
+Alternatives,0.1,normal
+Equity,0.1,normal
+Equity,0.1,normal
+Fixed Income,0.1,normal
+Fixed Income,0.1,normal
+Fixed Income,0.1,normal
+Fixed Income,0.1,normal
+Fixed Income,0.1,normal
+Fixed Income,0.1,normal
+Fixed Income,0.1,normal
+Fixed Income,0.1,normal
+Fixed Income,0.1,normal
+Fixed Income,0.1,normal
+Fixed Income,0.1,normal
+Fixed Income,0.1,normal
+Fixed Income,0.1,normal
+Fixed Income,0.1,normal
+Fixed Income,0.1,normal
+Fixed Income,0.1,normal
+Fixed Income,0.1,normal
+Fixed Income,0.1,normal
+Alternatives,0,normal
+Equity,0,normal
+Equity,0,normal
+Equity,0,normal
+Equity,0,normal
+Equity,0,normal
+Equity,0,normal
+Fixed Income,0,normal
+Fixed Income,0,normal
+Fixed Income,0,normal
+Fixed Income,0,normal
+Fixed Income,0,normal
+Fixed Income,0,normal
+Fixed Income,0,normal
+Fixed Income,0,normal
+Fixed Income,0,normal
+Fixed Income,0,normal
+Fixed Income,0,normal
+Fixed Income,0,normal
+Fixed Income,0,normal
+Fixed Income,0,normal
+Fixed Income,0,normal
+Fixed Income,0,normal
+Fixed Income,0,normal
+Fixed Income,0,normal
+Fixed Income,0,normal
+Commodities,-0.1,normal
+Equity,-0.1,normal
+Equity,-0.1,normal
+Equity,-0.1,normal
+Fixed Income,-0.1,normal
+Fixed Income,-0.1,normal
+Fixed Income,-0.1,normal
+Fixed Income,-0.1,normal
+Fixed Income,-0.1,normal
+Fixed Income,-0.1,normal
+Fixed Income,-0.1,normal
+Fixed Income,-0.1,normal
+Fixed Income,-0.1,normal
+Fixed Income,-0.1,normal
+Fixed Income,-0.1,normal
+Fixed Income,-0.1,normal
+Fixed Income,-0.1,normal
+Fixed Income,-0.1,normal
+Commodities,-0.2,normal
+Equity,-0.2,normal
+Equity,-0.2,normal
+Equity,-0.2,normal
+Fixed Income,-0.2,normal
+Fixed Income,-0.2,normal
+Fixed Income,-0.2,normal
+Fixed Income,-0.2,normal
+Fixed Income,-0.2,normal
+Fixed Income,-0.2,normal
+Fixed Income,-0.2,normal
+Fixed Income,-0.2,normal
+Fixed Income,-0.2,normal
+Fixed Income,-0.2,normal
+Fixed Income,-0.2,normal
+Fixed Income,-0.2,normal
+Commodities,-0.3,normal
+Equity,-0.3,normal
+Equity,-0.3,normal
+Equity,-0.3,normal
+Equity,-0.3,normal
+Equity,-0.3,normal
+Fixed Income,-0.3,normal
+Fixed Income,-0.3,normal
+Fixed Income,-0.3,normal
+Fixed Income,-0.3,normal
+Fixed Income,-0.3,normal
+Fixed Income,-0.3,normal
+Commodities,-0.4,normal
+Equity,-0.4,normal
+Equity,-0.4,normal
+Equity,-0.4,normal
+Equity,-0.4,normal
+Equity,-0.4,normal
+Fixed Income,-0.4,normal
+Fixed Income,-0.4,normal
+Fixed Income,-0.4,normal
+Fixed Income,-0.4,normal
+Fixed Income,-0.4,normal
+Alternatives,-0.5,normal
+Alternatives,-0.5,normal
+Equity,-0.5,normal
+Equity,-0.5,normal
+Equity,-0.5,normal
+Fixed Income,-0.5,normal
+Fixed Income,-0.5,normal
+Fixed Income,-0.5,normal
+Fixed Income,-0.5,normal
+Fixed Income,-0.5,normal
+Fixed Income,-0.5,normal
+Fixed Income,-0.5,normal
+Fixed Income,-0.5,normal
+Fixed Income,-0.5,normal
+Fixed Income,-0.5,normal
+Fixed Income,-0.5,normal
+Fixed Income,-0.5,normal
+Fixed Income,-0.5,normal
+Fixed Income,-0.5,normal
+Fixed Income,-0.5,normal
+Fixed Income,-0.5,normal
+Commodities,-0.6,normal
+Commodities,-0.6,normal
+Fixed Income,-0.6,normal
+Fixed Income,-0.6,normal
+Fixed Income,-0.6,normal
+Fixed Income,-0.6,normal
+Fixed Income,-0.6,normal
+Fixed Income,-0.6,normal
+Fixed Income,-0.6,normal
+Equity,-0.7,normal
+Equity,-0.7,normal
+Equity,-0.7,normal
+Equity,-0.7,normal
+Equity,-0.7,normal
+Equity,-0.7,normal
+Fixed Income,-0.7,normal
+Fixed Income,-0.7,normal
+Fixed Income,-0.7,normal
+Fixed Income,-0.7,normal
+Fixed Income,-0.7,normal
+Fixed Income,-0.7,normal
+Fixed Income,-0.7,normal
+Fixed Income,-0.7,normal
+Fixed Income,-0.7,normal
+Fixed Income,-0.7,normal
+Fixed Income,-0.7,normal
+Fixed Income,-0.7,normal
+Fixed Income,-0.7,normal
+Fixed Income,-0.7,normal
+Fixed Income,-0.7,normal
+Commodities,-0.8,normal
+Equity,-0.8,normal
+Equity,-0.8,normal
+Equity,-0.8,normal
+Fixed Income,-0.8,normal
+Fixed Income,-0.8,normal
+Fixed Income,-0.8,normal
+Fixed Income,-0.8,normal
+Fixed Income,-0.8,normal
+Fixed Income,-0.8,normal
+Fixed Income,-0.8,normal
+Commodities,-0.9,normal
+Equity,-0.9,normal
+Equity,-0.9,normal
+Fixed Income,-0.9,normal
+Fixed Income,-0.9,normal
+Fixed Income,-0.9,normal
+Fixed Income,-0.9,normal
+Fixed Income,-0.9,normal
+Fixed Income,-0.9,normal
+Fixed Income,-0.9,normal
+Fixed Income,-0.9,normal
+Commodities,-1,normal
+Equity,-1,normal
+Fixed Income,-1,normal
+Fixed Income,-1,normal
+Fixed Income,-1,normal
+Fixed Income,-1,normal
+Fixed Income,-1,normal
+Fixed Income,-1,normal
+Commodities,-1.1,normal
+Commodities,-1.1,normal
+Equity,-1.1,normal
+Equity,-1.1,normal
+Equity,-1.1,normal
+Equity,-1.1,normal
+Fixed Income,-1.1,normal
+Fixed Income,-1.1,normal
+Fixed Income,-1.1,normal
+Commodities,-1.2,normal
+Equity,-1.2,normal
+Equity,-1.2,normal
+Fixed Income,-1.2,normal
+Fixed Income,-1.2,normal
+Fixed Income,-1.2,normal
+Fixed Income,-1.2,normal
+Equity,-1.3,normal
+Equity,-1.3,normal
+Equity,-1.3,normal
+Equity,-1.3,normal
+Fixed Income,-1.3,normal
+Fixed Income,-1.3,normal
+Fixed Income,-1.3,normal
+Fixed Income,-1.3,normal
+Fixed Income,-1.3,normal
+Alternatives,-1.4,normal
+Commodities,-1.4,normal
+Commodities,-1.4,normal
+Equity,-1.4,normal
+Equity,-1.4,normal
+Equity,-1.4,normal
+Fixed Income,-1.4,normal
+Fixed Income,-1.4,normal
+Fixed Income,-1.4,normal
+Equity,-1.5,normal
+Equity,-1.5,normal
+Equity,-1.5,normal
+Equity,-1.5,normal
+Fixed Income,-1.5,normal
+Fixed Income,-1.5,normal
+Fixed Income,-1.5,normal
+Commodities,-1.6,normal
+Equity,-1.6,normal
+Equity,-1.6,normal
+Equity,-1.6,normal
+Fixed Income,-1.6,normal
+Fixed Income,-1.6,normal
+Fixed Income,-1.6,normal
+Fixed Income,-1.6,normal
+Fixed Income,-1.6,normal
+Fixed Income,-1.6,normal
+Fixed Income,-1.6,normal
+Fixed Income,-1.6,normal
+Fixed Income,-1.6,normal
+Commodities,-1.7,normal
+Commodities,-1.7,normal
+Equity,-1.7,normal
+Equity,-1.7,normal
+Equity,-1.7,normal
+Equity,-1.7,normal
+Equity,-1.7,normal
+Equity,-1.7,normal
+Fixed Income,-1.7,normal
+Fixed Income,-1.7,normal
+Fixed Income,-1.8,normal
+Fixed Income,-1.8,normal
+Fixed Income,-1.8,normal
+Fixed Income,-1.8,normal
+Fixed Income,-1.8,normal
+Fixed Income,-1.8,normal
+Fixed Income,-1.8,normal
+Commodities,-1.9,normal
+Equity,-1.9,normal
+Equity,-1.9,normal
+Equity,-1.9,normal
+Equity,-1.9,normal
+Equity,-1.9,normal
+Equity,-1.9,normal
+Fixed Income,-1.9,normal
+Fixed Income,-1.9,normal
+Fixed Income,-1.9,normal
+Fixed Income,-1.9,normal
+Fixed Income,-1.9,normal
+Fixed Income,-1.9,normal
+Fixed Income,-1.9,normal
+Fixed Income,-1.9,normal
+Fixed Income,-1.9,normal
+Commodities,-2,normal
+Commodities,-2,normal
+Equity,-2,normal
+Equity,-2,normal
+Fixed Income,-2,normal
+Fixed Income,-2,normal
+Fixed Income,-2,normal
+Fixed Income,-2,normal
+Fixed Income,-2,normal
+Equity,-2.1,normal
+Alternatives,-2.2,normal
+Commodities,-2.2,normal
+Equity,-2.2,normal
+Fixed Income,-2.2,normal
+Fixed Income,-2.2,normal
+Fixed Income,-2.2,normal
+Fixed Income,-2.2,normal
+Fixed Income,-2.2,normal
+Equity,-2.3,normal
+Equity,-2.3,normal
+Equity,-2.3,normal
+Equity,-2.3,normal
+Equity,-2.3,normal
+Fixed Income,-2.3,normal
+Fixed Income,-2.3,normal
+Fixed Income,-2.3,normal
+Fixed Income,-2.3,normal
+Commodities,-2.4,normal
+Commodities,-2.4,normal
+Equity,-2.4,normal
+Fixed Income,-2.4,normal
+Fixed Income,-2.4,normal
+Fixed Income,-2.4,normal
+Fixed Income,-2.4,normal
+Fixed Income,-2.4,normal
+Commodities,-2.5,normal
+Fixed Income,-2.5,normal
+Fixed Income,-2.5,normal
+Fixed Income,-2.5,normal
+Fixed Income,-2.5,normal
+Equity,-2.6,normal
+Equity,-2.6,normal
+Equity,-2.6,normal
+Fixed Income,-2.6,normal
+Fixed Income,-2.6,normal
+Fixed Income,-2.6,normal
+Fixed Income,-2.6,normal
+Fixed Income,-2.6,normal
+Fixed Income,-2.6,normal
+Fixed Income,-2.6,normal
+Fixed Income,-2.6,normal
+Commodities,-2.7,normal
+Equity,-2.7,normal
+Equity,-2.7,normal
+Equity,-2.7,normal
+Equity,-2.7,normal
+Equity,-2.7,normal
+Equity,-2.7,normal
+Fixed Income,-2.7,normal
+Fixed Income,-2.7,normal
+Fixed Income,-2.7,normal
+Commodities,-2.8,normal
+Equity,-2.8,normal
+Fixed Income,-2.8,normal
+Fixed Income,-2.8,normal
+Commodities,-2.9,normal
+Equity,-2.9,normal
+Equity,-2.9,normal
+Fixed Income,-2.9,normal
+Fixed Income,-2.9,normal
+Fixed Income,-2.9,normal
+Fixed Income,-2.9,normal
+Fixed Income,-2.9,normal
+Fixed Income,-2.9,normal
+Fixed Income,-2.9,normal
+Fixed Income,-2.9,normal
+Fixed Income,-2.9,normal
+Commodities,-3,normal
+Equity,-3,normal
+Equity,-3,normal
+Equity,-3,normal
+Equity,-3,normal
+Fixed Income,-3,normal
+Fixed Income,-3,normal
+Fixed Income,-3,normal
+Fixed Income,-3,normal
+Fixed Income,-3,normal
+Fixed Income,-3,normal
+Fixed Income,-3,normal
+Fixed Income,-3,normal
+Commodities,-3.1,normal
+Equity,-3.1,normal
+Fixed Income,-3.1,normal
+Fixed Income,-3.1,normal
+Fixed Income,-3.1,normal
+Fixed Income,-3.1,normal
+Fixed Income,-3.1,normal
+Fixed Income,-3.1,normal
+Fixed Income,-3.1,normal
+Fixed Income,-3.1,normal
+Fixed Income,-3.2,normal
+Fixed Income,-3.2,normal
+Fixed Income,-3.2,normal
+Fixed Income,-3.2,normal
+Equity,-3.3,normal
+Equity,-3.3,normal
+Fixed Income,-3.3,normal
+Fixed Income,-3.3,normal
+Fixed Income,-3.3,normal
+Fixed Income,-3.3,normal
+Fixed Income,-3.3,normal
+Fixed Income,-3.4,normal
+Fixed Income,-3.4,normal
+Fixed Income,-3.4,normal
+Fixed Income,-3.4,normal
+Fixed Income,-3.4,normal
+Fixed Income,-3.4,normal
+Fixed Income,-3.4,normal
+Fixed Income,-3.4,normal
+Fixed Income,-3.4,normal
+Fixed Income,-3.5,normal
+Fixed Income,-3.5,normal
+Fixed Income,-3.5,normal
+Fixed Income,-3.5,normal
+Fixed Income,-3.5,normal
+Fixed Income,-3.5,normal
+Fixed Income,-3.5,normal
+Fixed Income,-3.5,normal
+Fixed Income,-3.5,normal
+Equity,-3.6,normal
+Equity,-3.6,normal
+Equity,-3.6,normal
+Fixed Income,-3.6,normal
+Fixed Income,-3.6,normal
+Fixed Income,-3.6,normal
+Fixed Income,-3.6,normal
+Fixed Income,-3.6,normal
+Commodities,-3.7,normal
+Fixed Income,-3.7,normal
+Fixed Income,-3.7,normal
+Fixed Income,-3.7,normal
+Fixed Income,-3.7,normal
+Fixed Income,-3.7,normal
+Fixed Income,-3.7,normal
+Fixed Income,-3.7,normal
+Fixed Income,-3.7,normal
+Fixed Income,-3.7,normal
+Equity,-3.8,normal
+Equity,-3.8,normal
+Equity,-3.8,normal
+Fixed Income,-3.8,normal
+Fixed Income,-3.8,normal
+Fixed Income,-3.8,normal
+Fixed Income,-3.8,normal
+Equity,-3.9,normal
+Equity,-3.9,normal
+Equity,-3.9,normal
+Fixed Income,-3.9,normal
+Fixed Income,-3.9,normal
+Commodities,-4,normal
+Commodities,-4,normal
+Fixed Income,-4,normal
+Equity,-4.1,normal
+Fixed Income,-4.1,normal
+Fixed Income,-4.1,normal
+Fixed Income,-4.1,normal
+Fixed Income,-4.1,normal
+Fixed Income,-4.1,normal
+Fixed Income,-4.1,normal
+Fixed Income,-4.1,normal
+Fixed Income,-4.1,normal
+Fixed Income,-4.1,normal
+Alternatives,-4.2,normal
+Equity,-4.2,normal
+Equity,-4.2,normal
+Equity,-4.2,normal
+Fixed Income,-4.2,normal
+Fixed Income,-4.2,normal
+Fixed Income,-4.2,normal
+Fixed Income,-4.2,normal
+Fixed Income,-4.2,normal
+Fixed Income,-4.2,normal
+Fixed Income,-4.2,normal
+Fixed Income,-4.3,normal
+Fixed Income,-4.3,normal
+Fixed Income,-4.3,normal
+Fixed Income,-4.3,normal
+Fixed Income,-4.3,normal
+Fixed Income,-4.3,normal
+Fixed Income,-4.3,normal
+Fixed Income,-4.3,normal
+Fixed Income,-4.3,normal
+Fixed Income,-4.3,normal
+Fixed Income,-4.4,normal
+Fixed Income,-4.4,normal
+Fixed Income,-4.4,normal
+Fixed Income,-4.4,normal
+Commodities,-4.5,normal
+Equity,-4.5,normal
+Equity,-4.5,normal
+Fixed Income,-4.5,normal
+Fixed Income,-4.5,normal
+Fixed Income,-4.5,normal
+Equity,-4.6,normal
+Equity,-4.6,normal
+Fixed Income,-4.6,normal
+Fixed Income,-4.6,normal
+Fixed Income,-4.6,normal
+Fixed Income,-4.6,normal
+Fixed Income,-4.6,normal
+Fixed Income,-4.7,normal
+Fixed Income,-4.7,normal
+Fixed Income,-4.7,normal
+Fixed Income,-4.7,normal
+Fixed Income,-4.7,normal
+Fixed Income,-4.7,normal
+Equity,-4.8,normal
+Fixed Income,-4.8,normal
+Fixed Income,-4.8,normal
+Fixed Income,-4.8,normal
+Fixed Income,-4.8,normal
+Fixed Income,-4.8,normal
+Fixed Income,-4.8,normal
+Fixed Income,-4.8,normal
+Fixed Income,-4.8,normal
+Fixed Income,-4.8,normal
+Fixed Income,-4.8,normal
+Fixed Income,-4.8,normal
+Commodities,-4.9,normal
+Equity,-4.9,normal
+Equity,-4.9,normal
+Fixed Income,-4.9,normal
+Fixed Income,-4.9,normal
+Commodities,-5,normal
+Commodities,-5,normal
+Equity,-5,normal
+Equity,-5,normal
+Fixed Income,-5,normal
+Fixed Income,-5,normal
+Fixed Income,-5,normal
+Fixed Income,-5,normal
+Fixed Income,-5,normal
+Fixed Income,-5,normal
+Equity,-5.1,normal
+Equity,-5.1,normal
+Fixed Income,-5.1,normal
+Fixed Income,-5.1,normal
+Fixed Income,-5.1,normal
+Fixed Income,-5.1,normal
+Fixed Income,-5.1,normal
+Fixed Income,-5.1,normal
+Fixed Income,-5.1,normal
+Equity,-5.2,normal
+Equity,-5.2,normal
+Equity,-5.2,normal
+Equity,-5.2,normal
+Equity,-5.2,normal
+Fixed Income,-5.2,normal
+Fixed Income,-5.2,normal
+Fixed Income,-5.2,normal
+Fixed Income,-5.2,normal
+Commodities,-5.3,normal
+Fixed Income,-5.3,normal
+Fixed Income,-5.3,normal
+Fixed Income,-5.3,normal
+Fixed Income,-5.3,normal
+Fixed Income,-5.3,normal
+Fixed Income,-5.3,normal
+Fixed Income,-5.3,normal
+Fixed Income,-5.3,normal
+Fixed Income,-5.3,normal
+Equity,-5.4,normal
+Equity,-5.4,normal
+Fixed Income,-5.4,normal
+Fixed Income,-5.4,normal
+Fixed Income,-5.4,normal
+Fixed Income,-5.4,normal
+Fixed Income,-5.4,normal
+Fixed Income,-5.4,normal
+Fixed Income,-5.4,normal
+Fixed Income,-5.4,normal
+Fixed Income,-5.4,normal
+Fixed Income,-5.4,normal
+Fixed Income,-5.4,normal
+Equity,-5.5,normal
+Fixed Income,-5.5,normal
+Fixed Income,-5.5,normal
+Commodities,-5.6,normal
+Equity,-5.6,normal
+Equity,-5.6,normal
+Fixed Income,-5.6,normal
+Fixed Income,-5.6,normal
+Fixed Income,-5.6,normal
+Equity,-5.7,normal
+Fixed Income,-5.7,normal
+Fixed Income,-5.7,normal
+Fixed Income,-5.7,normal
+Fixed Income,-5.7,normal
+Alternatives,-5.8,normal
+Equity,-5.8,normal
+Equity,-5.8,normal
+Equity,-5.8,normal
+Equity,-5.8,normal
+Fixed Income,-5.8,normal
+Fixed Income,-5.8,normal
+Fixed Income,-5.8,normal
+Equity,-5.9,normal
+Fixed Income,-5.9,normal
+Fixed Income,-5.9,normal
+Fixed Income,-5.9,normal
+Fixed Income,-5.9,normal
+Fixed Income,-5.9,normal
+Fixed Income,-5.9,normal
+Fixed Income,-6,normal
+Fixed Income,-6,normal
+Fixed Income,-6,normal
+Fixed Income,-6,normal
+Fixed Income,-6,normal
+Fixed Income,-6,normal
+Fixed Income,-6,normal
+Equity,-6.1,normal
+Equity,-6.1,normal
+Equity,-6.1,normal
+Fixed Income,-6.1,normal
+Fixed Income,-6.1,normal
+Fixed Income,-6.1,normal
+Commodities,-6.2,normal
+Commodities,-6.2,normal
+Equity,-6.2,normal
+Fixed Income,-6.2,normal
+Fixed Income,-6.2,normal
+Fixed Income,-6.2,normal
+Commodities,-6.3,normal
+Equity,-6.3,normal
+Equity,-6.3,normal
+Fixed Income,-6.3,normal
+Fixed Income,-6.3,normal
+Equity,-6.4,normal
+Fixed Income,-6.4,normal
+Fixed Income,-6.4,normal
+Commodities,-6.5,normal
+Equity,-6.5,normal
+Equity,-6.5,normal
+Fixed Income,-6.5,normal
+Fixed Income,-6.5,normal
+Alternatives,-6.6,normal
+Equity,-6.6,normal
+Equity,-6.6,normal
+Equity,-6.6,normal
+Fixed Income,-6.6,normal
+Fixed Income,-6.6,normal
+Fixed Income,-6.6,normal
+Fixed Income,-6.6,normal
+Equity,-6.7,normal
+Equity,-6.7,normal
+Fixed Income,-6.7,normal
+Fixed Income,-6.7,normal
+Fixed Income,-6.7,normal
+Fixed Income,-6.7,normal
+Equity,-6.8,normal
+Fixed Income,-6.8,normal
+Equity,-6.9,normal
+Equity,-6.9,normal
+Equity,-6.9,normal
+Fixed Income,-6.9,normal
+Fixed Income,-6.9,normal
+Equity,-7,normal
+Fixed Income,-7,normal
+Fixed Income,-7,normal
+Commodities,-7.1,normal
+Equity,-7.1,normal
+Equity,-7.1,normal
+Equity,-7.1,normal
+Equity,-7.1,normal
+Equity,-7.1,normal
+Equity,-7.1,normal
+Equity,-7.2,normal
+Fixed Income,-7.2,normal
+Equity,-7.3,normal
+Equity,-7.3,normal
+Fixed Income,-7.3,normal
+Fixed Income,-7.3,normal
+Fixed Income,-7.3,normal
+Equity,-7.4,normal
+Equity,-7.4,normal
+Equity,-7.4,normal
+Equity,-7.4,normal
+Fixed Income,-7.4,normal
+Fixed Income,-7.4,normal
+Fixed Income,-7.4,normal
+Equity,-7.5,normal
+Equity,-7.5,normal
+Equity,-7.5,normal
+Equity,-7.5,normal
+Equity,-7.5,normal
+Equity,-7.5,normal
+Equity,-7.5,normal
+Fixed Income,-7.5,normal
+Equity,-7.6,normal
+Equity,-7.6,normal
+Equity,-7.6,normal
+Equity,-7.6,normal
+Commodities,-7.7,normal
+Equity,-7.7,normal
+Equity,-7.7,normal
+Fixed Income,-7.7,normal
+Equity,-7.8,normal
+Fixed Income,-7.8,normal
+Fixed Income,-7.8,normal
+Equity,-7.9,normal
+Equity,-7.9,normal
+Equity,-7.9,normal
+Equity,-7.9,normal
+Equity,-7.9,normal
+Fixed Income,-7.9,normal
+Equity,-8,normal
+Equity,-8,normal
+Fixed Income,-8,normal
+Equity,-8.1,normal
+Equity,-8.1,normal
+Equity,-8.1,normal
+Equity,-8.1,normal
+Fixed Income,-8.1,normal
+Commodities,-8.2,normal
+Equity,-8.2,normal
+Equity,-8.2,normal
+Equity,-8.2,normal
+Fixed Income,-8.2,normal
+Alternatives,-8.3,normal
+Commodities,-8.3,normal
+Equity,-8.3,normal
+Equity,-8.3,normal
+Equity,-8.3,normal
+Equity,-8.3,normal
+Equity,-8.3,normal
+Fixed Income,-8.3,normal
+Fixed Income,-8.3,normal
+Fixed Income,-8.3,normal
+Commodities,-8.4,normal
+Equity,-8.4,normal
+Equity,-8.4,normal
+Fixed Income,-8.4,normal
+Equity,-8.5,normal
+Equity,-8.5,normal
+Fixed Income,-8.5,normal
+Fixed Income,-8.5,normal
+Fixed Income,-8.6,normal
+Equity,-8.7,normal
+Equity,-8.7,normal
+Equity,-8.7,normal
+Equity,-8.7,normal
+Fixed Income,-8.7,normal
+Fixed Income,-8.7,normal
+Equity,-8.8,normal
+Fixed Income,-8.8,normal
+Fixed Income,-8.8,normal
+Fixed Income,-8.8,normal
+Equity,-8.9,normal
+Equity,-8.9,normal
+Equity,-8.9,normal
+Equity,-9,normal
+Equity,-9.1,normal
+Equity,-9.1,normal
+Fixed Income,-9.1,normal
+Commodities,-9.2,normal
+Equity,-9.2,normal
+Equity,-9.3,normal
+Equity,-9.3,normal
+Equity,-9.4,normal
+Equity,-9.4,normal
+Equity,-9.4,normal
+Fixed Income,-9.4,normal
+Fixed Income,-9.4,normal
+Fixed Income,-9.4,normal
+Equity,-9.5,normal
+Equity,-9.5,normal
+Fixed Income,-9.5,normal
+Equity,-9.6,normal
+Equity,-9.6,normal
+Equity,-9.6,normal
+Equity,-9.6,normal
+Equity,-9.6,normal
+Equity,-9.6,normal
+Fixed Income,-9.6,normal
+Fixed Income,-9.6,normal
+Fixed Income,-9.6,normal
+Fixed Income,-9.6,normal
+Commodities,-9.7,normal
+Equity,-9.7,normal
+Equity,-9.7,normal
+Equity,-9.7,normal
+Equity,-9.7,normal
+Equity,-9.7,normal
+Equity,-9.7,normal
+Fixed Income,-9.7,normal
+Fixed Income,-9.7,normal
+Fixed Income,-9.7,normal
+Fixed Income,-9.7,normal
+Equity,-9.8,normal
+Equity,-9.8,normal
+Equity,-9.9,normal
+Equity,-9.9,normal
+Equity,-9.9,normal
+Equity,-9.9,normal
+Equity,-10,normal
+Fixed Income,-10,normal
+Fixed Income,-10,normal
+Fixed Income,-10,normal
+Alternatives,-10.1,normal
+Commodities,-10.1,normal
+Equity,-10.1,normal
+Fixed Income,-10.1,normal
+Fixed Income,-10.1,normal
+Equity,-10.2,normal
+Equity,-10.2,normal
+Equity,-10.2,normal
+Fixed Income,-10.2,normal
+Fixed Income,-10.2,normal
+Equity,-10.3,normal
+Equity,-10.4,normal
+Equity,-10.4,normal
+Equity,-10.4,normal
+Fixed Income,-10.4,normal
+Fixed Income,-10.4,normal
+Alternatives,-10.5,normal
+Equity,-10.5,normal
+Equity,-10.6,normal
+Fixed Income,-10.6,normal
+Equity,-10.7,normal
+Equity,-10.8,normal
+Equity,-10.8,normal
+Equity,-10.8,normal
+Equity,-10.9,normal
+Fixed Income,-10.9,normal
+Equity,-11,normal
+Fixed Income,-11,normal
+Fixed Income,-11,normal
+Equity,-11.1,normal
+Equity,-11.1,normal
+Equity,-11.2,normal
+Equity,-11.2,normal
+Equity,-11.2,normal
+Equity,-11.2,normal
+Equity,-11.2,normal
+Fixed Income,-11.2,normal
+Commodities,-11.3,normal
+Equity,-11.3,normal
+Equity,-11.3,normal
+Equity,-11.3,normal
+Equity,-11.3,normal
+Equity,-11.3,normal
+Fixed Income,-11.3,normal
+Fixed Income,-11.3,normal
+Fixed Income,-11.3,normal
+Fixed Income,-11.3,normal
+Commodities,-11.4,normal
+Equity,-11.4,normal
+Equity,-11.4,normal
+Equity,-11.4,normal
+Equity,-11.5,normal
+Equity,-11.5,normal
+Fixed Income,-11.5,normal
+Fixed Income,-11.5,normal
+Fixed Income,-11.5,normal
+Equity,-11.6,normal
+Equity,-11.6,normal
+Equity,-11.7,normal
+Equity,-11.7,normal
+Commodities,-11.8,normal
+Equity,-11.8,normal
+Fixed Income,-11.8,normal
+Equity,-11.9,normal
+Equity,-12,normal
+Fixed Income,-12,normal
+Fixed Income,-12,normal
+Fixed Income,-12,normal
+Equity,-12.1,normal
+Equity,-12.1,normal
+Equity,-12.1,normal
+Equity,-12.1,normal
+Fixed Income,-12.1,normal
+Equity,-12.2,normal
+Fixed Income,-12.2,normal
+Fixed Income,-12.2,normal
+Equity,-12.3,normal
+Equity,-12.3,normal
+Fixed Income,-12.3,normal
+Fixed Income,-12.4,normal
+Fixed Income,-12.4,normal
+Commodities,-12.5,normal
+Equity,-12.5,normal
+Equity,-12.5,normal
+Fixed Income,-12.5,normal
+Fixed Income,-12.5,normal
+Equity,-12.6,normal
+Equity,-12.6,normal
+Equity,-12.6,normal
+Equity,-12.6,normal
+Equity,-12.6,normal
+Equity,-12.6,normal
+Equity,-12.6,normal
+Equity,-12.6,normal
+Equity,-12.7,normal
+Equity,-12.7,normal
+Fixed Income,-12.7,normal
+Fixed Income,-12.7,normal
+Fixed Income,-12.7,normal
+Equity,-12.8,normal
+Equity,-12.8,normal
+Equity,-12.8,normal
+Fixed Income,-12.8,normal
+Fixed Income,-12.8,normal
+Equity,-13,normal
+Equity,-13.1,normal
+Equity,-13.1,normal
+Fixed Income,-13.1,normal
+Fixed Income,-13.1,normal
+Fixed Income,-13.1,normal
+Equity,-13.2,normal
+Equity,-13.2,normal
+Equity,-13.2,normal
+Equity,-13.3,normal
+Equity,-13.3,normal
+Equity,-13.3,normal
+Fixed Income,-13.3,normal
+Alternatives,-13.4,normal
+Equity,-13.4,normal
+Equity,-13.4,normal
+Equity,-13.5,normal
+Equity,-13.5,normal
+Equity,-13.5,normal
+Equity,-13.5,normal
+Equity,-13.5,normal
+Equity,-13.6,normal
+Equity,-13.6,normal
+Equity,-13.6,normal
+Fixed Income,-13.6,normal
+Equity,-13.7,normal
+Equity,-13.7,normal
+Equity,-13.7,normal
+Equity,-13.7,normal
+Fixed Income,-13.7,normal
+Fixed Income,-13.7,normal
+Equity,-13.8,normal
+Fixed Income,-13.8,normal
+Equity,-13.9,normal
+Equity,-13.9,normal
+Equity,-13.9,normal
+Equity,-13.9,normal
+Equity,-13.9,normal
+Equity,-14,normal
+Equity,-14,normal
+Equity,-14,normal
+Fixed Income,-14,normal
+Fixed Income,-14,normal
+Equity,-14.1,normal
+Equity,-14.1,normal
+Equity,-14.1,normal
+Fixed Income,-14.1,normal
+Fixed Income,-14.1,normal
+Equity,-14.2,normal
+Equity,-14.2,normal
+Equity,-14.2,normal
+Equity,-14.2,normal
+Fixed Income,-14.2,normal
+Fixed Income,-14.2,normal
+Equity,-14.3,normal
+Equity,-14.3,normal
+Equity,-14.4,normal
+Equity,-14.4,normal
+Fixed Income,-14.4,normal
+Equity,-14.5,normal
+Equity,-14.5,normal
+Equity,-14.5,normal
+Equity,-14.5,normal
+Equity,-14.5,normal
+Equity,-14.5,normal
+Equity,-14.5,normal
+Fixed Income,-14.5,normal
+Equity,-14.6,normal
+Equity,-14.6,normal
+Equity,-14.6,normal
+Equity,-14.6,normal
+Fixed Income,-14.6,normal
+Fixed Income,-14.6,normal
+Commodities,-14.7,normal
+Equity,-14.7,normal
+Equity,-14.7,normal
+Fixed Income,-14.7,normal
+Equity,-14.8,normal
+Equity,-14.8,normal
+Equity,-14.8,normal
+Equity,-14.8,normal
+Equity,-14.8,normal
+Fixed Income,-14.8,normal
+Fixed Income,-14.8,normal
+Equity,-14.9,normal
+Equity,-15,normal
+Equity,-15,normal
+Equity,-15,normal
+Equity,-15,normal
+Equity,-15,normal
+Fixed Income,-15,normal
+Fixed Income,-15,normal
+Commodities,-15.1,normal
+Equity,-15.1,normal
+Equity,-15.1,normal
+Equity,-15.1,normal
+Equity,-15.1,normal
+Equity,-15.2,normal
+Equity,-15.2,normal
+Equity,-15.2,normal
+Equity,-15.2,normal
+Equity,-15.2,normal
+Fixed Income,-15.2,normal
+Equity,-15.3,normal
+Fixed Income,-15.3,normal
+Fixed Income,-15.3,normal
+Fixed Income,-15.3,normal
+Commodities,-15.4,normal
+Equity,-15.4,normal
+Equity,-15.4,normal
+Equity,-15.4,normal
+Equity,-15.5,normal
+Equity,-15.5,normal
+Equity,-15.5,normal
+Fixed Income,-15.5,normal
+Fixed Income,-15.5,normal
+Equity,-15.6,normal
+Equity,-15.6,normal
+Equity,-15.6,normal
+Equity,-15.6,normal
+Equity,-15.6,normal
+Alternatives,-15.7,normal
+Equity,-15.7,normal
+Equity,-15.7,normal
+Equity,-15.7,normal
+Equity,-15.7,normal
+Equity,-15.7,normal
+Fixed Income,-15.7,normal
+Equity,-15.8,normal
+Equity,-15.9,normal
+Equity,-15.9,normal
+Equity,-15.9,normal
+Fixed Income,-15.9,normal
+Commodities,-16,normal
+Equity,-16,normal
+Equity,-16,normal
+Equity,-16,normal
+Equity,-16.1,normal
+Equity,-16.1,normal
+Equity,-16.1,normal
+Equity,-16.1,normal
+Fixed Income,-16.1,normal
+Commodities,-16.2,normal
+Equity,-16.2,normal
+Equity,-16.2,normal
+Equity,-16.2,normal
+Equity,-16.3,normal
+Equity,-16.3,normal
+Equity,-16.3,normal
+Commodities,-16.4,normal
+Equity,-16.4,normal
+Equity,-16.4,normal
+Fixed Income,-16.4,normal
+Alternatives,-16.5,normal
+Equity,-16.5,normal
+Equity,-16.5,normal
+Equity,-16.5,normal
+Equity,-16.5,normal
+Equity,-16.6,normal
+Commodities,-16.7,normal
+Equity,-16.7,normal
+Equity,-16.7,normal
+Equity,-16.7,normal
+Fixed Income,-16.7,normal
+Equity,-16.8,normal
+Equity,-16.8,normal
+Equity,-16.8,normal
+Equity,-16.9,normal
+Equity,-16.9,normal
+Equity,-16.9,normal
+Equity,-16.9,normal
+Equity,-16.9,normal
+Equity,-16.9,normal
+Equity,-17,normal
+Equity,-17,normal
+Equity,-17,normal
+Equity,-17.1,normal
+Equity,-17.1,normal
+Equity,-17.1,normal
+Equity,-17.1,normal
+Fixed Income,-17.1,normal
+Fixed Income,-17.1,normal
+Fixed Income,-17.1,normal
+Equity,-17.2,normal
+Fixed Income,-17.3,normal
+Equity,-17.4,normal
+Equity,-17.4,normal
+Equity,-17.4,normal
+Equity,-17.4,normal
+Fixed Income,-17.4,normal
+Equity,-17.5,normal
+Equity,-17.5,normal
+Fixed Income,-17.5,normal
+Fixed Income,-17.5,normal
+Equity,-17.6,normal
+Equity,-17.6,normal
+Fixed Income,-17.6,normal
+Fixed Income,-17.7,normal
+Equity,-17.8,normal
+Equity,-17.8,normal
+Equity,-17.8,normal
+Equity,-17.8,normal
+Equity,-17.9,normal
+Equity,-17.9,normal
+Equity,-17.9,normal
+Equity,-18,normal
+Equity,-18,normal
+Fixed Income,-18,normal
+Equity,-18.1,normal
+Equity,-18.1,normal
+Equity,-18.1,normal
+Fixed Income,-18.1,normal
+Equity,-18.2,normal
+Equity,-18.2,normal
+Equity,-18.2,normal
+Equity,-18.2,normal
+Equity,-18.2,normal
+Equity,-18.3,normal
+Equity,-18.3,normal
+Equity,-18.3,normal
+Equity,-18.3,normal
+Equity,-18.3,normal
+Equity,-18.4,normal
+Equity,-18.4,normal
+Equity,-18.4,normal
+Equity,-18.4,normal
+Equity,-18.4,normal
+Equity,-18.4,normal
+Equity,-18.5,normal
+Equity,-18.5,normal
+Equity,-18.5,normal
+Equity,-18.5,normal
+Equity,-18.5,normal
+Equity,-18.5,normal
+Equity,-18.5,normal
+Fixed Income,-18.5,normal
+Equity,-18.6,normal
+Commodities,-18.7,normal
+Equity,-18.7,normal
+Equity,-18.7,normal
+Equity,-18.7,normal
+Equity,-18.7,normal
+Equity,-18.7,normal
+Fixed Income,-18.7,normal
+Equity,-18.8,normal
+Equity,-18.8,normal
+Equity,-18.8,normal
+Equity,-18.8,normal
+Equity,-18.8,normal
+Equity,-18.9,normal
+Equity,-18.9,normal
+Equity,-18.9,normal
+Fixed Income,-18.9,normal
+Fixed Income,-18.9,normal
+Commodities,-19,normal
+Equity,-19,normal
+Equity,-19,normal
+Equity,-19,normal
+Equity,-19.1,normal
+Equity,-19.1,normal
+Fixed Income,-19.1,normal
+Equity,-19.2,normal
+Equity,-19.2,normal
+Equity,-19.2,normal
+Equity,-19.2,normal
+Equity,-19.2,normal
+Fixed Income,-19.2,normal
+Commodities,-19.3,normal
+Equity,-19.3,normal
+Equity,-19.3,normal
+Equity,-19.3,normal
+Equity,-19.3,normal
+Equity,-19.4,normal
+Equity,-19.4,normal
+Equity,-19.4,normal
+Fixed Income,-19.4,normal
+Fixed Income,-19.4,normal
+Equity,-19.5,normal
+Equity,-19.5,normal
+Equity,-19.5,normal
+Equity,-19.5,normal
+Equity,-19.5,normal
+Equity,-19.5,normal
+Equity,-19.5,normal
+Equity,-19.6,normal
+Equity,-19.6,normal
+Equity,-19.6,normal
+Equity,-19.6,normal
+Fixed Income,-19.6,normal
+Equity,-19.7,normal
+Equity,-19.7,normal
+Equity,-19.7,normal
+Fixed Income,-19.7,normal
+Alternatives,-19.8,normal
+Equity,-19.8,normal
+Equity,-19.8,normal
+Equity,-19.8,normal
+Fixed Income,-19.8,normal
+Equity,-19.9,normal
+Equity,-19.9,normal
+Equity,-19.9,normal
+Equity,-19.9,normal
+Equity,-19.9,normal
+Equity,-19.9,normal
+Equity,-20,normal
+Equity,-20,normal
+Equity,-20,normal
+Equity,-20,normal
+Equity,-20,normal
+Equity,-20.1,normal
+Equity,-20.1,normal
+Equity,-20.1,normal
+Equity,-20.1,normal
+Equity,-20.1,normal
+Equity,-20.1,normal
+Equity,-20.2,normal
+Fixed Income,-20.2,normal
+Equity,-20.3,normal
+Equity,-20.3,normal
+Equity,-20.3,normal
+Equity,-20.3,normal
+Equity,-20.3,normal
+Equity,-20.4,normal
+Equity,-20.4,normal
+Equity,-20.5,normal
+Equity,-20.5,normal
+Fixed Income,-20.5,normal
+Equity,-20.6,normal
+Equity,-20.6,normal
+Commodities,-20.7,normal
+Commodities,-20.7,normal
+Equity,-20.7,normal
+Equity,-20.7,normal
+Equity,-20.7,normal
+Equity,-20.7,normal
+Equity,-20.7,normal
+Equity,-20.7,normal
+Equity,-20.8,normal
+Equity,-20.8,normal
+Equity,-20.8,normal
+Equity,-20.9,normal
+Fixed Income,-20.9,normal
+Equity,-21,normal
+Equity,-21,normal
+Fixed Income,-21,normal
+Equity,-21.1,normal
+Equity,-21.1,normal
+Equity,-21.1,normal
+Equity,-21.1,normal
+Commodities,-21.2,normal
+Equity,-21.2,normal
+Equity,-21.2,normal
+Equity,-21.2,normal
+Equity,-21.3,normal
+Equity,-21.3,normal
+Equity,-21.4,normal
+Equity,-21.4,normal
+Fixed Income,-21.4,normal
+Fixed Income,-21.4,normal
+Equity,-21.5,normal
+Equity,-21.6,normal
+Equity,-21.6,normal
+Equity,-21.6,normal
+Equity,-21.6,normal
+Equity,-21.7,normal
+Equity,-21.7,normal
+Equity,-21.8,normal
+Equity,-21.8,normal
+Equity,-21.8,normal
+Equity,-21.8,normal
+Equity,-21.9,normal
+Commodities,-22,normal
+Equity,-22,normal
+Equity,-22,normal
+Equity,-22.1,normal
+Equity,-22.2,normal
+Alternatives,-22.3,normal
+Alternatives,-22.3,normal
+Commodities,-22.3,normal
+Commodities,-22.3,normal
+Equity,-22.3,normal
+Equity,-22.3,normal
+Equity,-22.4,normal
+Equity,-22.4,normal
+Equity,-22.4,normal
+Equity,-22.4,normal
+Equity,-22.5,normal
+Equity,-22.5,normal
+Equity,-22.5,normal
+Equity,-22.5,normal
+Equity,-22.6,normal
+Equity,-22.6,normal
+Equity,-22.6,normal
+Equity,-22.6,normal
+Commodities,-22.7,normal
+Equity,-22.7,normal
+Alternatives,-22.8,normal
+Commodities,-22.8,normal
+Equity,-22.8,normal
+Equity,-22.9,normal
+Equity,-22.9,normal
+Equity,-22.9,normal
+Commodities,-23,normal
+Equity,-23.1,normal
+Equity,-23.1,normal
+Equity,-23.1,normal
+Equity,-23.1,normal
+Commodities,-23.2,normal
+Equity,-23.2,normal
+Equity,-23.2,normal
+Equity,-23.3,normal
+Equity,-23.3,normal
+Equity,-23.3,normal
+Equity,-23.3,normal
+Equity,-23.3,normal
+Equity,-23.4,normal
+Equity,-23.4,normal
+Equity,-23.4,normal
+Equity,-23.4,normal
+Equity,-23.5,normal
+Equity,-23.5,normal
+Equity,-23.5,normal
+Equity,-23.5,normal
+Equity,-23.5,normal
+Equity,-23.5,normal
+Equity,-23.5,normal
+Equity,-23.5,normal
+Equity,-23.5,normal
+Fixed Income,-23.5,normal
+Equity,-23.6,normal
+Equity,-23.6,normal
+Equity,-23.6,normal
+Equity,-23.6,normal
+Equity,-23.6,normal
+Equity,-23.6,normal
+Equity,-23.7,normal
+Equity,-23.7,normal
+Equity,-23.7,normal
+Equity,-23.7,normal
+Equity,-23.8,normal
+Equity,-23.8,normal
+Equity,-23.8,normal
+Equity,-23.9,normal
+Equity,-23.9,normal
+Equity,-23.9,normal
+Equity,-23.9,normal
+Equity,-23.9,normal
+Equity,-24,normal
+Equity,-24,normal
+Fixed Income,-24,normal
+Commodities,-24.1,normal
+Equity,-24.1,normal
+Equity,-24.1,normal
+Equity,-24.2,normal
+Equity,-24.2,normal
+Equity,-24.2,normal
+Equity,-24.2,normal
+Equity,-24.3,normal
+Equity,-24.3,normal
+Fixed Income,-24.3,normal
+Equity,-24.4,normal
+Equity,-24.4,normal
+Equity,-24.4,normal
+Equity,-24.4,normal
+Equity,-24.4,normal
+Equity,-24.4,normal
+Equity,-24.4,normal
+Equity,-24.4,normal
+Commodities,-24.5,normal
+Commodities,-24.5,normal
+Equity,-24.5,normal
+Equity,-24.5,normal
+Equity,-24.5,normal
+Equity,-24.5,normal
+Equity,-24.6,normal
+Equity,-24.6,normal
+Equity,-24.6,normal
+Equity,-24.6,normal
+Equity,-24.6,normal
+Equity,-24.6,normal
+Equity,-24.7,normal
+Fixed Income,-24.7,normal
+Equity,-24.8,normal
+Equity,-24.8,normal
+Equity,-24.8,normal
+Equity,-25,normal
+Equity,-25,normal
+Equity,-25,normal
+Equity,-25,normal
+Equity,-25.1,normal
+Fixed Income,-25.1,normal
+Equity,-25.2,normal
+Equity,-25.2,normal
+Equity,-25.2,normal
+Equity,-25.3,normal
+Equity,-25.3,normal
+Equity,-25.4,normal
+Equity,-25.4,normal
+Equity,-25.4,normal
+Equity,-25.5,normal
+Equity,-25.5,normal
+Equity,-25.5,normal
+Fixed Income,-25.5,normal
+Equity,-25.6,normal
+Equity,-25.6,normal
+Equity,-25.6,normal
+Equity,-25.6,normal
+Equity,-25.7,normal
+Equity,-25.8,normal
+Equity,-25.8,normal
+Equity,-25.8,normal
+Equity,-25.8,normal
+Equity,-25.8,normal
+Equity,-25.8,normal
+Equity,-25.9,normal
+Equity,-25.9,normal
+Equity,-25.9,normal
+Equity,-25.9,normal
+Equity,-25.9,normal
+Equity,-25.9,normal
+Equity,-25.9,normal
+Equity,-25.9,normal
+Equity,-25.9,normal
+Equity,-26,normal
+Equity,-26,normal
+Equity,-26,normal
+Equity,-26,normal
+Equity,-26.1,normal
+Equity,-26.1,normal
+Equity,-26.1,normal
+Equity,-26.1,normal
+Equity,-26.2,normal
+Equity,-26.2,normal
+Equity,-26.2,normal
+Equity,-26.2,normal
+Equity,-26.3,normal
+Equity,-26.3,normal
+Equity,-26.3,normal
+Equity,-26.4,normal
+Equity,-26.4,normal
+Equity,-26.4,normal
+Equity,-26.4,normal
+Equity,-26.4,normal
+Fixed Income,-26.4,normal
+Equity,-26.5,normal
+Equity,-26.5,normal
+Equity,-26.6,normal
+Equity,-26.6,normal
+Equity,-26.8,normal
+Equity,-26.8,normal
+Equity,-26.8,normal
+Equity,-26.8,normal
+Equity,-26.9,normal
+Equity,-26.9,normal
+Equity,-26.9,normal
+Equity,-26.9,normal
+Equity,-27,normal
+Equity,-27,normal
+Equity,-27,normal
+Equity,-27.1,normal
+Equity,-27.1,normal
+Equity,-27.1,normal
+Equity,-27.2,normal
+Equity,-27.2,normal
+Equity,-27.2,normal
+Equity,-27.2,normal
+Equity,-27.2,normal
+Commodities,-27.3,normal
+Equity,-27.3,normal
+Equity,-27.4,normal
+Equity,-27.4,normal
+Equity,-27.5,normal
+Equity,-27.5,normal
+Equity,-27.5,normal
+Equity,-27.6,normal
+Equity,-27.6,normal
+Equity,-27.6,normal
+Alternatives,-27.7,normal
+Equity,-27.7,normal
+Equity,-27.7,normal
+Equity,-27.7,normal
+Equity,-27.8,normal
+Equity,-27.8,normal
+Equity,-27.8,normal
+Equity,-27.8,normal
+Equity,-27.9,normal
+Equity,-27.9,normal
+Equity,-28,normal
+Equity,-28.1,normal
+Equity,-28.1,normal
+Equity,-28.1,normal
+Equity,-28.1,normal
+Equity,-28.1,normal
+Equity,-28.1,normal
+Alternatives,-28.2,normal
+Alternatives,-28.2,normal
+Equity,-28.2,normal
+Equity,-28.2,normal
+Equity,-28.2,normal
+Equity,-28.2,normal
+Commodities,-28.3,normal
+Commodities,-28.3,normal
+Commodities,-28.3,normal
+Equity,-28.3,normal
+Equity,-28.3,normal
+Equity,-28.3,normal
+Equity,-28.4,normal
+Equity,-28.4,normal
+Equity,-28.5,normal
+Equity,-28.5,normal
+Equity,-28.5,normal
+Equity,-28.5,normal
+Equity,-28.6,normal
+Fixed Income,-28.6,normal
+Equity,-28.7,normal
+Equity,-28.7,normal
+Equity,-28.8,normal
+Equity,-28.8,normal
+Equity,-28.9,normal
+Equity,-28.9,normal
+Equity,-28.9,normal
+Equity,-29,normal
+Equity,-29,normal
+Commodities,-29.1,normal
+Equity,-29.1,normal
+Commodities,-29.2,normal
+Equity,-29.2,normal
+Equity,-29.3,normal
+Equity,-29.3,normal
+Equity,-29.3,normal
+Equity,-29.3,normal
+Equity,-29.3,normal
+Equity,-29.4,normal
+Commodities,-29.5,normal
+Equity,-29.5,normal
+Equity,-29.5,normal
+Commodities,-29.6,normal
+Equity,-29.6,normal
+Equity,-29.6,normal
+Equity,-29.6,normal
+Equity,-29.6,normal
+Equity,-29.7,normal
+Equity,-29.7,normal
+Equity,-29.7,normal
+Equity,-29.7,normal
+Equity,-29.8,normal
+Equity,-29.8,normal
+Equity,-29.8,normal
+Equity,-29.9,normal
+Equity,-30,normal
+Equity,-30,normal
+Equity,-30.1,normal
+Equity,-30.2,normal
+Equity,-30.2,normal
+Commodities,-30.3,normal
+Equity,-30.3,normal
+Equity,-30.3,normal
+Equity,-30.3,normal
+Equity,-30.3,normal
+Equity,-30.3,normal
+Equity,-30.4,normal
+Equity,-30.5,normal
+Equity,-30.5,normal
+Equity,-30.5,normal
+Equity,-30.5,normal
+Equity,-30.5,normal
+Commodities,-30.7,normal
+Equity,-30.7,normal
+Equity,-30.7,normal
+Commodities,-30.8,normal
+Equity,-30.8,normal
+Equity,-31.1,normal
+Equity,-31.1,normal
+Equity,-31.2,normal
+Equity,-31.2,normal
+Equity,-31.3,normal
+Commodities,-31.4,normal
+Equity,-31.4,normal
+Equity,-31.5,normal
+Equity,-31.6,normal
+Alternatives,-31.7,normal
+Commodities,-31.7,normal
+Equity,-31.7,normal
+Equity,-31.7,normal
+Equity,-31.7,normal
+Equity,-31.7,normal
+Alternatives,-31.8,normal
+Equity,-31.9,normal
+Equity,-31.9,normal
+Equity,-31.9,normal
+Equity,-32.1,normal
+Equity,-32.3,normal
+Equity,-32.4,normal
+Equity,-32.4,normal
+Commodities,-32.5,normal
+Commodities,-32.5,normal
+Equity,-32.5,normal
+Equity,-32.5,normal
+Equity,-32.6,normal
+Equity,-32.7,normal
+Equity,-32.8,normal
+Equity,-32.8,normal
+Equity,-32.9,normal
+Equity,-32.9,normal
+Equity,-32.9,normal
+Commodities,-33,normal
+Commodities,-33.1,normal
+Equity,-33.3,normal
+Equity,-33.3,normal
+Equity,-33.4,normal
+Equity,-33.4,normal
+Equity,-33.5,normal
+Equity,-33.6,normal
+Equity,-33.6,normal
+Equity,-33.7,normal
+Equity,-33.8,normal
+Equity,-33.8,normal
+Commodities,-34,normal
+Equity,-34,normal
+Equity,-34.1,normal
+Equity,-34.4,normal
+Equity,-34.5,normal
+Equity,-34.5,normal
+Equity,-34.5,normal
+Equity,-34.6,normal
+Equity,-34.6,normal
+Equity,-34.6,normal
+Equity,-34.6,normal
+Equity,-34.6,normal
+Equity,-34.8,normal
+Equity,-34.8,normal
+Commodities,-34.9,normal
+Equity,-35,normal
+Equity,-35,normal
+Equity,-35,normal
+Fixed Income,-35.1,normal
+Commodities,-35.2,normal
+Equity,-35.2,normal
+Equity,-35.2,normal
+Equity,-35.3,normal
+Equity,-35.3,normal
+Equity,-35.3,normal
+Equity,-35.3,normal
+Equity,-35.6,normal
+Equity,-35.6,normal
+Equity,-35.6,normal
+Equity,-35.7,normal
+Equity,-35.9,normal
+Equity,-35.9,normal
+Equity,-35.9,normal
+Equity,-35.9,normal
+Commodities,-36.2,normal
+Equity,-36.4,normal
+Equity,-36.4,normal
+Equity,-36.5,normal
+Equity,-36.5,normal
+Equity,-36.5,normal
+Equity,-36.5,normal
+Equity,-36.6,normal
+Equity,-36.6,normal
+Equity,-36.7,normal
+Equity,-36.7,normal
+Equity,-36.8,normal
+Commodities,-36.9,normal
+Equity,-36.9,normal
+Fixed Income,-36.9,normal
+Equity,-37,normal
+Equity,-37,normal
+Equity,-37,normal
+Equity,-37,normal
+Equity,-37.1,normal
+Equity,-37.1,normal
+Equity,-37.2,normal
+Equity,-37.3,normal
+Equity,-37.4,normal
+Equity,-37.4,normal
+Equity,-37.6,normal
+Equity,-37.7,normal
+Equity,-37.7,normal
+Fixed Income,-37.7,normal
+Equity,-37.8,normal
+Equity,-37.8,normal
+Equity,-37.8,normal
+Equity,-37.9,normal
+Equity,-38,normal
+Equity,-38.2,normal
+Equity,-38.2,normal
+Equity,-38.3,normal
+Equity,-38.4,normal
+Equity,-38.4,normal
+Equity,-38.4,normal
+Equity,-38.4,normal
+Equity,-38.5,normal
+Equity,-38.6,normal
+Equity,-38.7,normal
+Equity,-38.7,normal
+Equity,-38.8,normal
+Equity,-38.9,normal
+Equity,-38.9,normal
+Equity,-39,normal
+Equity,-39,normal
+Equity,-39,normal
+Equity,-39.2,normal
+Equity,-39.3,normal
+Equity,-39.3,normal
+Equity,-39.4,normal
+Equity,-39.5,normal
+Equity,-39.6,normal
+Equity,-39.7,normal
+Equity,-39.8,normal
+Equity,-39.9,normal
+Equity,-39.9,normal
+Equity,-39.9,normal
+Equity,-39.9,normal
+Commodities,-40.1,normal
+Equity,-40.1,normal
+Equity,-40.2,normal
+Equity,-40.3,normal
+Commodities,-40.4,normal
+Commodities,-40.5,normal
+Equity,-40.5,normal
+Commodities,-40.6,normal
+Equity,-40.6,normal
+Equity,-40.6,normal
+Equity,-40.7,normal
+Equity,-40.7,normal
+Equity,-40.7,normal
+Equity,-40.7,normal
+Equity,-40.7,normal
+Equity,-40.8,normal
+Equity,-40.9,normal
+Equity,-40.9,normal
+Equity,-40.9,normal
+Equity,-40.9,normal
+Equity,-41,normal
+Equity,-41,normal
+Equity,-41,normal
+Equity,-41,normal
+Equity,-41.1,normal
+Equity,-41.1,normal
+Equity,-41.1,normal
+Equity,-41.2,normal
+Equity,-41.2,normal
+Equity,-41.3,normal
+Equity,-41.3,normal
+Equity,-41.4,normal
+Equity,-41.4,normal
+Alternatives,-41.5,normal
+Equity,-41.6,normal
+Equity,-41.7,normal
+Alternatives,-41.8,normal
+Equity,-41.8,normal
+Commodities,-42,normal
+Equity,-42,normal
+Equity,-42,normal
+Equity,-42.1,normal
+Equity,-42.1,normal
+Commodities,-42.2,normal
+Equity,-42.2,normal
+Equity,-42.5,normal
+Equity,-42.5,normal
+Equity,-42.6,normal
+Equity,-42.6,normal
+Equity,-42.6,normal
+Equity,-42.6,normal
+Equity,-42.7,normal
+Equity,-42.7,normal
+Equity,-42.7,normal
+Equity,-42.7,normal
+Equity,-42.7,normal
+Equity,-42.7,normal
+Equity,-42.8,normal
+Equity,-42.9,normal
+Equity,-43,normal
+Equity,-43,normal
+Equity,-43.1,normal
+Equity,-43.1,normal
+Equity,-43.1,normal
+Equity,-43.1,normal
+Equity,-43.1,normal
+Equity,-43.1,normal
+Commodities,-43.2,normal
+Equity,-43.2,normal
+Equity,-43.2,normal
+Equity,-43.3,normal
+Equity,-43.3,normal
+Equity,-43.4,normal
+Equity,-43.4,normal
+Equity,-43.4,normal
+Equity,-43.5,normal
+Equity,-43.5,normal
+Equity,-43.6,normal
+Equity,-43.6,normal
+Equity,-43.7,normal
+Equity,-43.7,normal
+Equity,-43.7,normal
+Equity,-43.7,normal
+Equity,-43.7,normal
+Equity,-43.7,normal
+Equity,-43.7,normal
+Equity,-43.9,normal
+Equity,-44,normal
+Equity,-44,normal
+Equity,-44,normal
+Equity,-44,normal
+Equity,-44.1,normal
+Equity,-44.2,normal
+Equity,-44.2,normal
+Equity,-44.2,normal
+Equity,-44.3,normal
+Equity,-44.3,normal
+Equity,-44.4,normal
+Equity,-44.4,normal
+Equity,-44.4,normal
+Equity,-44.4,normal
+Equity,-44.4,normal
+Equity,-44.4,normal
+Equity,-44.4,normal
+Equity,-44.5,normal
+Equity,-44.6,normal
+Equity,-44.6,normal
+Equity,-44.6,normal
+Equity,-44.6,normal
+Equity,-44.7,normal
+Equity,-44.7,normal
+Equity,-44.7,normal
+Equity,-44.7,normal
+Equity,-44.8,normal
+Equity,-44.8,normal
+Equity,-44.9,normal
+Fixed Income,-44.9,normal
+Equity,-45,normal
+Equity,-45,normal
+Equity,-45.1,normal
+Equity,-45.1,normal
+Equity,-45.2,normal
+Equity,-45.3,normal
+Equity,-45.3,normal
+Equity,-45.3,normal
+Commodities,-45.4,normal
+Equity,-45.5,normal
+Equity,-45.6,normal
+Equity,-45.6,normal
+Equity,-45.6,normal
+Equity,-45.6,normal
+Equity,-45.7,normal
+Equity,-45.7,normal
+Equity,-45.7,normal
+Equity,-45.7,normal
+Equity,-45.7,normal
+Equity,-45.9,normal
+Equity,-45.9,normal
+Equity,-45.9,normal
+Fixed Income,-45.9,normal
+Equity,-46,normal
+Equity,-46,normal
+Equity,-46.1,normal
+Equity,-46.1,normal
+Equity,-46.1,normal
+Commodities,-46.2,normal
+Equity,-46.2,normal
+Equity,-46.2,normal
+Equity,-46.3,normal
+Equity,-46.4,normal
+Equity,-46.4,normal
+Equity,-46.7,normal
+Equity,-46.7,normal
+Equity,-46.7,normal
+Equity,-46.7,normal
+Equity,-46.7,normal
+Equity,-46.7,normal
+Equity,-46.8,normal
+Equity,-46.8,normal
+Equity,-46.9,normal
+Equity,-46.9,normal
+Equity,-46.9,normal
+Commodities,-47.2,normal
+Equity,-47.2,normal
+Equity,-47.2,normal
+Equity,-47.2,normal
+Equity,-47.2,normal
+Commodities,-47.3,normal
+Equity,-47.4,normal
+Equity,-47.4,normal
+Commodities,-47.5,normal
+Equity,-47.5,normal
+Equity,-47.5,normal
+Equity,-47.5,normal
+Equity,-47.5,normal
+Equity,-47.6,normal
+Equity,-47.6,normal
+Equity,-47.6,normal
+Equity,-47.6,normal
+Equity,-47.7,normal
+Equity,-47.7,normal
+Equity,-47.9,normal
+Equity,-47.9,normal
+Equity,-48,normal
+Equity,-48,normal
+Equity,-48,normal
+Equity,-48.1,normal
+Equity,-48.1,normal
+Equity,-48.1,normal
+Equity,-48.1,normal
+Equity,-48.1,normal
+Equity,-48.2,normal
+Equity,-48.2,normal
+Commodities,-48.3,normal
+Equity,-48.3,normal
+Equity,-48.3,normal
+Equity,-48.3,normal
+Equity,-48.3,normal
+Equity,-48.3,normal
+Commodities,-48.4,normal
+Equity,-48.4,normal
+Equity,-48.4,normal
+Equity,-48.4,normal
+Equity,-48.4,normal
+Equity,-48.6,normal
+Equity,-48.6,normal
+Commodities,-48.7,normal
+Equity,-48.7,normal
+Equity,-48.8,normal
+Equity,-48.8,normal
+Equity,-48.8,normal
+Equity,-49,normal
+Equity,-49.1,normal
+Equity,-49.1,normal
+Equity,-49.2,normal
+Commodities,-49.3,normal
+Equity,-49.4,normal
+Fixed Income,-49.4,normal
+Commodities,-49.5,normal
+Equity,-49.5,normal
+Equity,-49.6,normal
+Equity,-49.7,normal
+Equity,-49.7,normal
+Equity,-49.8,normal
+Equity,-49.9,normal
+Equity,-49.9,normal
+Equity,-49.9,normal
+Equity,-49.9,normal
+Equity,-50,normal
+Equity,-50.1,normal
+Equity,-50.1,normal
+Equity,-50.2,normal
+Equity,-50.3,normal
+Equity,-50.3,normal
+Equity,-50.3,normal
+Equity,-50.4,normal
+Equity,-50.4,normal
+Equity,-50.5,normal
+Equity,-50.6,normal
+Equity,-50.7,normal
+Equity,-50.7,normal
+Equity,-50.9,normal
+Equity,-50.9,normal
+Equity,-51,normal
+Commodities,-51.1,normal
+Equity,-51.1,normal
+Equity,-51.2,normal
+Equity,-51.2,normal
+Commodities,-51.5,normal
+Equity,-51.5,normal
+Equity,-51.5,normal
+Equity,-51.5,normal
+Equity,-51.6,normal
+Equity,-51.6,normal
+Equity,-51.7,normal
+Equity,-51.7,normal
+Equity,-51.7,normal
+Equity,-51.7,normal
+Equity,-51.8,normal
+Equity,-51.8,normal
+Equity,-51.9,normal
+Equity,-52,normal
+Equity,-52,normal
+Equity,-52.1,normal
+Equity,-52.2,normal
+Equity,-52.3,normal
+Equity,-52.4,normal
+Equity,-52.5,normal
+Equity,-52.5,normal
+Equity,-52.6,normal
+Equity,-52.6,normal
+Equity,-52.7,normal
+Equity,-52.7,normal
+Equity,-52.7,normal
+Equity,-52.8,normal
+Equity,-52.9,normal
+Equity,-52.9,normal
+Equity,-53,normal
+Equity,-53,normal
+Equity,-53.1,normal
+Equity,-53.1,normal
+Equity,-53.1,normal
+Equity,-53.4,normal
+Equity,-53.4,normal
+Equity,-53.4,normal
+Equity,-53.4,normal
+Equity,-53.4,normal
+Commodities,-53.5,normal
+Equity,-53.5,normal
+Equity,-53.6,normal
+Equity,-53.7,normal
+Equity,-53.7,normal
+Equity,-54,normal
+Commodities,-54.2,normal
+Equity,-54.2,normal
+Equity,-54.2,normal
+Equity,-54.2,normal
+Equity,-54.3,normal
+Equity,-54.4,normal
+Equity,-54.4,normal
+Equity,-54.4,normal
+Commodities,-54.5,normal
+Equity,-54.6,normal
+Commodities,-54.7,normal
+Equity,-54.7,normal
+Equity,-54.8,normal
+Equity,-54.9,normal
+Equity,-54.9,normal
+Equity,-55,normal
+Commodities,-55.1,normal
+Equity,-55.1,normal
+Equity,-55.1,normal
+Equity,-55.3,normal
+Equity,-55.3,normal
+Equity,-55.3,normal
+Equity,-55.4,normal
+Equity,-55.4,normal
+Equity,-55.5,normal
+Equity,-55.6,normal
+Equity,-55.6,normal
+Equity,-55.6,normal
+Commodities,-55.7,normal
+Equity,-55.7,normal
+Equity,-55.7,normal
+Equity,-55.7,normal
+Equity,-55.8,normal
+Equity,-55.8,normal
+Commodities,-55.9,normal
+Equity,-56,normal
+Equity,-56.3,normal
+Equity,-56.3,normal
+Equity,-56.3,normal
+Equity,-56.3,normal
+Commodities,-56.4,normal
+Equity,-56.4,normal
+Equity,-56.5,normal
+Equity,-56.5,normal
+Equity,-56.5,normal
+Equity,-56.5,normal
+Equity,-56.6,normal
+Equity,-56.6,normal
+Commodities,-56.7,normal
+Commodities,-56.8,normal
+Equity,-56.8,normal
+Equity,-56.9,normal
+Equity,-56.9,normal
+Equity,-56.9,normal
+Equity,-57,normal
+Equity,-57,normal
+Equity,-57.1,normal
+Equity,-57.2,normal
+Equity,-57.2,normal
+Equity,-57.3,normal
+Equity,-57.4,normal
+Equity,-57.4,normal
+Equity,-57.5,normal
+Equity,-57.6,normal
+Equity,-57.7,normal
+Equity,-57.7,normal
+Equity,-57.7,normal
+Equity,-57.8,normal
+Fixed Income,-57.8,normal
+Equity,-57.9,normal
+Equity,-58,normal
+Equity,-58,normal
+Commodities,-58.2,normal
+Equity,-58.2,normal
+Equity,-58.4,normal
+Equity,-58.6,normal
+Equity,-58.6,normal
+Equity,-58.6,normal
+Fixed Income,-59,normal
+Alternatives,-59.1,normal
+Equity,-59.1,normal
+Equity,-59.8,normal
+Equity,-59.8,normal
+Equity,-59.8,normal
+Equity,-59.9,normal
+Equity,-60,normal
+Equity,-60.2,normal
+Commodities,-60.3,normal
+Equity,-60.3,normal
+Commodities,-60.4,normal
+Equity,-60.4,normal
+Equity,-60.5,normal
+Equity,-60.5,normal
+Equity,-60.6,normal
+Equity,-60.7,normal
+Equity,-60.7,normal
+Equity,-60.7,normal
+Equity,-60.8,normal
+Equity,-60.9,normal
+Equity,-60.9,normal
+Equity,-61.1,normal
+Equity,-61.1,normal
+Equity,-61.2,normal
+Equity,-61.2,normal
+Equity,-61.3,normal
+Equity,-61.3,normal
+Equity,-61.5,normal
+Equity,-61.6,normal
+Commodities,-61.7,normal
+Equity,-61.7,normal
+Equity,-61.9,normal
+Equity,-61.9,normal
+Equity,-62,normal
+Equity,-62.1,normal
+Equity,-62.2,normal
+Equity,-62.2,normal
+Equity,-62.3,normal
+Equity,-62.3,normal
+Equity,-62.3,normal
+Equity,-62.7,normal
+Equity,-62.7,normal
+Equity,-62.9,normal
+Equity,-63.1,normal
+Equity,-63.2,normal
+Equity,-63.2,normal
+Equity,-63.5,normal
+Equity,-63.6,normal
+Equity,-63.7,normal
+Alternatives,-63.9,normal
+Equity,-63.9,normal
+Equity,-64,normal
+Equity,-64.5,normal
+Equity,-64.6,normal
+Equity,-64.7,normal
+Equity,-64.9,normal
+Commodities,-65,normal
+Equity,-65.1,normal
+Equity,-65.1,normal
+Equity,-65.2,normal
+Equity,-65.2,normal
+Equity,-65.5,normal
+Equity,-65.5,normal
+Commodities,-65.6,normal
+Commodities,-65.6,normal
+Equity,-65.6,normal
+Equity,-65.7,normal
+Equity,-65.8,normal
+Commodities,-66,normal
+Commodities,-66.3,normal
+Equity,-66.3,normal
+Fixed Income,-66.4,normal
+Equity,-66.8,normal
+Commodities,-67.4,normal
+Equity,-67.4,normal
+Equity,-67.4,normal
+Equity,-67.6,normal
+Commodities,-67.8,normal
+Equity,-68.3,normal
+Equity,-68.7,normal
+Equity,-68.8,normal
+Equity,-68.9,normal
+Equity,-68.9,normal
+Equity,-69.1,normal
+Equity,-69.2,normal
+Equity,-69.2,normal
+Commodities,-69.3,normal
+Equity,-69.3,normal
+Commodities,-70.1,normal
+Equity,-70.1,normal
+Equity,-70.6,normal
+Equity,-71.7,normal
+Equity,-72.3,normal
+Equity,-73.2,normal
+Equity,-74,normal
+Alternatives,-75.6,normal
+Equity,-76,normal
+Equity,-76.2,normal
+Equity,-76.5,normal
+Equity,-76.5,normal
+Equity,-76.7,normal
+Equity,-77.4,normal
+Commodities,-78,normal
+Commodities,-78.6,normal
+Commodities,-78.7,normal
+Equity,-79.7,normal
+Alternatives,-79.8,normal
+Commodities,-80.2,normal
+Equity,-80.4,normal
+Equity,-81.9,normal
+Commodities,-82,normal
+Alternatives,-83.2,normal
+Commodities,-85.7,normal
+Alternatives,-87.9,normal
+Commodities,-88.5,normal
+Commodities,-94.1,normal
+Commodities,-96.2,normal
+Alternatives,-98.3,normal
+Alternatives,-100,normal
+Alternatives,-100,normal
+Commodities,-100,normal
+Commodities,-100,normal
+Commodities,-100,normal
+Commodities,-100,normal
+Commodities,-100,normal
+Commodities,-100,normal
+Commodities,-100,normal
+Commodities,-100,normal
+Commodities,-100,normal
+Commodities,-100,normal
+Commodities,-100,normal
+Commodities,-100,normal
+Commodities,-100,normal
+Commodities,-100,normal
+Commodities,-100,normal
+Commodities,-100,normal
+Commodities,-100,normal
+Commodities,-100,normal
+Commodities,-100,normal
+Commodities,-100,normal
+Equity,-100,normal
+Equity,-100,normal
+Equity,-100,normal
+Equity,-100,normal
+Equity,-100,normal
+Equity,-100,normal
+Equity,-100,normal
+Equity,-100,normal
+Equity,-100,normal
+Equity,-100,normal
+Equity,-100,normal
+Equity,-100,normal
+Equity,-100,normal
+Equity,-100,normal
+Equity,-100,normal
+Equity,-100,normal
+Equity,-100,normal
+Equity,-100,normal
+Equity,-100,normal
+Equity,-100,normal
+Fixed Income,-100,normal
+Fixed Income,-100,normal
+Fixed Income,-100,normal
+Fixed Income,-100,normal
